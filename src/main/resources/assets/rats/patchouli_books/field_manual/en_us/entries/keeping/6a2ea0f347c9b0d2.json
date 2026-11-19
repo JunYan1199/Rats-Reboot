@@ -1,0 +1,24 @@
+{
+ "name": "第一章毕业：合格的鼠主人",
+ "icon": "rats:rat_upgrade_basic",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "恭喜！你已经会：找到老鼠、让猫帮你抓、手喂奶酪驯服、下命令、喂饱、安家、复活和繁育。$(br2)自查清单：$(br2)• 至少有一只驯服的老鼠，绑定了房屋；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 附近有奶酪喂食器，奶酪来源稳定；$(br2)• 知道怎么用奶酪魔杖设置存入/提取容器。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "下一章「升级与自动化」会逐个介绍全部功能升级。奖励里的老鼠升级：基础 就是一切升级的底子。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/basic_upgrade"
+  }
+ ],
+ "sortnum": 63
+}

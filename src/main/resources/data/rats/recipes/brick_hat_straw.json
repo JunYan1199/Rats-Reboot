@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WRW"
+  ],
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "R": { "item": "minecraft:red_dye" }
+  },
+  "result": {
+    "item": "rats:brick_hat_straw"
+  }
+}

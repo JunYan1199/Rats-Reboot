@@ -1,0 +1,16 @@
+{
+ "name": "熟鼠肉",
+ "icon": "rats:cooked_rat",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：烤熟的鼠肉，比生的更顶饱。$(br2)有什么用：两片面包夹一块就是鼠汉堡（第四章图鉴）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】营火烤制：生鼠肉；熔炉烧炼：生鼠肉；熔炉烧炼：老鼠“坨坨”（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 6
+}

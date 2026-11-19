@@ -1,0 +1,12 @@
+{
+ "name": "垃圾与鼠患",
+ "icon": "rats:garbage_pile",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "想要稳定的老鼠来源？自己造一个「老鼠农场」：垃圾堆上会不断刷出老鼠。"
+  }
+ ],
+ "sortnum": 7
+}

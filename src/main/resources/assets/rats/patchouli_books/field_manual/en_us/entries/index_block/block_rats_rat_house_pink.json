@@ -1,0 +1,17 @@
+{
+ "name": "粉红色老鼠房屋",
+ "icon": "rats:rat_house_pink",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house_pink",
+   "text": "登记名：$(br)rats:rat_house_pink"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_pink"
+  }
+ ],
+ "sortnum": 92
+}

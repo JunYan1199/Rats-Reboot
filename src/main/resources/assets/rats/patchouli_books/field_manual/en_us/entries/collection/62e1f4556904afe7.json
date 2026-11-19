@@ -1,0 +1,16 @@
+{
+ "name": "鼠盗帽",
+ "icon": "rats:pirat_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠盗帽：海盗升级、降灵的材料。$(br2)【材料来源】工作台合成：皮革帽子 + 鹦鹉螺壳；让带「考古学家」升级的老鼠研究：魔笛人帽（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_hat"
+  }
+ ],
+ "sortnum": 12
+}

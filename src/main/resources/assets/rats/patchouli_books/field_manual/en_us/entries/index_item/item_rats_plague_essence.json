@@ -1,0 +1,25 @@
+{
+ "name": "瘟疫源质",
+ "icon": "rats:plague_essence",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:plague_essence",
+   "text": "疫鼠的稀有掉落物$(br2)玩法：$(l:collection/1488de4eb97d26cd)瘟疫与治疗$(/l)$(br2)登记名：$(br)rats:plague_essence"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:scythe_to_essence"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：野鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：有害垃圾、瘟疫博士学位、净化液、老鼠范围魔杖、老鼠升级：野兽坐骑、老鼠升级：巫毒娃娃、彩鼠源质。"
+  }
+ ],
+ "sortnum": 108
+}

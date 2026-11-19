@@ -1,0 +1,12 @@
+{
+ "name": "这片披萨是我的",
+ "icon": "rats:pizza_slice",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "在下水道里打败鼠头头"
+  }
+ ],
+ "sortnum": 62
+}

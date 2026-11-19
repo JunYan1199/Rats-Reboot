@@ -1,0 +1,20 @@
+{
+ "name": "污渍球（鼠王召唤物）",
+ "icon": "rats:filth_corruption",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：9 污渍压成的污渍球。$(br2)怎么用：手持污渍球右键一只野生（非疫鼠）老鼠，它会捧着污渍球开始变身，约 10 秒后变成鼠王。不能在和平难度使用。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "污渍来自 9 个压缩垃圾，或者瘟疫医生交易、瘟兽掉落。$(br2)【材料来源】工作台合成：污渍×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:filth_corruption"
+  }
+ ],
+ "sortnum": 8
+}

@@ -1,0 +1,17 @@
+{
+ "name": "法术冷却基因酥",
+ "icon": "rats:gene_treat_cooldown",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:gene_treat_cooldown",
+   "text": "登记名：$(br)rats:gene_treat_cooldown"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gene_treat_cooldown"
+  }
+ ],
+ "sortnum": 59
+}

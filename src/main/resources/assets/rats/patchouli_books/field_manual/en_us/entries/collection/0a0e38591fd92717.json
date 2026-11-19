@@ -1,0 +1,16 @@
+{
+ "name": "鱼桶",
+ "icon": "rats:fish_barrel",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鱼桶：渔夫、水性升级的材料。$(br2)【材料来源】工作台合成：生鳕鱼等同类×8 + 木桶（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:fish_barrel"
+  }
+ ],
+ "sortnum": 48
+}

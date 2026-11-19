@@ -1,0 +1,12 @@
+{
+ "name": "带有轮子的鼠笼",
+ "icon": "minecraft:compass",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:rat_cage_wheel"
+  }
+ ],
+ "sortnum": 76
+}

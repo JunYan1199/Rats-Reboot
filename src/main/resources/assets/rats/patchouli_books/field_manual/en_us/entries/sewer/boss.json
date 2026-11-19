@@ -1,0 +1,16 @@
+{
+ "name": "夺回失物",
+ "icon": "rats:pizza_slice",
+ "category": "rats:sewer",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "第三波结束后到通道尽头找鼠头头。避开冲锋路线，等它撞墙眩晕再反击；披萨片落地后也要绕开。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "击败它后拾取掉落，回入口寻找亮起的鼠洞。最后一位队员离开后，主世界的入口会塌成砂土。"
+  }
+ ],
+ "sortnum": 2
+}

@@ -1,0 +1,24 @@
+{
+ "name": "幽灯鼠 · 幽灵",
+ "icon": "rats:dusk_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　幽灵$(br2)进化道具　暗之石$(br2)原有被动　受到的弹射物伤害 −15%$(br2)50 级　索魂灯"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "自身直接伤害命中已被同队控制鼠标记的目标时，为生命比例最低的队友恢复本次实际伤害的 20%，单次最多 60 点，冷却 4 秒。$(br2)100 级　魂返"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "生命低于 20% 且距离主人不超过 24 格时，返回主人身边的安全落点，获得 3 秒 40% 减伤，冷却 60 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dusk_stone"
+  }
+ ],
+ "sortnum": 16
+}

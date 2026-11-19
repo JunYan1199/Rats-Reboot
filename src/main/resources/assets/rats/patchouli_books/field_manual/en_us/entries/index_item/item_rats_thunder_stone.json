@@ -1,0 +1,17 @@
+{
+ "name": "雷之石",
+ "icon": "rats:thunder_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:thunder_stone",
+   "text": "玩法：$(l:evolution/66d14858e97d7dca)雷棘鼠 · 电$(/l)$(br2)登记名：$(br)rats:thunder_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:thunder_stone"
+  }
+ ],
+ "sortnum": 313
+}

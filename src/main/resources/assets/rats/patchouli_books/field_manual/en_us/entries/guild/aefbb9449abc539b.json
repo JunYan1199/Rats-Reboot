@@ -1,0 +1,16 @@
+{
+ "name": "领取公会地契",
+ "icon": "guildjane:guild_deed",
+ "category": "rats:guild",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "在配方查看器中搜索公会地契。制成后先放进背包，让任务书记下这张地契，再带去建造地点。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:guild_deed"
+  }
+ ],
+ "sortnum": 0
+}

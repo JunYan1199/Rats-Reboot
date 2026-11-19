@@ -1,0 +1,17 @@
+{
+ "name": "鼠盗弯刀",
+ "icon": "rats:pirat_cutlass",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_cutlass",
+   "text": "玩法：$(l:island/3a604decec095d8a)敌人图鉴$(/l)$(br2)登记名：$(br)rats:pirat_cutlass"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：幽灵鼠盗弯刀、老鼠升级：海盗。"
+  }
+ ],
+ "sortnum": 99
+}

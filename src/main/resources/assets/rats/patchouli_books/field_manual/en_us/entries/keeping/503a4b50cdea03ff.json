@@ -1,0 +1,32 @@
+{
+ "name": "奶酪指挥棒",
+ "icon": "rats:cheese_cat_baton",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：奶酪指挥棒，给捕鼠猫设置存货容器。$(br2)怎么用（实例）：$(br2)① 手持指挥棒右键你的猫——提示「已选中」，指挥棒会发光；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "② 再右键一个箱子（木桶、潜影盒、任何能放物品的容器都行）——聊天栏提示绑定的坐标；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "③ 之后这只猫装满 9 只，会自己走到这个箱子旁边，把鼠片一张张存进去，然后回去继续抓。$(br2)潜行 + 指挥棒右键猫：解除这只猫的存货绑定。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "常见问题：猫是真的走过去存，不是远程传送；容器要在同一维度、猫走得到的地方（2~3 格内能贴近即可）。容器满了猫会回你身边等。绑定信息随猫一起保存。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：奶酪 + 铁粒 + 木棍（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cheese_cat_baton"
+  }
+ ],
+ "sortnum": 26
+}

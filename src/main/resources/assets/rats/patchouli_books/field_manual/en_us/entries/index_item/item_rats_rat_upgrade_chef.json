@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：厨师",
+ "icon": "rats:rat_upgrade_chef",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_chef",
+   "text": "玩法：$(l:work/4f0ab1adb8286677)第五步：加工生产$(/l)$(br2)登记名：$(br)rats:rat_upgrade_chef"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/chef_upgrade"
+  }
+ ],
+ "sortnum": 218
+}

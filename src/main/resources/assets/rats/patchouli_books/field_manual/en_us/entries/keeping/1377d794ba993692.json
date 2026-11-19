@@ -1,0 +1,16 @@
+{
+ "name": "闲逛 / 坐下 / 跟随",
+ "icon": "rats:cheese",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "• 闲逛：老鼠在附近自由活动。$(br2)• 坐下：原地待命，不吃不跑（可以手动喂）。$(br2)• 跟随：跟着主人走，会帮主人打架。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：带老鼠出门打怪前切到「跟随」；回到基地切「坐下」免得它乱跑。"
+  }
+ ],
+ "sortnum": 32
+}

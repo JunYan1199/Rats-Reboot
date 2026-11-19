@@ -1,0 +1,12 @@
+{
+ "name": "吓我一跳",
+ "icon": "rats:ghost_pirat_hat",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "遭遇幽灵鼠盗，久逝水手的被诅咒的灵魂"
+  }
+ ],
+ "sortnum": 4
+}

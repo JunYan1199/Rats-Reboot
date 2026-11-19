@@ -1,0 +1,17 @@
+{
+ "name": "小硬币",
+ "icon": "rats:tiny_coin",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:tiny_coin",
+   "text": "玩法：$(l:island/0f9b707f8b293d22)小硬币$(/l)$(br2)登记名：$(br)rats:tiny_coin"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：神秘令牌碎片。"
+  }
+ ],
+ "sortnum": 314
+}

@@ -1,0 +1,12 @@
+{
+ "name": "我冒的险是经过计算的……",
+ "icon": "rats:vial_of_sentience",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "使用鼠西族魂火和野鼠爪制造知性小瓶。确保将其扔向野蛮鼠西族！"
+  }
+ ],
+ "sortnum": 24
+}

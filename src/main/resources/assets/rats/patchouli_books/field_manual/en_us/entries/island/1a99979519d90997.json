@@ -1,0 +1,20 @@
+{
+ "name": "防空警报",
+ "icon": "rats:air_raid_siren",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：防空警报。右键或红石信号激活，雷声过后老鼠男爵开着双翼机出现。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：木棍×2 + 机器鼠枪筒×2 + 鼠铜锭（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:air_raid_siren"
+  }
+ ],
+ "sortnum": 42
+}

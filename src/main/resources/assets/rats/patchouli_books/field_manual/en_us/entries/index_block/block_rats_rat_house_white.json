@@ -1,0 +1,17 @@
+{
+ "name": "白色老鼠房屋",
+ "icon": "rats:rat_house_white",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house_white",
+   "text": "玩法：$(l:collection/29b077d660ca3685)White Rat House$(/l)$(br2)登记名：$(br)rats:rat_house_white"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_white"
+  }
+ ],
+ "sortnum": 95
+}

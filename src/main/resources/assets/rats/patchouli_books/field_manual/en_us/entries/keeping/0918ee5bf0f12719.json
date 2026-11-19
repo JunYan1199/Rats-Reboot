@@ -1,0 +1,16 @@
+{
+ "name": "镀金老鼠长笛",
+ "icon": "rats:gilded_rat_flute",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：镀金老鼠长笛。会把老鼠当炮弹向目标发射，有耐久。$(br2)【材料来源】工作台合成：金色老鼠头颅 + 老鼠长笛 + 缠结鼠尾（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gilded_rat_flute"
+  }
+ ],
+ "sortnum": 43
+}

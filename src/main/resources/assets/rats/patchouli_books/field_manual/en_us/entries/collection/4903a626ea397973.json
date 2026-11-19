@@ -1,0 +1,16 @@
+{
+ "name": "魔方垃圾",
+ "icon": "rats:pied_garbage",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "魔方垃圾：上面会刷出魔笛人。$(br2)【材料来源】工作台合成：魔方羊毛×8 + 压缩垃圾（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pied_garbage"
+  }
+ ],
+ "sortnum": 52
+}

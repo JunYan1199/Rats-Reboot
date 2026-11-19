@@ -1,0 +1,20 @@
+{
+ "name": "第六步：四大 Boss",
+ "icon": "rats:marbled_cheese_golem_core",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：挑战鼠西洲的四个 Boss（下方逐个说明召唤方法）。$(br2)配置里这四个 Boss 默认在任何维度都能召唤，但在鼠西洲打最符合剧情。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "建议顺序：鼠西族战机 → 新·鼠西族 → 飞翔的荷兰鼠 → 老鼠男爵。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_golem_core"
+  }
+ ],
+ "sortnum": 34
+}

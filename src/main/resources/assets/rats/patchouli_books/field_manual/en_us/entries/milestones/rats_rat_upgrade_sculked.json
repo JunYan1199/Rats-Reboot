@@ -1,0 +1,12 @@
+{
+ "name": "与幽匿合二为一",
+ "icon": "rats:rat_upgrade_sculked",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：幽匿，让你的老鼠成为幽匿中的一员"
+  }
+ ],
+ "sortnum": 55
+}

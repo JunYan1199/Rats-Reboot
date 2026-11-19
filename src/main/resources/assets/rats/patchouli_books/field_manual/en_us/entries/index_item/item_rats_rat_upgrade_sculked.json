@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：幽匿",
+ "icon": "rats:rat_upgrade_sculked",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_sculked",
+   "text": "玩法：$(l:work/362f10da0755dc62)老鼠升级：幽匿$(/l)$(br2)登记名：$(br)rats:rat_upgrade_sculked"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/sculked_upgrade"
+  }
+ ],
+ "sortnum": 262
+}

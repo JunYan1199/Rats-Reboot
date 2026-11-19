@@ -1,0 +1,17 @@
+{
+ "name": "幽灵鼠盗木告示牌",
+ "icon": "rats:pirat_sign",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_sign",
+   "text": "玩法：$(l:collection/6c84ffb9c7ccd69b)幽灵鼠盗木告示牌$(/l)$(br2)登记名：$(br)rats:pirat_sign"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_sign"
+  }
+ ],
+ "sortnum": 61
+}

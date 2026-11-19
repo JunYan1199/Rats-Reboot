@@ -1,0 +1,12 @@
+{
+ "name": "神秘令牌碎片",
+ "icon": "rats:token_fragment",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：神秘令牌碎片。$(br2)【材料来源】工作台合成：小硬币×9；也可从魔笛人掉落、瘟疫医生购买（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 4
+}

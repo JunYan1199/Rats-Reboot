@@ -1,0 +1,12 @@
+{
+ "name": "群魔乱舞！",
+ "icon": "rats:black_death_mask",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "遭遇黑死神，是一名被雷击召唤的着魔瘟疫医生"
+  }
+ ],
+ "sortnum": 27
+}

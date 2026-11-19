@@ -1,0 +1,12 @@
+{
+ "name": "洁净近乎圣洁！",
+ "icon": "rats:filth_corruption",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "用大量的垃圾制作一个污渍球"
+  }
+ ],
+ "sortnum": 26
+}

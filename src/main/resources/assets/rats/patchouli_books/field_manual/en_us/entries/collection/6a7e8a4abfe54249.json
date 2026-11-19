@@ -1,0 +1,16 @@
+{
+ "name": "幽灵鼠盗木",
+ "icon": "rats:pirat_planks",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "拿到一个算一个。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_planks"
+  }
+ ],
+ "sortnum": 95
+}

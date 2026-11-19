@@ -1,0 +1,20 @@
+{
+ "name": "第二步：进入鼠西洲",
+ "icon": "rats:ratlantis_portal",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：打开传送门，进入鼠西洲。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "怎么做：手持肥厚奶酪令牌，对着地面右键放下它，它会变成一个鼠西洲传送门；走进去就到了鼠西洲。回来时从鼠西洲那边的传送门（或令牌传送门）原路返回。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "准备：鼠西洲到处是敌人，带好武器、食物、备用床/重生锚之外的回家手段，以及几块奶酪。$(br2)进入鼠西洲维度后自动完成。"
+  }
+ ],
+ "sortnum": 14
+}

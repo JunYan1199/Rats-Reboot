@@ -1,0 +1,17 @@
+{
+ "name": "考古学家帽子",
+ "icon": "rats:archeologist_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:archeologist_hat",
+   "text": "丛林尸壳或骷髅的稀有掉落物$(br2)玩法：$(l:island/5ffb85e85e6c5a66)考古学家帽子$(/l)$(br2)登记名：$(br)rats:archeologist_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：考古学家。"
+  }
+ ],
+ "sortnum": 6
+}

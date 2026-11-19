@@ -1,0 +1,12 @@
+{
+ "name": "野蛮鼠西族",
+ "icon": "rats:feral_rat_claw",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "掉落野蛮鼠爪（野蛮撕咬升级、组合升级、指虎）、鼠西族长袍、战机头颅。"
+  }
+ ],
+ "sortnum": 29
+}

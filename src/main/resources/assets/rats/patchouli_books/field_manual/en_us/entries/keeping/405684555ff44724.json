@@ -1,0 +1,28 @@
+{
+ "name": "第七步：日常管理",
+ "icon": "rats:dye_sponge",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：了解老鼠界面和日常照料。$(br2)老鼠界面（右键自己的老鼠）：$(br2)• 手持格：老鼠嘴里叼的东西，工作时搬运的物品就在这里；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 头部格：给老鼠戴帽子（第四章收集全部帽子）；$(br2)• 奶酪储备格：老鼠自己的口粮（下一步详细说）；$(br2)• 升级页：最多 3 个升级格（第二章）；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 可以在界面里改名字，也可以用命名牌。$(br2)其它：$(br2)• 潜行 + 右键老鼠：把它放到你肩膀上随身携带；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 手持染料右键老鼠可以给它染色；彩鼠源质能染成不停变色的彩虹鼠；染料海绵可以洗掉颜色；$(br2)• 鼠西族长袍可以给老鼠穿上，再右键脱下。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dye_sponge"
+  }
+ ],
+ "sortnum": 47
+}

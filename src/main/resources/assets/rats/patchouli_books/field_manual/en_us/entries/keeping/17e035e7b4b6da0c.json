@@ -1,0 +1,20 @@
+{
+ "name": "下界奶酪",
+ "icon": "rats:nether_cheese",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：下界奶酪，吃了会着火。$(br2)有什么用：恶魔升级、炽足兽坐骑、巡逻魔杖、绯红净化液的材料。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：下界奶酪块，产出 ×4；奶酪炼药锅倒入熔岩桶得到下界奶酪炼药锅；击杀恶魔老鼠也会掉落（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:nether_cheese"
+  }
+ ],
+ "sortnum": 20
+}

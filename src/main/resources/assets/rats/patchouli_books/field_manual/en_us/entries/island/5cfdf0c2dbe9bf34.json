@@ -1,0 +1,24 @@
+{
+ "name": "第三章毕业：非信者",
+ "icon": "rats:rat_upgrade_nonbeliever",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲的终极升级「非信者」：可以完爆一切的老鼠升级。$(br2)材料：4 个战神升级 + 奥术科技 + 灵能鼠脑 + 鼠西洲的降灵 + 荷兰鼠船舵 + 腐化老鼠头颅。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "腐化老鼠头颅 = 黑死神镰刀 + 缠结鼠尾 + 金色老鼠头颅，需要先打败黑死神和鼠王。$(br2)做出非信者，你就打通了鼠西洲的全部内容。最后一章是全图鉴和综合毕业挑战。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：奥术科技 + 老鼠升级：战神×4 + 灵能鼠脑 + 鼠西洲的降灵 + 飞翔的荷兰鼠的船舵 + 腐化老鼠头颅（JEI：物品上按 R$(br2) 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/nonbeliever_upgrade"
+  }
+ ],
+ "sortnum": 88
+}

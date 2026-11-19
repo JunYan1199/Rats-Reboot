@@ -1,0 +1,17 @@
+{
+ "name": "防空警报",
+ "icon": "rats:air_raid_siren",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:air_raid_siren",
+   "text": "玩法：$(l:island/1a99979519d90997)防空警报$(/l)$(br2)登记名：$(br)rats:air_raid_siren"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:air_raid_siren"
+  }
+ ],
+ "sortnum": 3
+}

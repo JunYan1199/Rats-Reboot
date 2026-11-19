@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：额外呼吸",
+ "icon": "rats:rat_upgrade_underwater",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：免疫窒息和溺水（额外呼吸）。$(br2)【材料来源】工作台合成：沙砾×3 + 河豚×2 + 老鼠升级：基础 + 沙子或红沙×2 + 水桶（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/underwater_upgrade"
+  }
+ ],
+ "sortnum": 75
+}

@@ -1,0 +1,20 @@
+{
+ "name": "第一天，从奶酪到第一只鼠",
+ "icon": "rats:cheese",
+ "category": "rats:start",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "用一本书和一块奶酪可以再做一本手册。先在「饲养、捕鼠与成长」了解野鼠和驯服，再给自己的鼠安排第一项工作。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "$(li)$(l:keeping/60701562ff135d4f)认识第一只鼠$(/l)$(li)$(l:work/22cf44f425959c25)给老鼠装升级$(/l)$(li)$(l:evolution/6813200f148ea098)培养进化形态$(/l)"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "$(li)$(l:brick/convert)经营布瑞克工坊$(/l)$(li)$(l:guild/aefbb9449abc539b)成立鼠鼠公会$(/l)$(li)$(l:power/8663eec075a555b7)为设备供能$(/l)$(li)$(l:island/3deaef9e95e7c5f2)远征鼠西洲$(/l)$(li)$(l:sewer/trail)追查偷食鼠$(/l)$(li)$(l:magic/command)指挥法术军团$(/l)"
+  }
+ ],
+ "sortnum": 0
+}

@@ -1,0 +1,50 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+issueTrackerURL = "https://github.com/Alex-the-666/Rats/issues"
+license = "GNU LESSER GENERAL PUBLIC LICENSE"
+
+[[mods]]
+modId = "rats"
+version = "${file.jarVersion}"
+displayName = "老鼠：重启 | Rats: Reboot"
+itemIcon = "rats:cheese"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/rats"
+logoFile = "rats_logo.png"
+authors = "AlexThe666, GizmoTheMoonPig"
+description = '''Unofficial local merge of Rats 8.1.3 and Rats Reborn 9.0.0. Keeps original Rats content, adds Reborn systems, and includes Ratlantis by default. Original authors retain their credits.'''
+
+# order forge to load before us so we can properly replace the milk texture
+[[dependencies.rats]]
+    modId = "forge"
+    mandatory = true
+    versionRange = "[47.1.0,)"
+    ordering = "BEFORE"
+    side = "BOTH"
+
+[[dependencies.rats]]
+    modId = "citadel"
+    mandatory = true
+    versionRange = "[2.2,)"
+    ordering = "AFTER"
+    side = "BOTH"
+
+[[dependencies.rats]]
+    modId = "minecraft"
+    mandatory = true
+    versionRange = "[1.20.1]"
+    ordering = "NONE"
+    side = "BOTH"
+
+[modproperties.rats]
+    configuredBackground = "rats:textures/block/marbled_cheese.png"
+
+[[mods]]
+modId="guildjane"
+version="0.5"
+displayName="Guild Receptionist and Bounty Board"
+[[dependencies.guildjane]]
+modId="rats"
+mandatory=true
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"

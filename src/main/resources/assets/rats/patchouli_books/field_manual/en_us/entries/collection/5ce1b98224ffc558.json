@@ -1,0 +1,16 @@
+{
+ "name": "旗帜图案",
+ "icon": "rats:rat_and_sickle_banner_pattern",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "旗帜图案：老鼠和镰刀。$(br2)【材料来源】工作台合成：鼠西族军帽 + 纸（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_and_sickle_banner_pattern"
+  }
+ ],
+ "sortnum": 63
+}

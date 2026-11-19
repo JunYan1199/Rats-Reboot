@@ -1,0 +1,16 @@
+{
+ "name": "净化液",
+ "icon": "rats:purifying_liquid",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "净化液：扔出去净化患病生物，能治愈僵尸村民。$(br2)【材料来源】工作台合成：金色老鼠头颅 + 钻石 + 玻璃瓶 + 瘟疫源质（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:purifying_liquid"
+  }
+ ],
+ "sortnum": 36
+}

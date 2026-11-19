@@ -1,0 +1,13 @@
+{
+ "name": "奶酪炼药锅",
+ "icon": "rats:cauldron_cheese",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cauldron_cheese",
+   "text": "登记名：$(br)rats:cauldron_cheese"
+  }
+ ],
+ "sortnum": 11
+}

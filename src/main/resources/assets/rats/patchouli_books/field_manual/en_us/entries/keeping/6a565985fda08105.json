@@ -1,0 +1,16 @@
+{
+ "name": "下界奶酪块",
+ "icon": "rats:block_of_nether_cheese",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：下界奶酪块。$(br2)【材料来源】工作台合成：下界奶酪×4；下界奶酪炼药锅空手右键取出（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:nether_cheese_compressed"
+  }
+ ],
+ "sortnum": 21
+}

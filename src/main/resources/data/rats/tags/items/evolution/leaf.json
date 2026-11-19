@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "rats:leaf_stone",
+    {
+      "id": "cobblemon:leaf_stone",
+      "required": false
+    },
+    {
+      "id": "pixelmon:leaf_stone",
+      "required": false
+    }
+  ]
+}

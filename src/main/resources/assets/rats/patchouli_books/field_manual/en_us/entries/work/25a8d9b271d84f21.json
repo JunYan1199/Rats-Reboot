@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：唱片机",
+ "icon": "rats:rat_upgrade_dj",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠可以播放手里的唱片。$(br2)【材料来源】工作台合成：橡木木板等同类×6 + 音乐唱片等同类 + 老鼠升级：基础 + 钻石（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/dj_upgrade"
+  }
+ ],
+ "sortnum": 54
+}

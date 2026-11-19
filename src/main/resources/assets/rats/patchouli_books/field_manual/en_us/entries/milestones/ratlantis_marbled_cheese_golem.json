@@ -1,0 +1,12 @@
+{
+ "name": "人机对决（或鼠机对决）",
+ "icon": "rats:arcane_technology",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "击败鼠西族战机"
+  }
+ ],
+ "sortnum": 5
+}

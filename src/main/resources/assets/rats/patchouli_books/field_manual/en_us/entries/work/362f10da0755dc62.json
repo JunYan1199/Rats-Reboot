@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：幽匿",
+ "icon": "rats:rat_upgrade_sculked",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：幽匿外观，执行命令时完全无声，连监守者都察觉不到。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：幽匿块×2 + 回响碎片×2 + 老鼠爪×2 + 老鼠升级：基础 + 白色羊毛等同类×2（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/sculked_upgrade"
+  }
+ ],
+ "sortnum": 80
+}

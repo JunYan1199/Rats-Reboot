@@ -1,0 +1,17 @@
+{
+ "name": "幽灵鼠盗原木",
+ "icon": "rats:pirat_log",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_log",
+   "text": "玩法：$(l:collection/3bc78da50f139c4c)幽灵鼠盗原木$(/l)$(br2)登记名：$(br)rats:pirat_log"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：幽灵鼠盗木。"
+  }
+ ],
+ "sortnum": 57
+}

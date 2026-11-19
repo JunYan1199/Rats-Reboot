@@ -1,0 +1,13 @@
+{
+ "name": "老鼠§o“坨坨”",
+ "icon": "rats:rat_nugget_ore",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_nugget_ore",
+   "text": "§o右击来看看里面有些什么……$(br2)玩法：$(l:work/6c96a8507c1f2caf)老鼠“坨坨”$(/l)$(br2)登记名：$(br)rats:rat_nugget_ore"
+  }
+ ],
+ "sortnum": 169
+}

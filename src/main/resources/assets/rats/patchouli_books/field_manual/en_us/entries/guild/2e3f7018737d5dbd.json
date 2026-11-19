@@ -1,0 +1,16 @@
+{
+ "name": "给第一支鼠队点名",
+ "icon": "rats:rat_flute",
+ "category": "rats:guild",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "带上自己驯养的鼠来到柜台或悬赏板附近，在委托详情点「更换队员」。从名单中点选最多三只，核对等级、成功率和耗时，再确认出征。$(br2)送餐前先把单上要求的食物放进背包。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_flute"
+  }
+ ],
+ "sortnum": 3
+}

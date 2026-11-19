@@ -1,0 +1,12 @@
+{
+ "name": "全部食物",
+ "icon": "rats:confit_byaldi",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "拿到一个算一个。"
+  }
+ ],
+ "sortnum": 19
+}

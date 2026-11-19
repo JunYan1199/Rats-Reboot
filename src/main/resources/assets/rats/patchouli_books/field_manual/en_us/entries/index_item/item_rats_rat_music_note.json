@@ -1,0 +1,17 @@
+{
+ "name": "唱跳音符",
+ "icon": "rats:rat_music_note",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_music_note",
+   "text": "登记名：$(br)rats:rat_music_note"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_music_note"
+  }
+ ],
+ "sortnum": 167
+}

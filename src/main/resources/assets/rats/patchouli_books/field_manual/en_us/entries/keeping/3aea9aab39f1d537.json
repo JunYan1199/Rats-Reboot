@@ -1,0 +1,20 @@
+{
+ "name": "鼠诱灯",
+ "icon": "rats:rat_attractor",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠诱灯。通上红石信号后会吸引附近的野生老鼠聚过来。$(br2)实例：和捕鼠夹、猫或刷鼠场配合，把老鼠集中到一处。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：红石粉×4 + 灯笼 + 奶酪块（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_attractor"
+  }
+ ],
+ "sortnum": 14
+}

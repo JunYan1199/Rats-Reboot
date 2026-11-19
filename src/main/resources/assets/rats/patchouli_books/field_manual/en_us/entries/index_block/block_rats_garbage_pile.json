@@ -1,0 +1,17 @@
+{
+ "name": "垃圾堆",
+ "icon": "rats:garbage_pile",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:garbage_pile",
+   "text": "玩法：$(l:keeping/790091a37dd90036)垃圾与鼠患$(/l)$(br2)登记名：$(br)rats:garbage_pile"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：压缩垃圾、有害垃圾、净化垃圾。"
+  }
+ ],
+ "sortnum": 22
+}

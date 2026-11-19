@@ -1,0 +1,13 @@
+{
+ "name": "鼠西洲反应堆",
+ "icon": "rats:ratlantis_reactor",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_reactor",
+   "text": "登记名：$(br)rats:ratlantis_reactor"
+  }
+ ],
+ "sortnum": 106
+}

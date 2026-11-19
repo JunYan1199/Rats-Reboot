@@ -1,0 +1,32 @@
+{
+ "name": "第三步：鼠西洲的资源",
+ "icon": "rats:oratchalcum_ingot",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：采集鼠西洲的特产资源，做出鼠铜锭。$(br2)地形：鼠西洲只有一个同名群系——大片海洋和群岛，地面是大理石纹奶酪泥土和草，到处是大理石遗迹和幽灵鼠盗树。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "资源：$(br2)• 鼠套花：岛上的花，9 朵合成鼠套花瓣；$(br2)• 鼠铜矿石：地下的矿，烧炼得到鼠铜锭（也能挖到粗鼠铜）；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 鼠西族宝石矿石：烧炼得到鼠西洲宝石；宝石也能用 4 绿宝石 + 鼠套花瓣合成；$(br2)• 奶酪矿石：烧炼得到奶酪；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 大理石纹奶酪：奶酪 + 石英合成生料，烧炼得到，可以切出各种建材。$(br2)鼠西洲钓鱼：能钓到老鼠鱼、鼠西洲宝石、鼠铜粒、瘟疫古卷等特殊战利品。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：鼠铜块，产出 ×9；工作台合成：鼠铜粒×9；熔炉烧炼：鼠铜矿石（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:oratchalcum_ingot"
+  }
+ ],
+ "sortnum": 15
+}

@@ -1,0 +1,20 @@
+{
+ "name": "幽灵鼠盗木板",
+ "icon": "rats:pirat_planks",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "木板。$(br2)【材料来源】工作台合成：幽灵鼠盗原木等同类，产出 ×4；工作台合成：橡木木板等同类×8 + 幽灵鼠盗灵质，产出 ×8；机械动力动力锯：去皮幽灵鼠盗木，"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "产出 ×6（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_planks"
+  }
+ ],
+ "sortnum": 102
+}

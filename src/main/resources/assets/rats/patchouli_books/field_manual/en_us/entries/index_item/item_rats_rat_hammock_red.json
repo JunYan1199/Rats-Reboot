@@ -1,0 +1,17 @@
+{
+ "name": "红色鼠吊床",
+ "icon": "rats:rat_hammock_red",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_hammock_red",
+   "text": "玩法：$(l:collection/5d37c03df41ca54c)16 色鼠吊床$(/l)$(br2)登记名：$(br)rats:rat_hammock_red"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:hammocks/hammock_dyed_red"
+  }
+ ],
+ "sortnum": 146
+}

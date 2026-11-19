@@ -1,0 +1,16 @@
+{
+ "name": "把焰魔的战利品带回家",
+ "icon": "guildjane:guild_deed",
+ "category": "rats:guild",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "在首领图鉴中点开画像；再翻到今日首领悬赏，挑一个当日上榜的目标。成功后向简领取目标对应的战利品和公会物资。有对应遗物的首领还会单独判定一次，概率为 2%。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:guild_deed"
+  }
+ ],
+ "sortnum": 6
+}

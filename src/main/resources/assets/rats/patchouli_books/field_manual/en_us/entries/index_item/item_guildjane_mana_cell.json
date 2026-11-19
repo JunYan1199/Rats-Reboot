@@ -1,0 +1,17 @@
+{
+ "name": "法力存储装置",
+ "icon": "guildjane:mana_cell",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "guildjane:mana_cell",
+   "text": "玩法：$(l:power/4ab2128b2f22544c)把法力带在身上$(/l)$(br2)登记名：$(br)guildjane:mana_cell"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:mana_cell"
+  }
+ ],
+ "sortnum": 1
+}

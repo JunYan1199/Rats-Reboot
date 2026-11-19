@@ -1,0 +1,16 @@
+{
+ "name": "物品与生物筛选",
+ "icon": "rats:rat_upgrade_whitelist",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "控制老鼠拿什么、打什么。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/whitelist_upgrade"
+  }
+ ],
+ "sortnum": 5
+}

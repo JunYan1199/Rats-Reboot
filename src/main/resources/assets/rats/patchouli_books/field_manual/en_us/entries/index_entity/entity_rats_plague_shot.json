@@ -1,0 +1,12 @@
+{
+ "name": "瘟疫弹",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:plague_shot"
+  }
+ ],
+ "sortnum": 19
+}

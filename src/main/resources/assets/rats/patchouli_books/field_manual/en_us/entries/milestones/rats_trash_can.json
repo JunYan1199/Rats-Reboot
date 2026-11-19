@@ -1,0 +1,12 @@
+{
+ "name": "垃圾模组",
+ "icon": "rats:trash_can",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "用炼药锅、铁锭和铁粒做一个垃圾桶，用它来制造垃圾堆！"
+  }
+ ],
+ "sortnum": 61
+}

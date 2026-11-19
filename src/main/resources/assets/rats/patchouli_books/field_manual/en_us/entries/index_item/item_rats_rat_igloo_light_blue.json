@@ -1,0 +1,17 @@
+{
+ "name": "浅蓝色鼠小屋",
+ "icon": "rats:rat_igloo_light_blue",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_igloo_light_blue",
+   "text": "登记名：$(br)rats:rat_igloo_light_blue"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:igloos/rat_igloo_light_blue"
+  }
+ ],
+ "sortnum": 155
+}

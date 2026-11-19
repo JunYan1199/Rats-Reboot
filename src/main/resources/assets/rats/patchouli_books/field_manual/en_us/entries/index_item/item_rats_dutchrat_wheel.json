@@ -1,0 +1,21 @@
+{
+ "name": "飞翔的荷兰鼠的船舵",
+ "icon": "rats:dutchrat_wheel",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:dutchrat_wheel",
+   "text": "玩法：$(l:island/49bf50e1585b5b58)Boss 挑战$(/l)$(br2)登记名：$(br)rats:dutchrat_wheel"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：飞翔的荷兰鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：幽灵鼠盗灵质、老鼠升级：非信者、鼠西洲靴子、§a鼠西洲的头颅。"
+  }
+ ],
+ "sortnum": 45
+}

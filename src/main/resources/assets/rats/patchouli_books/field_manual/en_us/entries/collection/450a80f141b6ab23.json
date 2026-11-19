@@ -1,0 +1,16 @@
+{
+ "name": "大理石纹奶酪",
+ "icon": "rats:marbled_cheese_pillar",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "拿到一个算一个。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_pillar"
+  }
+ ],
+ "sortnum": 71
+}

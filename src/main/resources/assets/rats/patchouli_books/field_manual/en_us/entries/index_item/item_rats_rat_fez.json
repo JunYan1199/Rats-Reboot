@@ -1,0 +1,17 @@
+{
+ "name": "老鼠菲斯帽",
+ "icon": "rats:rat_fez",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_fez",
+   "text": "玩法：$(l:collection/2554fcf424f59428)老鼠菲斯帽$(/l)$(br2)登记名：$(br)rats:rat_fez"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_fez"
+  }
+ ],
+ "sortnum": 131
+}

@@ -1,0 +1,16 @@
+{
+ "name": "鼠西族升级",
+ "icon": "rats:rat_upgrade_psychic",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲专属的强力升级。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/psychic_upgrade"
+  }
+ ],
+ "sortnum": 76
+}

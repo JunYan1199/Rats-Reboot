@@ -1,0 +1,12 @@
+{
+ "name": "公会悬赏板",
+ "icon": "minecraft:compass",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)guildjane:guild_task_board"
+  }
+ ],
+ "sortnum": 0
+}

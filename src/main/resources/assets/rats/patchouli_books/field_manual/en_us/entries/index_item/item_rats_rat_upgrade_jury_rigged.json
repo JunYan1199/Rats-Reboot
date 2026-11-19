@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：蝴蝶结",
+ "icon": "rats:rat_upgrade_jury_rigged",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_jury_rigged",
+   "text": "玩法：$(l:work/7ee70c54ce8ca9e8)升级为什么装不上？$(/l)$(br2)登记名：$(br)rats:rat_upgrade_jury_rigged"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/jury_rigged_upgrade"
+  }
+ ],
+ "sortnum": 245
+}

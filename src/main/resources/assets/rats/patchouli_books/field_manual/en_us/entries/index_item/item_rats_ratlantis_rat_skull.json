@@ -1,0 +1,21 @@
+{
+ "name": "§a鼠西洲的头颅",
+ "icon": "rats:ratlantis_rat_skull",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_rat_skull",
+   "text": "玩法：$(l:island/787d16afb9a3ecc0)鼠西洲的头颅$(/l)$(br2)登记名：$(br)rats:ratlantis_rat_skull"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_rat_skull"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠西洲的降灵。"
+  }
+ ],
+ "sortnum": 299
+}

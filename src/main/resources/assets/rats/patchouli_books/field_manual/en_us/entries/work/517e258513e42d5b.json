@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：时间“鼠”场",
+ "icon": "rats:rat_upgrade_time_manipulator",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：加快老鼠周围 5×3×5 范围内所有方块的刻速度。需要下界之星。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：时钟×4 + 高压爬行者碎块×2 + 老鼠升级：时间“鼠”器×2 + 下界之星（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/time_manipulator_upgrade"
+  }
+ ],
+ "sortnum": 52
+}

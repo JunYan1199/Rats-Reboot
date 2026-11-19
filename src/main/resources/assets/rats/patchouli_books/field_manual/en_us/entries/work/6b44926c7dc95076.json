@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：白名单",
+ "icon": "rats:rat_upgrade_whitelist",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠只拾取/运输名单里的物品。$(br2)用法：手持白名单右键打开，把要的物品放进格子里（只是标记，不消耗），再装到老鼠身上。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：收集老鼠只捡钻石和绿宝石。与黑名单互斥。$(br2)【材料来源】工作台合成：白色染料×8 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/whitelist_upgrade"
+  }
+ ],
+ "sortnum": 6
+}

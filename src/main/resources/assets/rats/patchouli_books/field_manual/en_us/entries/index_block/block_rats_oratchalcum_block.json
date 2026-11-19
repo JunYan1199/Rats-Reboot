@@ -1,0 +1,21 @@
+{
+ "name": "鼠铜块",
+ "icon": "rats:oratchalcum_block",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:oratchalcum_block",
+   "text": "玩法：$(l:island/03b00697d82fd549)鼠铜块$(/l)$(br2)登记名：$(br)rats:oratchalcum_block"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:oratchalcum_block"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠西洲的降灵、鼠铜锭。"
+  }
+ ],
+ "sortnum": 46
+}

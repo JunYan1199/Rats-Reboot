@@ -1,0 +1,17 @@
+{
+ "name": "鼠西洲胸甲",
+ "icon": "rats:ratlantis_chestplate",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_chestplate",
+   "text": "玩法：$(l:island/2ce39e93082dfd2f)第七步：鼠西洲装备$(/l)$(br2)登记名：$(br)rats:ratlantis_chestplate"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_chestplate"
+  }
+ ],
+ "sortnum": 294
+}

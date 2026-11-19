@@ -1,0 +1,17 @@
+{
+ "name": "裂纹大理石纹奶酪砖块台阶",
+ "icon": "rats:marbled_cheese_brick_cracked_slab",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:marbled_cheese_brick_cracked_slab",
+   "text": "玩法：$(l:collection/05491ac99076145a)裂纹大理石纹奶酪砖块台阶$(/l)$(br2)登记名：$(br)rats:marbled_cheese_brick_cracked_slab"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_brick_cracked_slab"
+  }
+ ],
+ "sortnum": 29
+}

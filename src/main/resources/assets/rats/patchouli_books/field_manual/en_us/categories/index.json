@@ -1,0 +1,6 @@
+{
+ "name": "物品、方块与生物索引",
+ "icon": "minecraft:compass",
+ "description": "按名称搜索，查物品说明、原料和对应玩法。设备的内部部件另列于设施页。",
+ "sortnum": 11
+}

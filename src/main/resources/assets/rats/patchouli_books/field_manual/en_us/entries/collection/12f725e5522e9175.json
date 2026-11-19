@@ -1,0 +1,12 @@
+{
+ "name": "幽灵鼠盗树叶",
+ "icon": "rats:pirat_leaves",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "树叶。$(br2)【材料来源】用剪刀剪幽灵鼠盗树叶"
+  }
+ ],
+ "sortnum": 98
+}

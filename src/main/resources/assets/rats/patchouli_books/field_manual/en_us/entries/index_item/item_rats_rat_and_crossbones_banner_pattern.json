@@ -1,0 +1,17 @@
+{
+ "name": "旗帜图案",
+ "icon": "rats:rat_and_crossbones_banner_pattern",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_and_crossbones_banner_pattern",
+   "text": "老鼠和交叉骨$(br2)玩法：$(l:collection/1a6056fc8fc0a6d2)旗帜图案$(/l)$(br2)登记名：$(br)rats:rat_and_crossbones_banner_pattern"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_and_crossbones_banner_pattern"
+  }
+ ],
+ "sortnum": 122
+}

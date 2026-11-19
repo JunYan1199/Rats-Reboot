@@ -1,0 +1,12 @@
+{
+ "name": "街头巷尾的话题",
+ "icon": "rats:rat_upgrade_pickpocket",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：小偷，你让你的老鼠成为了一名可恶的村庄小偷？"
+  }
+ ],
+ "sortnum": 53
+}

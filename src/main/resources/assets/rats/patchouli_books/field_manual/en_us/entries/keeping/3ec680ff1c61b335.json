@@ -1,0 +1,12 @@
+{
+ "name": "野鼠掉落",
+ "icon": "rats:rat_pelt",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "打野鼠能拿到的基础材料，下面每一项拿到一个就算完成。"
+  }
+ ],
+ "sortnum": 1
+}

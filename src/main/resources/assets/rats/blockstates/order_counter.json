@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "rats:block/order_counter",
+      "y": 0
+    },
+    "facing=west": {
+      "model": "rats:block/order_counter",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rats:block/order_counter",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "rats:block/order_counter",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+ "name": "远古锯片",
+ "icon": "rats:ancient_sawblade",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "远古锯片。分解器、战机坐骑的材料。$(br2)【材料来源】鼠西族战机掉落"
+  }
+ ],
+ "sortnum": 63
+}

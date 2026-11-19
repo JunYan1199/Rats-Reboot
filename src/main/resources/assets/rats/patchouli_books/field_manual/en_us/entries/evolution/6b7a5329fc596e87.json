@@ -1,0 +1,36 @@
+{
+ "name": "满级和协作规则",
+ "icon": "rats:legion_baton",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "100 级自动解锁第二项能力，无须再喂进化石。攻击倍率按这只老鼠的攻击面板计算；治疗与护盾中的最大生命按受益者计算。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "队友指主人和同队的驯鼠。未编组时，同一主人的未编组老鼠可以互助。未注明范围的邻近保护默认 8 格。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "法术冷却基因范围为 0.5～2.5，可由双亲遗传。满基因时，50 级冷却约缩短 22%，100 级缩短 90%。例如原冷却 10 秒，"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "满级满基因后为 1 秒。施法前摇照常。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "法术冷却基因酥每次提高 0.25，达到上限后继续右键不会消耗。无序合成各需一份奶酪、蜂蜜瓶、紫水晶碎片和时钟，可在 JEI 查询。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "同名团队效果只刷新。进化技能的连锁伤害和转移治疗不会反复触发自身。控制鼠命中后可留下 6 秒标记供幽灯鼠使用。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:legion_baton"
+  }
+ ],
+ "sortnum": 2
+}

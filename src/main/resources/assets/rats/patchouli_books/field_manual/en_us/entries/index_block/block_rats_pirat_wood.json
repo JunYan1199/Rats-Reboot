@@ -1,0 +1,17 @@
+{
+ "name": "幽灵鼠盗木",
+ "icon": "rats:pirat_wood",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_wood",
+   "text": "玩法：$(l:collection/107f08ec49b4919c)幽灵鼠盗木$(/l)$(br2)登记名：$(br)rats:pirat_wood"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_wood"
+  }
+ ],
+ "sortnum": 67
+}

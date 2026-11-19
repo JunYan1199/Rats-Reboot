@@ -1,0 +1,17 @@
+{
+ "name": "鼠鼠点餐台",
+ "icon": "rats:order_counter",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:order_counter",
+   "text": "登记名：$(br)rats:order_counter"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:order_counter"
+  }
+ ],
+ "sortnum": 48
+}

@@ -1,0 +1,17 @@
+{
+ "name": "飞翔的荷兰鼠的钟",
+ "icon": "rats:dutchrat_bell",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:dutchrat_bell",
+   "text": "玩法：$(l:island/6e6d0d452bcb7216)第四步：群系与结构$(/l)$(br2)登记名：$(br)rats:dutchrat_bell"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dutchrat_bell"
+  }
+ ],
+ "sortnum": 19
+}

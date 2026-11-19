@@ -1,0 +1,20 @@
+{
+ "name": "有害垃圾",
+ "icon": "rats:cursed_garbage",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：有害垃圾，上面只刷疫鼠。$(br2)有什么用：需要瘟疫源质、瘟疫古卷时用它刷疫鼠。小心被咬。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：垃圾堆×8 + 瘟疫源质，产出 ×8（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cursed_garbage"
+  }
+ ],
+ "sortnum": 11
+}

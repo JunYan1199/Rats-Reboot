@@ -1,0 +1,36 @@
+{
+ "name": "第一步：运输与取存",
+ "icon": "rats:rat_upgrade_platter",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：建立第一条老鼠运输线，并用「托盘」让它一次搬一整组。$(br2)运输的三个位置（都用奶酪魔杖设置：先右键老鼠，再右键容器选择选项）："
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 提取容器：老鼠从这里拿东西；$(br2)• 存入容器：老鼠把东西放到这里；$(br2)• 投放位置（合并版新增）：把手里的物品投放进机器/方块。$(br2)完整实例："
+  },
+  {
+   "type": "patchouli:text",
+   "text": "① 熔炉旁边放箱子 A（矿石），熔炉产物下面放箱子 B；$(br2)② 老鼠 1：提取 A → 存入熔炉（顶部）；命令「运输」；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "③ 老鼠 2：提取熔炉 → 存入 B；命令「运输」；$(br2)④ 两只都装托盘：每趟一整组，速度快很多。$(br2)托盘：老鼠一次运送整组物品。没有它时老鼠每趟只叼一个。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "常见问题：老鼠不动？检查它今天有没有吃奶酪（饱食效率 0 就不工作），以及两个容器是否在它够得着的范围内。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁锭×3 + 奶酪×4 + 重质测重压力板 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/platter_upgrade"
+  }
+ ],
+ "sortnum": 4
+}

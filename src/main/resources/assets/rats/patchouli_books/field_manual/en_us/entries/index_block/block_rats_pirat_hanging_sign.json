@@ -1,0 +1,17 @@
+{
+ "name": "悬挂式幽灵鼠盗木告示牌",
+ "icon": "rats:pirat_hanging_sign",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_hanging_sign",
+   "text": "玩法：$(l:collection/0dcdf6bcc3dc6fa1)悬挂式幽灵鼠盗木告示牌$(/l)$(br2)登记名：$(br)rats:pirat_hanging_sign"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_hanging_sign"
+  }
+ ],
+ "sortnum": 55
+}

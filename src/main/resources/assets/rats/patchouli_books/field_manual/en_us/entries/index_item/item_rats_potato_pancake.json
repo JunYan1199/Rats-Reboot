@@ -1,0 +1,21 @@
+{
+ "name": "炸薯饼",
+ "icon": "rats:potato_pancake",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:potato_pancake",
+   "text": "玩法：$(l:collection/068611943aaebae2)炸薯饼$(/l)$(br2)登记名：$(br)rats:potato_pancake"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:potato_pancake"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：小小黑色虫子。"
+  }
+ ],
+ "sortnum": 115
+}

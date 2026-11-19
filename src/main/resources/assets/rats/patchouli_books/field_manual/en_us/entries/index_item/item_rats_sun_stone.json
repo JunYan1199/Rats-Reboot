@@ -1,0 +1,17 @@
+{
+ "name": "日之石",
+ "icon": "rats:sun_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:sun_stone",
+   "text": "玩法：$(l:evolution/6202b4fb08935efa)日曜鼠 · 超能力$(/l)$(br2)登记名：$(br)rats:sun_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:sun_stone"
+  }
+ ],
+ "sortnum": 311
+}

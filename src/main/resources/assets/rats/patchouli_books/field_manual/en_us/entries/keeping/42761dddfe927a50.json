@@ -1,0 +1,16 @@
+{
+ "name": "捕猎",
+ "icon": "rats:cheese",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠会攻击附近的生物，把掉落物带回存入容器（用奶酪魔杖标记存入容器）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：围栏里放刷怪笼/养殖场，旁边放箱子，用魔杖把箱子设为「存入」，老鼠就会打怪并把掉落物运进箱子。配合「生物名单」升级只打指定生物。"
+  }
+ ],
+ "sortnum": 33
+}

@@ -1,0 +1,12 @@
+{
+ "name": "老鼠“坨坨”",
+ "icon": "rats:rat_nugget",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠「坨坨」。矿物翻倍升级的合成材料。$(br2)【材料来源】矿物翻倍老鼠吃掉矿石后排出"
+  }
+ ],
+ "sortnum": 43
+}

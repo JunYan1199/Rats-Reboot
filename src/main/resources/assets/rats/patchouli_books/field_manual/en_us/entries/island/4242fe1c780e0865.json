@@ -1,0 +1,20 @@
+{
+ "name": "老鼠加特林",
+ "icon": "rats:rattling_gun",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠加特林：放下后，把肩膀上的老鼠放上枪手座位，它会自动射击敌人。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁锭×2 + 铁块 + 装填的机器鼠枪筒 + 木棍×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rattling_gun"
+  }
+ ],
+ "sortnum": 55
+}

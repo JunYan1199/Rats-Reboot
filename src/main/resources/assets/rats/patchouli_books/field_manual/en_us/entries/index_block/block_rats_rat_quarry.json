@@ -1,0 +1,17 @@
+{
+ "name": "老鼠采石场",
+ "icon": "rats:rat_quarry",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_quarry",
+   "text": "玩法：$(l:work/391e8125fc2a6051)老鼠采石场$(/l)$(br2)登记名：$(br)rats:rat_quarry"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_quarry"
+  }
+ ],
+ "sortnum": 98
+}

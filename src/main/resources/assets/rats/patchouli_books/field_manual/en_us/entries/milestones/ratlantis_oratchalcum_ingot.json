@@ -1,0 +1,12 @@
+{
+ "name": "感受力量！",
+ "icon": "rats:oratchalcum_ingot",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "获得鼠铜锭"
+  }
+ ],
+ "sortnum": 8
+}

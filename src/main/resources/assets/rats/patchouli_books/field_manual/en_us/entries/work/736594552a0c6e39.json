@@ -1,0 +1,24 @@
+{
+ "name": "鼠工台",
+ "icon": "rats:rat_crafting_table",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠工台，自动合成机。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：① 放鼠工台；② 合成升级老鼠命令「坐下」放在鼠工台正上方；③ 在鼠工台界面第一格放要合成的成品（定配方），下面放材料；④ 用运输老鼠或漏斗补材料、$(br2)取成品。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：奶酪块×8 + 工作台（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_crafting_table"
+  }
+ ],
+ "sortnum": 48
+}

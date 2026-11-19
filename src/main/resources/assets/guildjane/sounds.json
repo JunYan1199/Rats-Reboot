@@ -1,0 +1,57 @@
+{
+  "voice.greet": {
+    "sounds": [
+      "guildjane:voice/greet"
+    ]
+  },
+  "voice.depart": {
+    "sounds": [
+      "guildjane:voice/depart"
+    ]
+  },
+  "voice.returned": {
+    "sounds": [
+      "guildjane:voice/returned"
+    ]
+  },
+  "voice.nocturne": {
+    "sounds": [
+      "guildjane:voice/nocturne"
+    ]
+  },
+  "voice.choose": {
+    "sounds": [
+      "guildjane:voice/choose"
+    ]
+  },
+  "voice.trust": {
+    "sounds": [
+      "guildjane:voice/trust"
+    ]
+  },
+  "voice.careful": {
+    "sounds": [
+      "guildjane:voice/careful"
+    ]
+  },
+  "voice.thanks": {
+    "sounds": [
+      "guildjane:voice/thanks"
+    ]
+  },
+  "voice.emblem": {
+    "sounds": [
+      "guildjane:voice/emblem"
+    ]
+  },
+  "voice.rethink": {
+    "sounds": [
+      "guildjane:voice/rethink"
+    ]
+  },
+  "voice.decisive": {
+    "sounds": [
+      "guildjane:voice/decisive"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "有害垃圾",
+ "icon": "rats:cursed_garbage",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cursed_garbage",
+   "text": "玩法：$(l:keeping/0f987be90479821c)有害垃圾$(/l)$(br2)登记名：$(br)rats:cursed_garbage"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cursed_garbage"
+  }
+ ],
+ "sortnum": 18
+}

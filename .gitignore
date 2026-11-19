@@ -1,0 +1,11 @@
+.gradle/
+build/
+local-maven/
+libs/
+run*/
+.idea/
+*.iml
+.vscode/
+*.log
+tools/models/source/
+__pycache__/

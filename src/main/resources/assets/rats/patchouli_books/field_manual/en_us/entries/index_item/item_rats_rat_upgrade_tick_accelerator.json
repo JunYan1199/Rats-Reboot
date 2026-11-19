@@ -1,0 +1,21 @@
+{
+ "name": "老鼠升级：时间“鼠”器",
+ "icon": "rats:rat_upgrade_tick_accelerator",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_tick_accelerator",
+   "text": "玩法：$(l:work/1ad2674a4e0d5c0b)老鼠升级：时间“鼠”器$(/l)$(br2)登记名：$(br)rats:rat_upgrade_tick_accelerator"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/tick_accelerator_upgrade"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：时间“鼠”场。"
+  }
+ ],
+ "sortnum": 268
+}

@@ -1,0 +1,24 @@
+{
+ "name": "紫螫鼠 · 毒",
+ "icon": "rats:venom_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　毒$(br2)进化道具　暗之石·毒晶$(br2)原有被动　免疫原版中毒效果$(br2)50 级　叠毒"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "直接命中为目标加 1 层鼠毒，最多 4 层，持续 6 秒。每层每 2 秒造成攻击力 8% 的毒伤，可作用于亡灵首领。$(br2)100 级　解毒腺"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "为附近一名中毒、凋零或受鼠毒影响的队友清除其中一种效果，再恢复其 3% 最大生命，冷却 12 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:venom_stone"
+  }
+ ],
+ "sortnum": 10
+}

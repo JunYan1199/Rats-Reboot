@@ -1,0 +1,17 @@
+{
+ "name": "叶之石·虫茧",
+ "icon": "rats:cocoon_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cocoon_stone",
+   "text": "玩法：$(l:evolution/6b621d0ab90cba62)灯蛾鼠 · 虫$(/l)$(br2)登记名：$(br)rats:cocoon_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cocoon_stone"
+  }
+ ],
+ "sortnum": 31
+}

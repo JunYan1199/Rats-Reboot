@@ -1,0 +1,17 @@
+{
+ "name": "脑方块",
+ "icon": "rats:brain_block",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:brain_block",
+   "text": "玩法：$(l:island/6b37389daa63ac7e)脑方块$(/l)$(br2)登记名：$(br)rats:brain_block"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brain_block"
+  }
+ ],
+ "sortnum": 9
+}

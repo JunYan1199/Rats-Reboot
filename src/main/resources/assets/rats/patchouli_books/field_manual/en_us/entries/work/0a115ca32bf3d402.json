@@ -1,0 +1,24 @@
+{
+ "name": "老鼠升级：伤害保护",
+ "icon": "rats:rat_upgrade_damage_protection",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：一次性包含石棉、药水抗性、额外呼吸的效果，并免疫摔落。与这三者互斥（不需要再装）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：奶酪块×3 + 老鼠升级：石棉老鼠 + 老鼠升级：额外呼吸 + 老鼠升级：药水抗性 + 金苹果×2 + 羽翼（JEI：物品上按 "
+  },
+  {
+   "type": "patchouli:text",
+   "text": "R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/damage_protection_upgrade"
+  }
+ ],
+ "sortnum": 76
+}

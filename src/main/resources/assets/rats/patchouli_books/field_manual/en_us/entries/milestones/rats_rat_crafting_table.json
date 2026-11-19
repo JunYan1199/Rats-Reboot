@@ -1,0 +1,12 @@
+{
+ "name": "老鼠自动合成",
+ "icon": "rats:rat_crafting_table",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "制作鼠工台"
+  }
+ ],
+ "sortnum": 43
+}

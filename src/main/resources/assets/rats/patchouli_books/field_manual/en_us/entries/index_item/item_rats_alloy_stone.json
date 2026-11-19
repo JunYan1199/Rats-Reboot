@@ -1,0 +1,17 @@
+{
+ "name": "光之石·钢纹",
+ "icon": "rats:alloy_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:alloy_stone",
+   "text": "玩法：$(l:evolution/6493192ba0690e71)铆钢鼠 · 钢$(/l)$(br2)登记名：$(br)rats:alloy_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:alloy_stone"
+  }
+ ],
+ "sortnum": 3
+}

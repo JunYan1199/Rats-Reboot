@@ -1,0 +1,12 @@
+{
+ "name": "中世纪疗法",
+ "icon": "rats:plague_leech",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "寻找解决瘟疫的潜在疗法"
+  }
+ ],
+ "sortnum": 38
+}

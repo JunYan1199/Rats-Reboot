@@ -1,0 +1,24 @@
+{
+ "name": "第二步：液体与能量运输",
+ "icon": "rats:rat_upgrade_bucket",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：让老鼠搬运液体或能量，而不是物品。$(br2)桶升级：老鼠一次运 1000 mB 液体，在两个储液容器之间运输（同样用魔杖设置提取/存入）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：从岩浆储罐运到熔炉发电机、从水槽运到机器。$(br2)液体和能量升级都属于「运输类」，同时只能装一个。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：十字玻璃等同类×7 + 铁桶 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/bucket_upgrade"
+  }
+ ],
+ "sortnum": 9
+}

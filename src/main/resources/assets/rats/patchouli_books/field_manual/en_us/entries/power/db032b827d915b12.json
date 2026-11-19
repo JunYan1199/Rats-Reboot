@@ -1,0 +1,24 @@
+{
+ "name": "一秒充满两台 RS 控制器",
+ "icon": "guildjane:power_station",
+ "category": "rats:power",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "选「RF」，把连接器依次点在两台普通 RS 控制器上。每个接收端的最高供给率都按当前世界的 RS 控制器容量计算。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "愚者当前容量为 32,000 FE。每台最高 1,600 FE/t，20 游戏刻可将空控制器充满；其他 FE 设备还受自身输入上限限制。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "整合包默认关闭 RS 控制器耗电。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:power_station"
+  }
+ ],
+ "sortnum": 3
+}

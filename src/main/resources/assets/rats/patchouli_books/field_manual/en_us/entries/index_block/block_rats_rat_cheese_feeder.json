@@ -1,0 +1,17 @@
+{
+ "name": "老鼠奶酪喂食器",
+ "icon": "rats:rat_cheese_feeder",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_cheese_feeder",
+   "text": "玩法：$(l:keeping/604ea7efba658f20)第九步：奶酪喂食器$(/l)$(br2)登记名：$(br)rats:rat_cheese_feeder"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cheese_feeder/rat_cheese_feeder"
+  }
+ ],
+ "sortnum": 77
+}

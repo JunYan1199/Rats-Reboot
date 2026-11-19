@@ -1,0 +1,25 @@
+{
+ "name": "幽灵鼠盗木船",
+ "icon": "rats:pirat_boat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_boat",
+   "text": "玩法：$(l:collection/4d9dc56bed7dca4d)幽灵鼠盗木船$(/l)$(br2)登记名：$(br)rats:pirat_boat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_boat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "战利品表列出的物品（实际掉落受条件和概率影响）：spruce_planks、奶酪炮弹。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：幽灵鼠盗木运输船。"
+  }
+ ],
+ "sortnum": 97
+}

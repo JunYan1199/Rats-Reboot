@@ -1,0 +1,20 @@
+{
+ "name": "净化垃圾",
+ "icon": "rats:purified_garbage",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：净化垃圾，上面刷的老鼠一定不带瘟疫。$(br2)有什么用：想安全地刷普通老鼠（给猫抓、给自己驯服）就用它。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：垃圾堆×8 + 净化液，产出 ×8（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:purified_garbage"
+  }
+ ],
+ "sortnum": 12
+}

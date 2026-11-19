@@ -1,0 +1,12 @@
+{
+ "name": "幽灵鼠盗原木",
+ "icon": "rats:pirat_log",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "原木。$(br2)【材料来源】砍伐幽灵鼠盗树"
+  }
+ ],
+ "sortnum": 97
+}

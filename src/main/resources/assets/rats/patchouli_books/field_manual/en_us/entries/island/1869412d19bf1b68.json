@@ -1,0 +1,16 @@
+{
+ "name": "鼠西族弓",
+ "icon": "rats:ratlantis_bow",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西族弓：两倍速度射出强力箭矢。$(br2)【材料来源】工作台合成：鼠铜锭×2 + 鼠西族魂火×3 + 奥术科技 + 弓（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_bow"
+  }
+ ],
+ "sortnum": 54
+}

@@ -1,0 +1,17 @@
+{
+ "name": "品红色老鼠房屋",
+ "icon": "rats:rat_house_magenta",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house_magenta",
+   "text": "登记名：$(br)rats:rat_house_magenta"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_magenta"
+  }
+ ],
+ "sortnum": 90
+}

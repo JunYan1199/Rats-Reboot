@@ -1,0 +1,16 @@
+{
+ "name": "武器与攻击",
+ "icon": "rats:rat_upgrade_crossbow",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "远程、爆炸和特殊攻击。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/crossbow_upgrade"
+  }
+ ],
+ "sortnum": 64
+}

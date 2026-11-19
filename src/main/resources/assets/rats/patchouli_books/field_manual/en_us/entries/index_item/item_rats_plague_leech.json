@@ -1,0 +1,21 @@
+{
+ "name": "瘟疫水蛭",
+ "icon": "rats:plague_leech",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:plague_leech",
+   "text": "玩法：$(l:collection/33de14569d58fa40)瘟疫水蛭$(/l)$(br2)登记名：$(br)rats:plague_leech"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：瘟兽、瘟疫医生。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：瘟疫炖汤、老鼠升级：野兽坐骑。"
+  }
+ ],
+ "sortnum": 109
+}

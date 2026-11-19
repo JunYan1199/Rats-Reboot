@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "pattern": ["  A", " C ", "R  "], "key": {"A": {"item": "minecraft:amethyst_shard"}, "C": {"item": "minecraft:copper_ingot"}, "R": {"item": "minecraft:redstone"}}, "result": {"item": "guildjane:wireless_connector"}}

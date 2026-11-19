@@ -1,0 +1,17 @@
+{
+ "name": "幽灵鼠盗木楼梯",
+ "icon": "rats:pirat_stairs",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_stairs",
+   "text": "玩法：$(l:collection/5f18059b8991b363)幽灵鼠盗木楼梯$(/l)$(br2)登记名：$(br)rats:pirat_stairs"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_stairs"
+  }
+ ],
+ "sortnum": 63
+}

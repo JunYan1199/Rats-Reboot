@@ -1,0 +1,16 @@
+{
+ "name": "瘟疫物品",
+ "icon": "rats:purifying_liquid",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "瘟疫相关的材料、药品和 Boss 掉落。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:purifying_liquid"
+  }
+ ],
+ "sortnum": 30
+}

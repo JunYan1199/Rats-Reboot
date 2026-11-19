@@ -1,0 +1,12 @@
+{
+ "name": "老鼠小曲",
+ "icon": "rats:music_disc_mice_on_venus",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "指挥老鼠击杀魔笛人以获得音乐唱片"
+  }
+ ],
+ "sortnum": 44
+}

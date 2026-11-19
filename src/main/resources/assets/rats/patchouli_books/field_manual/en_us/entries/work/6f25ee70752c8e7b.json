@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：装瓶工",
+ "icon": "rats:rat_upgrade_bottler",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：「工作」时从附近水源或蜂巢装瓶，采集水瓶、蜂蜜瓶。$(br2)【材料来源】工作台合成：玻璃瓶×4 + 线×4 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/bottler_upgrade"
+  }
+ ],
+ "sortnum": 13
+}

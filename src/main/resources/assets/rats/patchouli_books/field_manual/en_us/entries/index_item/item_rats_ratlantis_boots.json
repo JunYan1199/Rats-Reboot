@@ -1,0 +1,17 @@
+{
+ "name": "鼠西洲靴子",
+ "icon": "rats:ratlantis_boots",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_boots",
+   "text": "玩法：$(l:island/617101a1b354f349)鼠西洲靴子$(/l)$(br2)登记名：$(br)rats:ratlantis_boots"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_boots"
+  }
+ ],
+ "sortnum": 292
+}

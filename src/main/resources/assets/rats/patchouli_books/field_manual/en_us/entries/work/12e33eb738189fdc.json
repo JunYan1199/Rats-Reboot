@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：种植家",
+ "icon": "rats:rat_upgrade_farmer",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：「工作」时种下手里的种子，对作物和树苗用骨粉，并收割成熟作物。$(br2)实例：存入箱子里放种子和骨粉，老鼠自己去拿来种。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：干草捆×2 + 农夫帽 + 铁锄×2 + 老鼠升级：园丁 + 卷心菜种子等同类×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/farmer_upgrade"
+  }
+ ],
+ "sortnum": 29
+}

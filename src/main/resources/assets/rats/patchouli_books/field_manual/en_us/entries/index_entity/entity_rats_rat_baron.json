@@ -1,0 +1,12 @@
+{
+ "name": "老鼠男爵",
+ "icon": "rats:rat_baron_spawn_egg",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:rat_baron"
+  }
+ ],
+ "sortnum": 21
+}

@@ -1,0 +1,17 @@
+{
+ "name": "觉醒之石·飞羽",
+ "icon": "rats:gale_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:gale_stone",
+   "text": "玩法：$(l:evolution/6364e00e1620a1f0)风翎鼠 · 飞行$(/l)$(br2)登记名：$(br)rats:gale_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gale_stone"
+  }
+ ],
+ "sortnum": 56
+}

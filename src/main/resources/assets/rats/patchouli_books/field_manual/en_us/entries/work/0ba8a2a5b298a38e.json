@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：过节啦",
+ "icon": "rats:rat_upgrade_christmas",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠每小时送你一份随机礼物，存进下方箱子或拿在手里。圣诞帽来自圣诞季野鼠或村民交易。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：圣诞老人帽×3 + 煤炭或木炭×2 + 老鼠升级：基础 + 云杉树苗×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/christmas_upgrade"
+  }
+ ],
+ "sortnum": 53
+}

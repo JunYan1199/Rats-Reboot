@@ -1,0 +1,139 @@
+{
+  "variants": {
+    "facing=north,part=p00": {
+      "model": "guildjane:block/guild_task_board_0_0"
+    },
+    "facing=east,part=p00": {
+      "model": "guildjane:block/guild_task_board_0_0",
+      "y": 90
+    },
+    "facing=south,part=p00": {
+      "model": "guildjane:block/guild_task_board_0_0",
+      "y": 180
+    },
+    "facing=west,part=p00": {
+      "model": "guildjane:block/guild_task_board_0_0",
+      "y": 270
+    },
+    "facing=north,part=p01": {
+      "model": "guildjane:block/guild_task_board_0_1"
+    },
+    "facing=east,part=p01": {
+      "model": "guildjane:block/guild_task_board_0_1",
+      "y": 90
+    },
+    "facing=south,part=p01": {
+      "model": "guildjane:block/guild_task_board_0_1",
+      "y": 180
+    },
+    "facing=west,part=p01": {
+      "model": "guildjane:block/guild_task_board_0_1",
+      "y": 270
+    },
+    "facing=north,part=p02": {
+      "model": "guildjane:block/guild_task_board_0_2"
+    },
+    "facing=east,part=p02": {
+      "model": "guildjane:block/guild_task_board_0_2",
+      "y": 90
+    },
+    "facing=south,part=p02": {
+      "model": "guildjane:block/guild_task_board_0_2",
+      "y": 180
+    },
+    "facing=west,part=p02": {
+      "model": "guildjane:block/guild_task_board_0_2",
+      "y": 270
+    },
+    "facing=north,part=p10": {
+      "model": "guildjane:block/guild_task_board_1_0"
+    },
+    "facing=east,part=p10": {
+      "model": "guildjane:block/guild_task_board_1_0",
+      "y": 90
+    },
+    "facing=south,part=p10": {
+      "model": "guildjane:block/guild_task_board_1_0",
+      "y": 180
+    },
+    "facing=west,part=p10": {
+      "model": "guildjane:block/guild_task_board_1_0",
+      "y": 270
+    },
+    "facing=north,part=p11": {
+      "model": "guildjane:block/guild_task_board_1_1"
+    },
+    "facing=east,part=p11": {
+      "model": "guildjane:block/guild_task_board_1_1",
+      "y": 90
+    },
+    "facing=south,part=p11": {
+      "model": "guildjane:block/guild_task_board_1_1",
+      "y": 180
+    },
+    "facing=west,part=p11": {
+      "model": "guildjane:block/guild_task_board_1_1",
+      "y": 270
+    },
+    "facing=north,part=p12": {
+      "model": "guildjane:block/guild_task_board_1_2"
+    },
+    "facing=east,part=p12": {
+      "model": "guildjane:block/guild_task_board_1_2",
+      "y": 90
+    },
+    "facing=south,part=p12": {
+      "model": "guildjane:block/guild_task_board_1_2",
+      "y": 180
+    },
+    "facing=west,part=p12": {
+      "model": "guildjane:block/guild_task_board_1_2",
+      "y": 270
+    },
+    "facing=north,part=p20": {
+      "model": "guildjane:block/guild_task_board_2_0"
+    },
+    "facing=east,part=p20": {
+      "model": "guildjane:block/guild_task_board_2_0",
+      "y": 90
+    },
+    "facing=south,part=p20": {
+      "model": "guildjane:block/guild_task_board_2_0",
+      "y": 180
+    },
+    "facing=west,part=p20": {
+      "model": "guildjane:block/guild_task_board_2_0",
+      "y": 270
+    },
+    "facing=north,part=p21": {
+      "model": "guildjane:block/guild_task_board_2_1"
+    },
+    "facing=east,part=p21": {
+      "model": "guildjane:block/guild_task_board_2_1",
+      "y": 90
+    },
+    "facing=south,part=p21": {
+      "model": "guildjane:block/guild_task_board_2_1",
+      "y": 180
+    },
+    "facing=west,part=p21": {
+      "model": "guildjane:block/guild_task_board_2_1",
+      "y": 270
+    },
+    "facing=north,part=p22": {
+      "model": "guildjane:block/guild_task_board_2_2"
+    },
+    "facing=east,part=p22": {
+      "model": "guildjane:block/guild_task_board_2_2",
+      "y": 90
+    },
+    "facing=south,part=p22": {
+      "model": "guildjane:block/guild_task_board_2_2",
+      "y": 180
+    },
+    "facing=west,part=p22": {
+      "model": "guildjane:block/guild_task_board_2_2",
+      "y": 270
+    }
+  }
+}

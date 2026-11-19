@@ -1,0 +1,24 @@
+{
+ "name": "解扣器",
+ "icon": "rats:cat_unbuckler",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：解扣器，给猫卸下挎包。$(br2)怎么用：手持解扣器右键你的猫。挎包里的鼠片全部掉在地上，空挎包也会掉出来还给你，猫停止捕鼠和存货（存货绑定一并清除）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "常见问题：掉在地上的鼠片是普通掉落物，5 分钟不捡会消失，掉进岩浆会烧掉，记得及时捡。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁粒×2 + 奶酪 + 木棍（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cat_unbuckler"
+  }
+ ],
+ "sortnum": 27
+}

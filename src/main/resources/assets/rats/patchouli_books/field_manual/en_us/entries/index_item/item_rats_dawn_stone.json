@@ -1,0 +1,17 @@
+{
+ "name": "觉醒之石",
+ "icon": "rats:dawn_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:dawn_stone",
+   "text": "玩法：$(l:evolution/60b8d2b8d2157acc)拳穗鼠 · 格斗$(/l)$(br2)登记名：$(br)rats:dawn_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dawn_stone"
+  }
+ ],
+ "sortnum": 38
+}

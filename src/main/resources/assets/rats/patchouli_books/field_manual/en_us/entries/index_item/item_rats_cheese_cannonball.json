@@ -1,0 +1,21 @@
+{
+ "name": "奶酪炮弹",
+ "icon": "rats:cheese_cannonball",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cheese_cannonball",
+   "text": "从鼠盗加农炮发射$(br2)玩法：$(l:island/46e373c108016ced)奶酪炮弹$(/l)$(br2)登记名：$(br)rats:cheese_cannonball"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：鼠盗船。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：海盗。"
+  }
+ ],
+ "sortnum": 27
+}

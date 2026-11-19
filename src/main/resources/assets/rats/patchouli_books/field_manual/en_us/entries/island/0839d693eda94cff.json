@@ -1,0 +1,20 @@
+{
+ "name": "鼠西族战机核心",
+ "icon": "rats:marbled_cheese_golem_core",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠西族战机核心。$(br2)召唤战机（像铁傀儡一样搭）：用任意大理石纹奶酪方块搭出「T」字身体，核心放在身体中间，最上面放鼠西族战机头颅（野蛮鼠西族/机器鼠/精灵掉落，"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "或考古学家研究骷髅头颅）。$(br2)【材料来源】工作台合成：大理石纹生奶酪×8 + 鼠西洲宝石（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_golem_core"
+  }
+ ],
+ "sortnum": 36
+}

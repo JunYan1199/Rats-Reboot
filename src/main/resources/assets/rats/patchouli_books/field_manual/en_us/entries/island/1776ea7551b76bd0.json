@@ -1,0 +1,12 @@
+{
+ "name": "粗鼠铜",
+ "icon": "rats:raw_oratchalcum",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：粗鼠铜，烧炼得到鼠铜锭。$(br2)【材料来源】挖鼠铜矿石掉落"
+  }
+ ],
+ "sortnum": 20
+}

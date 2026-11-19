@@ -1,0 +1,12 @@
+{
+ "name": "鼠西族魂火",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:ratlantean_spirit_flame"
+  }
+ ],
+ "sortnum": 38
+}

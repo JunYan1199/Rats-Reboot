@@ -1,0 +1,17 @@
+{
+ "name": "淡灰色老鼠房屋",
+ "icon": "rats:rat_house_light_gray",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house_light_gray",
+   "text": "登记名：$(br)rats:rat_house_light_gray"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_light_gray"
+  }
+ ],
+ "sortnum": 88
+}

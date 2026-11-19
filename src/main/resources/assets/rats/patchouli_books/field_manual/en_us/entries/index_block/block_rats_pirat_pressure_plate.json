@@ -1,0 +1,17 @@
+{
+ "name": "幽灵鼠盗木压力板",
+ "icon": "rats:pirat_pressure_plate",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_pressure_plate",
+   "text": "玩法：$(l:collection/7b07ccbd1a383cf0)幽灵鼠盗木压力板$(/l)$(br2)登记名：$(br)rats:pirat_pressure_plate"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_pressure_plate"
+  }
+ ],
+ "sortnum": 59
+}

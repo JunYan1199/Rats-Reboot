@@ -1,0 +1,16 @@
+{
+ "name": "鼠西洲升级方块",
+ "icon": "rats:ratlantis_upgrade_block",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲升级方块：4 个基础鼠西族升级的储存方块。$(br2)【材料来源】工作台合成：老鼠升级：基础鼠西族×4（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_upgrade_block"
+  }
+ ],
+ "sortnum": 77
+}

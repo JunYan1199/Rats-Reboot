@@ -1,0 +1,21 @@
+{
+ "name": "幽灵鼠盗木栅栏",
+ "icon": "rats:pirat_fence",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_fence",
+   "text": "玩法：$(l:collection/579abb8f59e985b6)幽灵鼠盗木栅栏$(/l)$(br2)登记名：$(br)rats:pirat_fence"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_fence"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：飞翔的荷兰鼠的钟。"
+  }
+ ],
+ "sortnum": 53
+}

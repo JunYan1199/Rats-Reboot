@@ -1,0 +1,17 @@
+{
+ "name": "蓝色鼠吊床",
+ "icon": "rats:rat_hammock_blue",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_hammock_blue",
+   "text": "登记名：$(br)rats:rat_hammock_blue"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:hammocks/hammock_dyed_blue"
+  }
+ ],
+ "sortnum": 134
+}

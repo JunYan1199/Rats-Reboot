@@ -1,0 +1,20 @@
+{
+ "name": "16 色钻钻乐",
+ "icon": "rats:rat_tube_red",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "8 根任意颜色的钻钻乐围一圈染料，染成该颜色的 8 根。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：塑料原料×6，产出 ×16；工作台合成：白色钻钻乐等同类×8 + 白色染料，产出 ×8（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:tubes/rat_tube_red"
+  }
+ ],
+ "sortnum": 66
+}

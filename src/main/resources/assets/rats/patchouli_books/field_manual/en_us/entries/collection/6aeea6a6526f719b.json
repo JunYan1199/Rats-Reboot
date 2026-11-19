@@ -1,0 +1,12 @@
+{
+ "name": "鼠西族战机头颅",
+ "icon": "rats:marbled_cheese_rat_head",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西族战机头颅：召唤战机用。$(br2)【材料来源】让带「考古学家」升级的老鼠研究：骷髅头颅（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 91
+}

@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "goety"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rats:rare_candy_super"
+    },
+    {
+      "item": "rats:rare_candy_super"
+    },
+    {
+      "item": "rats:rare_candy_super"
+    },
+    {
+      "item": "rats:rare_candy_small"
+    },
+    {
+      "item": "rats:rat_upgrade_basic"
+    },
+    {
+      "item": "goety:dark_ingot"
+    },
+    {
+      "item": "goety:ectoplasm"
+    }
+  ],
+  "result": {
+    "item": "rats:rare_candy_grand"
+  }
+}

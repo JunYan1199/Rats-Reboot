@@ -1,0 +1,21 @@
+{
+ "name": "熟鼠肉",
+ "icon": "rats:cooked_rat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cooked_rat",
+   "text": "玩法：$(l:keeping/274158e665819195)熟鼠肉$(/l)$(br2)登记名：$(br)rats:cooked_rat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：恶魔老鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠汉堡。"
+  }
+ ],
+ "sortnum": 34
+}

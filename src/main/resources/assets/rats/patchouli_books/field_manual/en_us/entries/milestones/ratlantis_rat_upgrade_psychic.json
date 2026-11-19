@@ -1,0 +1,12 @@
+{
+ "name": "才不是U盘",
+ "icon": "rats:rat_upgrade_psychic",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：灵媒，并且拥有自己的通灵鼠"
+  }
+ ],
+ "sortnum": 14
+}

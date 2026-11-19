@@ -1,0 +1,25 @@
+{
+ "name": "污渍",
+ "icon": "rats:filth",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:filth",
+   "text": "玩法：$(l:collection/5458816afcf7eb7d)污渍$(/l)$(br2)登记名：$(br)rats:filth"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:filth"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：瘟兽、鼠王。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：污渍球、老鼠升级：野兽坐骑、老鼠升级：采石场。"
+  }
+ ],
+ "sortnum": 52
+}

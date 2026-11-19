@@ -1,0 +1,12 @@
+{
+ "name": "老鼠鱼",
+ "icon": "rats:ratfish",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲水里成群的小鱼。"
+  }
+ ],
+ "sortnum": 33
+}

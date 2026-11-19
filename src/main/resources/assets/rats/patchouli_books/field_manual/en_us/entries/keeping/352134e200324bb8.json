@@ -1,0 +1,16 @@
+{
+ "name": "塑料原料",
+ "icon": "rats:raw_plastic",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：塑料原料。做水瓶、食盆、钻钻乐（管道）、鼠小屋的材料。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】高炉烧炼：塑料废品；熔炉烧炼：塑料废品；熔炉烧炼：老鼠“坨坨”（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 62
+}

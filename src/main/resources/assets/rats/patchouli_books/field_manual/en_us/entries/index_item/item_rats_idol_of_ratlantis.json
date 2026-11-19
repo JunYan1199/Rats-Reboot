@@ -1,0 +1,21 @@
+{
+ "name": "鼠西洲的降灵",
+ "icon": "rats:idol_of_ratlantis",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:idol_of_ratlantis",
+   "text": "力量的化身$(br2)玩法：$(l:island/44ca97a1f911e0ba)第八步：特殊材料与降灵$(/l)$(br2)登记名：$(br)rats:idol_of_ratlantis"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:idol_of_ratlantis"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：非信者、老鼠升级组合器。"
+  }
+ ],
+ "sortnum": 77
+}

@@ -1,0 +1,17 @@
+{
+ "name": "暗之石",
+ "icon": "rats:dusk_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:dusk_stone",
+   "text": "玩法：$(l:evolution/6579342472ff34e6)幽灯鼠 · 幽灵$(/l)$(br2)登记名：$(br)rats:dusk_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dusk_stone"
+  }
+ ],
+ "sortnum": 43
+}

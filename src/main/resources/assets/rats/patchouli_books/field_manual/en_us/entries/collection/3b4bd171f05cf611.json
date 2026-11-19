@@ -1,0 +1,12 @@
+{
+ "name": "高压爬行者碎块",
+ "icon": "rats:charged_creeper_chunk",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "高压爬行者碎块：能量、时间鼠场、自爆专家升级的材料。$(br2)【材料来源】击杀闪电苦力怕掉落；宠物店店主出售"
+  }
+ ],
+ "sortnum": 56
+}

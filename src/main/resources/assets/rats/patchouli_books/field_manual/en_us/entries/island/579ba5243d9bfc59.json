@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：海盗",
+ "icon": "rats:rat_upgrade_buccaneer",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠背上一门自动射击的奶酪大炮。属于爆炸类，警告：易爆！"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：奶酪炮弹×6 + 鼠盗帽 + 老鼠升级：基础鼠西族 + 鼠盗弯刀（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/buccaneer_upgrade"
+  }
+ ],
+ "sortnum": 80
+}

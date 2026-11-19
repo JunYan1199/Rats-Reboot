@@ -1,0 +1,20 @@
+{
+ "name": "老鼠长笛",
+ "icon": "rats:rat_flute",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠长笛。给周围所有驯服的老鼠下同一个命令；潜行右键切换命令。$(br2)注意：会打断附近所有老鼠原来的命令，装了「笛子免疫」升级的老鼠不受影响。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁粒×2 + 甘蔗×3 + 陶瓦等同类×2（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_flute"
+  }
+ ],
+ "sortnum": 42
+}

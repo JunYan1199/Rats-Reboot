@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LFL"
+  ],
+  "key": {
+    "L": { "item": "minecraft:leather" },
+    "F": { "item": "minecraft:feather" }
+  },
+  "result": {
+    "item": "rats:brick_hat_explorer"
+  }
+}

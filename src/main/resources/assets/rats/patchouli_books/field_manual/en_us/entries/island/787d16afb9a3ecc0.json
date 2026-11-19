@@ -1,0 +1,20 @@
+{
+ "name": "鼠西洲的头颅",
+ "icon": "rats:ratlantis_rat_skull",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲的头颅：集齐四个 Boss 材料的证明。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：金色老鼠头颅 + 奥术科技 + 灵能鼠脑 + 飞翔的荷兰鼠的船舵 + 双翼机翼（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_rat_skull"
+  }
+ ],
+ "sortnum": 69
+}

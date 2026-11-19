@@ -1,0 +1,13 @@
+{
+ "name": "老鼠升级：共振快递",
+ "icon": "rats:rat_upgrade_rsi_courier",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_rsi_courier",
+   "text": "玩法：$(l:work/1d54b1ab58b20707)老鼠升级：共振快递$(/l)$(br2)登记名：$(br)rats:rat_upgrade_rsi_courier"
+  }
+ ],
+ "sortnum": 261
+}

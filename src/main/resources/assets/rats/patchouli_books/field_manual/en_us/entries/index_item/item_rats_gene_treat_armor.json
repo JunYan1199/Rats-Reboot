@@ -1,0 +1,17 @@
+{
+ "name": "护甲基因酥",
+ "icon": "rats:gene_treat_armor",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:gene_treat_armor",
+   "text": "登记名：$(br)rats:gene_treat_armor"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gene_treat_armor"
+  }
+ ],
+ "sortnum": 58
+}

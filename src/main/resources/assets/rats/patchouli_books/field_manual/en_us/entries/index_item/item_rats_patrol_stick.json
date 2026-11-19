@@ -1,0 +1,17 @@
+{
+ "name": "老鼠巡逻魔杖",
+ "icon": "rats:patrol_stick",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:patrol_stick",
+   "text": "玩法：$(l:keeping/080867c172e85020)巡逻$(/l)$(br2)登记名：$(br)rats:patrol_stick"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:patrol_stick"
+  }
+ ],
+ "sortnum": 94
+}

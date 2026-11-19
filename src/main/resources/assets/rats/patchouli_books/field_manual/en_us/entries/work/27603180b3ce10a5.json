@@ -1,0 +1,28 @@
+{
+ "name": "第六步：战斗培养",
+ "icon": "rats:rat_upgrade_strength",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：把老鼠培养成战士。$(br2)战斗老鼠的思路：$(br2)• 先用「力量」「生命」「护甲」打底，再合成「战士」，最后升级为「战神」；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 加一个远程武器（弓/弩）或特殊攻击（恶魔、蜜蜂毒、龙火）；$(br2)• 用防护类升级免疫环境伤害；$(br2)• 坐骑升级让老鼠骑上专属坐骑，血量和机动性大增。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "繁育时挑伤害、生命基因高的老鼠，效果叠加。$(br2)实例：跟随命令的战神老鼠 + 自疗 + 弩，就是一个可靠的保镖。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：骨头×4 + 铁剑×2 + 铁锭×2 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/strength_upgrade"
+  }
+ ],
+ "sortnum": 56
+}

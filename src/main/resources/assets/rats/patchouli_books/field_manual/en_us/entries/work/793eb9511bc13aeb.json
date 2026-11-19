@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：小鸡骑士",
+ "icon": "rats:rat_upgrade_chicken_mount",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠骑上小鸡，移动很快。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：卷心菜种子等同类×3 + 羽翼×2 + 老鼠升级：基础坐骑 + 生鸡肉×2 + 鸡蛋（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/chicken_mount_upgrade"
+  }
+ ],
+ "sortnum": 83
+}

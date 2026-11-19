@@ -1,0 +1,21 @@
+{
+ "name": "老鼠袋",
+ "icon": "rats:rat_sack",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_sack",
+   "text": "玩法：$(l:keeping/4ef1be4ff8820f22)老鼠袋$(/l)$(br2)登记名：$(br)rats:rat_sack"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_sack"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：捕鼠网。"
+  }
+ ],
+ "sortnum": 173
+}

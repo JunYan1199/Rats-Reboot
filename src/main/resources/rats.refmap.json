@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/github/alexthe666/rats/mixin/PiglinAiMixin": {
+      "isWearingGold": "Lnet/minecraft/world/entity/monster/piglin/PiglinAi;m_34808_(Lnet/minecraft/world/entity/LivingEntity;)Z"
+    },
+    "com/github/alexthe666/rats/mixin/WardenMixin": {
+      "canTargetEntity": "Lnet/minecraft/world/entity/monster/warden/Warden;m_219385_(Lnet/minecraft/world/entity/Entity;)Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/github/alexthe666/rats/mixin/PiglinAiMixin": {
+        "isWearingGold": "Lnet/minecraft/world/entity/monster/piglin/PiglinAi;m_34808_(Lnet/minecraft/world/entity/LivingEntity;)Z"
+      },
+      "com/github/alexthe666/rats/mixin/WardenMixin": {
+        "canTargetEntity": "Lnet/minecraft/world/entity/monster/warden/Warden;m_219385_(Lnet/minecraft/world/entity/Entity;)Z"
+      }
+    }
+  }
+}

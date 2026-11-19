@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：速度",
+ "icon": "rats:rat_upgrade_speed",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：提高老鼠移动速度。也能从宠物店店主处购买。$(br2)适合：运输、收集类老鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：红石粉×4 + 红石块×4 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/speed_upgrade"
+  }
+ ],
+ "sortnum": 20
+}

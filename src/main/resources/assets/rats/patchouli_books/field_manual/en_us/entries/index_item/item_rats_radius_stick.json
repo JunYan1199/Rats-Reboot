@@ -1,0 +1,17 @@
+{
+ "name": "老鼠范围魔杖",
+ "icon": "rats:radius_stick",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:radius_stick",
+   "text": "玩法：$(l:keeping/4bc8309d5dab42df)老鼠范围魔杖$(/l)$(br2)登记名：$(br)rats:radius_stick"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:radius_stick"
+  }
+ ],
+ "sortnum": 118
+}

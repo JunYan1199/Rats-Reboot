@@ -1,0 +1,16 @@
+{
+ "name": "加工与特殊工作",
+ "icon": "rats:rat_crafting_table",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成、附魔、加速等加工类升级。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_crafting_table"
+  }
+ ],
+ "sortnum": 46
+}

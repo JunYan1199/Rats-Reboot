@@ -1,0 +1,16 @@
+{
+ "name": "鼠瓜灯",
+ "icon": "rats:jack_o_ratern",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠瓜灯：会发光的南瓜灯。$(br2)【材料来源】工作台合成：雕刻南瓜 + 生鼠肉 + 火把（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:jack_o_ratern"
+  }
+ ],
+ "sortnum": 49
+}

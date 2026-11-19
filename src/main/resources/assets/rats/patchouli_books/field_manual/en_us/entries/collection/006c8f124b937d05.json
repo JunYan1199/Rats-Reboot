@@ -1,0 +1,16 @@
+{
+ "name": "金色光环",
+ "icon": "rats:halo_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "金色光环：天使升级的材料。宠物店店主也出售。$(br2)【材料来源】工作台合成：金粒×6 + 金锭×2（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:halo_hat"
+  }
+ ],
+ "sortnum": 10
+}

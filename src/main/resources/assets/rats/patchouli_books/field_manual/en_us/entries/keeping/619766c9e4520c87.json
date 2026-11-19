@@ -1,0 +1,16 @@
+{
+ "name": "老鼠育种灯",
+ "icon": "rats:rat_breeding_lantern",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：育种灯。装进鼠笼后，笼里的公母老鼠才会繁殖。$(br2)【材料来源】工作台合成：线 + 红色染料×3 + 红石灯（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_breeding_lantern"
+  }
+ ],
+ "sortnum": 57
+}

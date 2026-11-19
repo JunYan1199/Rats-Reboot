@@ -1,0 +1,12 @@
+{
+ "name": "幽灵鼠盗树苗",
+ "icon": "rats:pirat_sapling",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "幽灵鼠盗树苗。$(br2)【材料来源】鼠西洲的幽灵鼠盗树掉落；灵质右键任意树苗"
+  }
+ ],
+ "sortnum": 96
+}

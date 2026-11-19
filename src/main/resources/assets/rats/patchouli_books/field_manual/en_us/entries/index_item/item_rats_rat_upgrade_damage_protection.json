@@ -1,0 +1,21 @@
+{
+ "name": "老鼠升级：伤害保护",
+ "icon": "rats:rat_upgrade_damage_protection",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_damage_protection",
+   "text": "玩法：$(l:work/77455d80cfc3ec58)防护与特殊$(/l)$(br2)登记名：$(br)rats:rat_upgrade_damage_protection"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/damage_protection_upgrade"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：自爆专家。"
+  }
+ ],
+ "sortnum": 226
+}

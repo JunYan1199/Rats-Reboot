@@ -1,0 +1,12 @@
+{
+ "name": "鼠套花盆栽",
+ "icon": "minecraft:compass",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:potted_ratglove_flower"
+  }
+ ],
+ "sortnum": 70
+}

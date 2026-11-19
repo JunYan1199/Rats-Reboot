@@ -1,0 +1,16 @@
+{
+ "name": "哨兵上岗",
+ "icon": "rats:brick_hat_sentry",
+ "category": "rats:brick",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "在要守卫的地方设置驻守点，给哨兵准备剑。它会清理据点附近的敌人，把战斗经验结成经验瓶。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_hat_sentry"
+  }
+ ],
+ "sortnum": 3
+}

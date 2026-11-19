@@ -1,0 +1,12 @@
+{
+ "name": "黑死神镰刀",
+ "icon": "rats:plague_scythe",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "黑死神镰刀：空挥会召唤瘟云帮你作战。$(br2)【材料来源】击败黑死神掉落"
+  }
+ ],
+ "sortnum": 40
+}

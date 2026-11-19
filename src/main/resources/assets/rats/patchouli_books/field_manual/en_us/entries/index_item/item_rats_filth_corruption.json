@@ -1,0 +1,17 @@
+{
+ "name": "污渍球",
+ "icon": "rats:filth_corruption",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:filth_corruption",
+   "text": "把老鼠转化成鼠王$(br2)玩法：$(l:island/228c8cd39517701c)主世界鼠患$(/l)$(br2)登记名：$(br)rats:filth_corruption"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:filth_corruption"
+  }
+ ],
+ "sortnum": 53
+}

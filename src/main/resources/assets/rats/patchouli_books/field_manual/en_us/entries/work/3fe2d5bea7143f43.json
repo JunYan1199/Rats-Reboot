@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：笛子免疫",
+ "icon": "rats:rat_upgrade_no_flute",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠不再听从长笛命令，适合固定岗位的工人鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：黏土球×4 + 老鼠长笛 + 红色染料×3 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/flute_upgrade"
+  }
+ ],
+ "sortnum": 78
+}

@@ -1,0 +1,24 @@
+{
+ "name": "第九步：奶酪喂食器",
+ "icon": "rats:rat_cheese_feeder",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：放一个奶酪喂食器，让老鼠自己补粮。$(br2)怎么用：$(br2)• 放在老鼠活动的范围里，右键放入奶酪（只收奶酪类，最多 9 组）；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 老鼠饿了、或者储备快空了，会自己跑过来取；$(br2)• 漏斗、管道、老鼠运输都能往里补货，可以全自动；$(br2)• 喂食器空了，上面的奶酪模型会消失，一眼就能看出来。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：凝乳台产奶酪 → 漏斗 → 喂食器，老鼠永远不会饿。$(br2)【材料来源】工作台合成：石头×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cheese_feeder/rat_cheese_feeder"
+  }
+ ],
+ "sortnum": 52
+}

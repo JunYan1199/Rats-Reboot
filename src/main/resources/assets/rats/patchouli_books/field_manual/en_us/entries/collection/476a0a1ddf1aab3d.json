@@ -1,0 +1,12 @@
+{
+ "name": "鼠铜矿石",
+ "icon": "rats:oratchalcum_ore",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠铜矿石。$(br2)【材料来源】鼠西洲地下，用精准采集挖取"
+  }
+ ],
+ "sortnum": 94
+}

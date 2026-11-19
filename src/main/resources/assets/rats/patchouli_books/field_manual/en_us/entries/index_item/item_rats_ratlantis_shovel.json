@@ -1,0 +1,17 @@
+{
+ "name": "鼠西洲锹",
+ "icon": "rats:ratlantis_shovel",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_shovel",
+   "text": "玩法：$(l:island/078ad7f16710c7b4)鼠西洲锹$(/l)$(br2)登记名：$(br)rats:ratlantis_shovel"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_shovel"
+  }
+ ],
+ "sortnum": 300
+}

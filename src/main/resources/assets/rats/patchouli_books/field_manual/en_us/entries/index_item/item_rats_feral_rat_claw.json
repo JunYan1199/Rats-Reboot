@@ -1,0 +1,21 @@
+{
+ "name": "野蛮鼠爪",
+ "icon": "rats:feral_rat_claw",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:feral_rat_claw",
+   "text": "玩法：$(l:island/4de210c2fd3ca605)第五步：鼠西洲的敌人$(/l)$(br2)登记名：$(br)rats:feral_rat_claw"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：野蛮鼠西族。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：野蛮鼠西族指虎、鼠西洲的降灵、老鼠升级：组合、老鼠升级：野蛮撕咬、知性小瓶。"
+  }
+ ],
+ "sortnum": 50
+}

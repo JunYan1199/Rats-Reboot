@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "rats:evolution_strike",
+    "rats:evolution_electric",
+    "rats:evolution_fire",
+    "rats:evolution_wave",
+    "rats:evolution_breath",
+    "rats:evolution_frost",
+    "rats:evolution_toxin"
+  ]
+}

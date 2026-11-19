@@ -1,0 +1,13 @@
+{
+ "name": "鼠西洲传送门",
+ "icon": "rats:ratlantis_portal",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_portal",
+   "text": "玩法：$(l:island/4fac2928fa4ffd8f)第二步：进入鼠西洲$(/l)$(br2)登记名：$(br)rats:ratlantis_portal"
+  }
+ ],
+ "sortnum": 105
+}

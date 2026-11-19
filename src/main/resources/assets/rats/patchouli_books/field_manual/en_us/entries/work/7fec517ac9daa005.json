@@ -1,0 +1,36 @@
+{
+ "name": "第三步：管道——钻钻乐",
+ "icon": "rats:rat_tube_white",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：铺老鼠专用管道，让老鼠穿墙走捷径。$(br2)怎么用：$(br2)• 手持钻钻乐右键放置，相邻的会自动连接；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 右键管道的某一面可以打开/关闭入口，老鼠只会从开着的入口钻进去；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 合并版里，老鼠会自动规划经过管道网络的路线去往目标（容器、房屋等），并从靠近目标的出口钻出来。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：基地楼上是仓库、楼下是农田——用一根竖直管道连接，两端开口，运输老鼠就会自己钻管道上下楼。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "塑料原料来自塑料废品烧炼；也能用染料把一圈 8 根染成别的颜色（第四章图鉴）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：塑料原料×6，产出 ×16；工作台合成：白色钻钻乐等同类×8 + 白色染料，产出 ×8（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:tubes/rat_tube_plastic"
+  }
+ ],
+ "sortnum": 18
+}

@@ -1,0 +1,17 @@
+{
+ "name": "黑色钻钻乐",
+ "icon": "rats:rat_tube_black",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_tube_black",
+   "text": "登记名：$(br)rats:rat_tube_black"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:tubes/rat_tube_black"
+  }
+ ],
+ "sortnum": 179
+}

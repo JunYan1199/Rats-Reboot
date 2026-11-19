@@ -1,0 +1,17 @@
+{
+ "name": "电颊石",
+ "icon": "rats:spark_cheek_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:spark_cheek_stone",
+   "text": "玩法：$(l:evolution/637df45d9bb53073)电颊鼠 · 两档电量$(/l)$(br2)登记名：$(br)rats:spark_cheek_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:spark_cheek_stone"
+  }
+ ],
+ "sortnum": 308
+}

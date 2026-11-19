@@ -1,0 +1,13 @@
+{
+ "name": "野蛮鼠西族刷怪蛋",
+ "icon": "rats:feral_ratlantean_spawn_egg",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:feral_ratlantean_spawn_egg",
+   "text": "登记名：$(br)rats:feral_ratlantean_spawn_egg"
+  }
+ ],
+ "sortnum": 51
+}

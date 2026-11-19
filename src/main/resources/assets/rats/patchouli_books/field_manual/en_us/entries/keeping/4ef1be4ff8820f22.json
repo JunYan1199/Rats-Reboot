@@ -1,0 +1,20 @@
+{
+ "name": "老鼠袋",
+ "icon": "rats:rat_sack",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠袋，把驯服的老鼠装进袋子随身带（本整合包容量 16 只）。$(br2)注意：老鼠袋只装驯服的老鼠；野生老鼠请用猫抓成鼠片。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：皮革×7 + 奶酪（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_sack"
+  }
+ ],
+ "sortnum": 45
+}

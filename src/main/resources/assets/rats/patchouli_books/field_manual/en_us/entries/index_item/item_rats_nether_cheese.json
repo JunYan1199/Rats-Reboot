@@ -1,0 +1,25 @@
+{
+ "name": "下界奶酪",
+ "icon": "rats:nether_cheese",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:nether_cheese",
+   "text": "玩法：$(l:keeping/17e035e7b4b6da0c)下界奶酪$(/l)$(br2)登记名：$(br)rats:nether_cheese"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:nether_cheese"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：恶魔老鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：下界奶酪块、绯红净化液、老鼠巡逻魔杖、老鼠升级：恶魔、老鼠升级：炽足兽坐骑。"
+  }
+ ],
+ "sortnum": 89
+}

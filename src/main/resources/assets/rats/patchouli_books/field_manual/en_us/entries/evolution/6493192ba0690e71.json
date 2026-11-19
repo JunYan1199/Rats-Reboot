@@ -1,0 +1,24 @@
+{
+ "name": "铆钢鼠 · 钢",
+ "icon": "rats:alloy_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　钢$(br2)进化道具　光之石·钢纹$(br2)原有被动　受到的近战伤害 −12%$(br2)50 级　铆接护甲"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "连续 3 秒未移动后，自身护甲提高 6，并替 4 格内队友分担 15% 的直接伤害。移动解除，分担伤害只结算一次。$(br2)100 级　抢修"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "携带铁粒时，每 30 秒可消耗 1 粒，为主人主手或老鼠工具栏中一件受损工具恢复 4 点耐久，优先修剩余耐久比例最低的。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:alloy_stone"
+  }
+ ],
+ "sortnum": 19
+}

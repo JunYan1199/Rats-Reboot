@@ -1,0 +1,16 @@
+{
+ "name": "装饰与杂项",
+ "icon": "rats:rat_igloo_white",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠笼装饰、彩色家具、旗帜图案、唱片和各种杂项。$(br2)钻钻乐、鼠小屋、吊床、老鼠房屋都有 16 种颜色：先做出白色（基础款），再用染料染色。也能在宠物店宝箱里找到。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:igloos/rat_igloo_plastic"
+  }
+ ],
+ "sortnum": 43
+}

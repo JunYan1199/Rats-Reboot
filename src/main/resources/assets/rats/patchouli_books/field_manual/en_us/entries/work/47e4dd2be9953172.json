@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：龙",
+ "icon": "rats:rat_upgrade_dragon",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：飞行并喷火攻击，免疫火焰伤害。需要石棉、飞行、战士三个升级做材料。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：火焰弹×4 + 老鼠升级：石棉老鼠 + 龙翼×2 + 老鼠升级：飞行 + 老鼠升级：战士（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/dragon_upgrade"
+  }
+ ],
+ "sortnum": 24
+}

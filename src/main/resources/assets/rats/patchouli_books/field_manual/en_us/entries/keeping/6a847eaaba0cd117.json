@@ -1,0 +1,24 @@
+{
+ "name": "凝乳台",
+ "icon": "rats:auto_curdler",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：凝乳台，奶酪自动化机器：「奶进，奶酪出」。$(br2)怎么用：往里倒牛奶（桶或管道），持续产出奶酪；配合漏斗/老鼠运输就能全自动。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "常见问题：配方里的「平板玻璃」是机械动力的装饰玻璃，以 JEI 显示为准。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：奶酪块×6 + 十字玻璃等同类 + 漏斗 + 炼药锅（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:auto_curdler"
+  }
+ ],
+ "sortnum": 23
+}

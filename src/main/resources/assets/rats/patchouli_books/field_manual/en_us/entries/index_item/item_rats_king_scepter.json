@@ -1,0 +1,17 @@
+{
+ "name": "国王权杖",
+ "icon": "rats:king_scepter",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:king_scepter",
+   "text": "右键自己的布瑞克，按它戴的职业帽派任务$(br2)登记名：$(br)rats:king_scepter"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:king_scepter"
+  }
+ ],
+ "sortnum": 79
+}

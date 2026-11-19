@@ -1,0 +1,17 @@
+{
+ "name": "小小黑色壁球",
+ "icon": "rats:little_black_squash_balls",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:little_black_squash_balls",
+   "text": "玩法：$(l:collection/3b1ce1782621df0b)小小黑色壁球$(/l)$(br2)登记名：$(br)rats:little_black_squash_balls"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：小小黑色虫子。"
+  }
+ ],
+ "sortnum": 82
+}

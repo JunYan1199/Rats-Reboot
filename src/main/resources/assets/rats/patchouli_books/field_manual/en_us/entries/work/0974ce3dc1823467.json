@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：精英能量传输",
+ "icon": "rats:rat_upgrade_elite_energy",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：精英能量传输，速率更高。$(br2)【材料来源】工作台合成：下界石英×4 + 烈焰棒×4 + 老鼠升级：高级能量传输（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/elite_energy_upgrade"
+  }
+ ],
+ "sortnum": 16
+}

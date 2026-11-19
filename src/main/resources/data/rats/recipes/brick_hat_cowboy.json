@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LNL",
+    "LLL"
+  ],
+  "key": {
+    "L": { "item": "minecraft:leather" },
+    "N": { "item": "minecraft:iron_nugget" }
+  },
+  "result": {
+    "item": "rats:brick_hat_cowboy"
+  }
+}

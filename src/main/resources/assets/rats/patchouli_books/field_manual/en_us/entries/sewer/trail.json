@@ -1,0 +1,12 @@
+{
+ "name": "追踪偷食鼠",
+ "icon": "rats:pizza_slice",
+ "category": "rats:sewer",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "食物失窃后，沿面包屑寻找偷食鼠留下的鼠洞。右键入口进入这一次的下水道；中途可以从出口撤退，再从同一洞口回来。"
+  }
+ ],
+ "sortnum": 0
+}

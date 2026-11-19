@@ -1,0 +1,16 @@
+{
+ "name": "指挥与管理工具",
+ "icon": "rats:rat_whistle",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "管老鼠用的各种工具。拿到一个就算完成。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_whistle"
+  }
+ ],
+ "sortnum": 38
+}

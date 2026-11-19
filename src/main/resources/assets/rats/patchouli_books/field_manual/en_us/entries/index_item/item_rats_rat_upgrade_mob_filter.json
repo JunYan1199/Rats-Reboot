@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：生物名单",
+ "icon": "rats:rat_upgrade_mob_filter",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_mob_filter",
+   "text": "玩法：$(l:work/3ab6e8c692079c2b)老鼠升级：生物名单$(/l)$(br2)登记名：$(br)rats:rat_upgrade_mob_filter"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/filter_upgrade"
+  }
+ ],
+ "sortnum": 248
+}

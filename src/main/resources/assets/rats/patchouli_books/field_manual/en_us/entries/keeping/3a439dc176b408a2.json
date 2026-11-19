@@ -1,0 +1,20 @@
+{
+ "name": "鼠奴纸契",
+ "icon": "rats:rat_papers",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠奴纸契，用于玩家之间转让老鼠。$(br2)怎么用：右键自己的老鼠绑定，再右键另一名玩家，老鼠就归他了。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：书 + 羽毛（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_papers"
+  }
+ ],
+ "sortnum": 44
+}

@@ -1,0 +1,17 @@
+{
+ "name": "棕色老鼠房屋",
+ "icon": "rats:rat_house_brown",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house_brown",
+   "text": "登记名：$(br)rats:rat_house_brown"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_brown"
+  }
+ ],
+ "sortnum": 83
+}

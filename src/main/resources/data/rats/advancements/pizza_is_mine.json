@@ -1,0 +1,19 @@
+{
+  "parent": "rats:pizza_rat_steal",
+  "criteria": {
+    "kill_rat_boss": {
+      "conditions": { "entity": [ { "condition": "minecraft:entity_properties", "entity": "this", "predicate": { "type": "rats:rat_boss" } } ] },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": { "translate": "advancement.rats.pizza_is_mine.desc" },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": { "item": "rats:pizza_slice" },
+    "show_toast": true,
+    "title": { "translate": "advancement.rats.pizza_is_mine.title" }
+  },
+  "requirements": [ [ "kill_rat_boss" ] ]
+}

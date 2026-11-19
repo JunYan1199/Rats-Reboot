@@ -1,0 +1,16 @@
+{
+ "name": "老鼠头颅",
+ "icon": "rats:rat_skull",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠头颅，可以当装饰戴在头上。$(br2)有什么用：8 金锭包住它得到金色老鼠头颅，是很多高级升级和净化液的材料；不死族升级也要用它。也可以合成骨粉。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】野生老鼠和恶魔老鼠的稀有掉落；瘟疫医生也出售（3 绿宝石）"
+  }
+ ],
+ "sortnum": 5
+}

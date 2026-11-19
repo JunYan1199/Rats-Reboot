@@ -1,0 +1,12 @@
+{
+ "name": "当下的垃圾太多？宇宙中没有垃圾！",
+ "icon": "rats:garbage_pile",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "把方块丢进垃圾桶里获取垃圾堆。可以用来做老鼠刷怪场！"
+  }
+ ],
+ "sortnum": 33
+}

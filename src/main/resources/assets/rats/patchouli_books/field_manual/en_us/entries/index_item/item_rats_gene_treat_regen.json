@@ -1,0 +1,17 @@
+{
+ "name": "回复基因酥",
+ "icon": "rats:gene_treat_regen",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:gene_treat_regen",
+   "text": "登记名：$(br)rats:gene_treat_regen"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gene_treat_regen"
+  }
+ ],
+ "sortnum": 64
+}

@@ -1,0 +1,17 @@
+{
+ "name": "幽灵鼠盗木台阶",
+ "icon": "rats:pirat_slab",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_slab",
+   "text": "玩法：$(l:collection/4f1b253e9af4770c)幽灵鼠盗木台阶$(/l)$(br2)登记名：$(br)rats:pirat_slab"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_slab"
+  }
+ ],
+ "sortnum": 62
+}

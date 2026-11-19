@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：伐木工",
+ "icon": "rats:rat_upgrade_lumberjack",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：「工作」时立刻砍倒整棵树，原木存入容器。$(br2)注意：合并版会保护你亲手放置的原木和树叶（不会拆你的木屋）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：红色羊毛×4 + 铁斧 + 黑色羊毛×2 + 老鼠升级：基础 + 橡树树苗等同类（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/lumberjack_upgrade"
+  }
+ ],
+ "sortnum": 31
+}

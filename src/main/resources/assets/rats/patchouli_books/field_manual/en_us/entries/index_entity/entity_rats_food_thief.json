@@ -1,0 +1,12 @@
+{
+ "name": "偷食鼠",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:food_thief"
+  }
+ ],
+ "sortnum": 8
+}

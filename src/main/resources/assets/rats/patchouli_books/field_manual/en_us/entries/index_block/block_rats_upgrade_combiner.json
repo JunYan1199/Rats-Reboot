@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级组合器",
+ "icon": "rats:upgrade_combiner",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:upgrade_combiner",
+   "text": "玩法：$(l:work/6caea26302f782f6)组合工具$(/l)$(br2)登记名：$(br)rats:upgrade_combiner"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrade_combiner"
+  }
+ ],
+ "sortnum": 111
+}

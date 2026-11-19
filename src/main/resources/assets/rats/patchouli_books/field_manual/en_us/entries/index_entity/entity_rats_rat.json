@@ -1,0 +1,16 @@
+{
+ "name": "野鼠",
+ "icon": "rats:rat_spawn_egg",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:rat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "战利品表列出的物品（实际掉落受条件和概率影响）：鼠皮、生鼠肉、老鼠头颅、老鼠爪、肥厚奶酪令牌、瘟疫源质、瘟疫古卷。"
+  }
+ ],
+ "sortnum": 20
+}

@@ -1,0 +1,12 @@
+{
+ "name": "幽灵鼠盗木运输船",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:chest_boat"
+  }
+ ],
+ "sortnum": 3
+}

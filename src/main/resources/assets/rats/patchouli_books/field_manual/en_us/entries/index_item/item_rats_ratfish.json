@@ -1,0 +1,25 @@
+{
+ "name": "老鼠鱼",
+ "icon": "rats:ratfish",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratfish",
+   "text": "玩法：$(l:island/136fa7d226656dfe)老鼠鱼$(/l)$(br2)登记名：$(br)rats:ratfish"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "战利品表列出的物品（实际掉落受条件和概率影响）：老鼠鱼。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：老鼠鱼。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠西洲的降灵。"
+  }
+ ],
+ "sortnum": 283
+}

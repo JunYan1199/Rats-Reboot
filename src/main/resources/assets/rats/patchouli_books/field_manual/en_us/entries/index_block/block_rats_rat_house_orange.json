@@ -1,0 +1,17 @@
+{
+ "name": "橙色老鼠房屋",
+ "icon": "rats:rat_house_orange",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house_orange",
+   "text": "登记名：$(br)rats:rat_house_orange"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_orange"
+  }
+ ],
+ "sortnum": 91
+}

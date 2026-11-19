@@ -1,0 +1,21 @@
+{
+ "name": "金色光环",
+ "icon": "rats:halo_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:halo_hat",
+   "text": "玩法：$(l:collection/006c8f124b937d05)金色光环$(/l)$(br2)登记名：$(br)rats:halo_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:halo_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：天使。"
+  }
+ ],
+ "sortnum": 74
+}

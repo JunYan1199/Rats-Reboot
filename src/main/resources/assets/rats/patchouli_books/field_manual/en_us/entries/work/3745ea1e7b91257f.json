@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：石棉老鼠",
+ "icon": "rats:rat_upgrade_asbestos",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：免疫火焰、熔岩、岩浆块伤害。$(br2)【材料来源】工作台合成：白色羊毛×4 + 熔岩桶×2 + 十字玻璃等同类×2 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/asbestos_upgrade"
+  }
+ ],
+ "sortnum": 73
+}

@@ -1,0 +1,16 @@
+{
+ "name": "液体与能量",
+ "icon": "rats:rat_upgrade_big_bucket",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "液体、牛奶、装瓶和四档能量运输。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/big_bucket_upgrade"
+  }
+ ],
+ "sortnum": 10
+}

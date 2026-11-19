@@ -1,0 +1,21 @@
+{
+ "name": "双翼机翼",
+ "icon": "rats:biplane_wing",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:biplane_wing",
+   "text": "玩法：$(l:island/561cf490034fe49c)击败老鼠男爵$(/l)$(br2)登记名：$(br)rats:biplane_wing"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：老鼠男爵的飞机。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：双翼机坐骑、鼠西洲护腿、§a鼠西洲的头颅。"
+  }
+ ],
+ "sortnum": 9
+}

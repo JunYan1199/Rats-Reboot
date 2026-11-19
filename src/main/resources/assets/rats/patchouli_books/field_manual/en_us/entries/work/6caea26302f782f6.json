@@ -1,0 +1,16 @@
+{
+ "name": "组合工具",
+ "icon": "rats:upgrade_combiner",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "组合器和分解器的材料来自鼠西洲（第三章），可以先看说明。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrade_combiner"
+  }
+ ],
+ "sortnum": 88
+}

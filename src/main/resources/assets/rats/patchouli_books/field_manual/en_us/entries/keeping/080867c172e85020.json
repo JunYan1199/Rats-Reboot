@@ -1,0 +1,16 @@
+{
+ "name": "巡逻",
+ "icon": "rats:patrol_stick",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠沿你标记的路线巡逻，遇到怪物就战斗。$(br2)实例：用巡逻魔杖右键老鼠绑定，再沿城墙依次右键几个方块作为路线点，命令设为「巡逻」。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:patrol_stick"
+  }
+ ],
+ "sortnum": 37
+}

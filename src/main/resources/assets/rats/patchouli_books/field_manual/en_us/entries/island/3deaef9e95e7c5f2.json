@@ -1,0 +1,32 @@
+{
+ "name": "鼠西洲 · 失落的帝国",
+ "icon": "rats:chunky_cheese_token",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲是一个由奶酪大理石建成、已经沉没的老鼠文明。那里有新的矿物、新的敌人、四个 Boss，以及最强的「鼠西族升级」。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "重要：当前合并版已经把鼠西洲内置了，新建世界时不需要手动勾选任何数据包，老存档也能直接去。$(br2)完整通关路线："
+  },
+  {
+   "type": "patchouli:text",
+   "text": "① 在主世界打鼠患 Boss，攒令牌碎片 / 碎块 → 合成肥厚奶酪令牌；$(br2)② 令牌放在地上打开传送门，进入鼠西洲；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "③ 采集鼠套花、鼠铜、鼠西洲宝石，做基础鼠西族升级；$(br2)④ 击败四个鼠西洲 Boss，拿到它们的专属材料；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "⑤ 做鼠西洲全套装备，合成「鼠西洲的降灵」解锁升级组合器；$(br2)⑥ 最终合成「非信者」升级——第三章的终点。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:chunky_cheese_token"
+  }
+ ],
+ "sortnum": 0
+}

@@ -1,0 +1,12 @@
+{
+ "name": "我们忘拿饼干了！",
+ "icon": "rats:cheese",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "将一块奶酪变成四个奶酪"
+  }
+ ],
+ "sortnum": 28
+}

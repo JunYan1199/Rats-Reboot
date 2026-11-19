@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ageofmythology:damage_test_dummy",
+      "required": false
+    },
+    {
+      "id": "ageofmythology:arena_test_dummy",
+      "required": false
+    }
+  ]
+}

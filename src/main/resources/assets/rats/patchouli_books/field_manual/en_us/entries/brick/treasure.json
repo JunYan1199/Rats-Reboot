@@ -1,0 +1,16 @@
+{
+ "name": "寻宝鼠上岗",
+ "icon": "rats:brick_hat_explorer",
+ "category": "rats:brick",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "先给寻宝鼠设好家，让它在家附近寻宝。每日次数有限，主人进度会影响能找到的物资。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_hat_explorer"
+  }
+ ],
+ "sortnum": 4
+}

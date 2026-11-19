@@ -1,0 +1,17 @@
+{
+ "name": "白色钻钻乐",
+ "icon": "rats:rat_tube_white",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_tube_white",
+   "text": "玩法：$(l:work/7fec517ac9daa005)第三步：管道——钻钻乐$(/l)$(br2)登记名：$(br)rats:rat_tube_white"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:tubes/rat_tube_plastic"
+  }
+ ],
+ "sortnum": 193
+}

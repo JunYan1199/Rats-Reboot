@@ -1,0 +1,21 @@
+{
+ "name": "厨师帽",
+ "icon": "rats:chef_toque",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:chef_toque",
+   "text": "玩法：$(l:collection/409882e3b334006a)厨师帽$(/l)$(br2)登记名：$(br)rats:chef_toque"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:chef_toque"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：厨师。"
+  }
+ ],
+ "sortnum": 30
+}

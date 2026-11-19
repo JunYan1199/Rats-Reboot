@@ -1,0 +1,17 @@
+{
+ "name": "瘟疫古卷",
+ "icon": "rats:plague_tome",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:plague_tome",
+   "text": "玩法：$(l:island/36b4fc9e877c1d18)瘟疫古卷$(/l)$(br2)登记名：$(br)rats:plague_tome"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：野鼠。"
+  }
+ ],
+ "sortnum": 112
+}

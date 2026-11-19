@@ -1,0 +1,16 @@
+{
+ "name": "外观",
+ "icon": "rats:ratbow_essence",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "让老鼠更好看的道具。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratbow_essence"
+  }
+ ],
+ "sortnum": 48
+}

@@ -1,0 +1,21 @@
+{
+ "name": "金色老鼠头颅",
+ "icon": "rats:golden_rat_skull",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:golden_rat_skull",
+   "text": "玩法：$(l:collection/14f249f3b6bb3f2c)金色老鼠头颅$(/l)$(br2)登记名：$(br)rats:golden_rat_skull"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:golden_rat_skull"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：腐化老鼠头颅、绯红净化液、镀金老鼠长笛、净化液、老鼠升级：贵族鼠、老鼠升级：战神、老鼠升级：金鼠偶、老鼠升级：小偷、§a鼠西洲的头颅。"
+  }
+ ],
+ "sortnum": 73
+}

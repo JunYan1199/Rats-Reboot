@@ -1,0 +1,16 @@
+{
+ "name": "幽灵鼠盗木按钮",
+ "icon": "rats:pirat_button",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "按钮。$(br2)【材料来源】工作台合成：幽灵鼠盗木板；机械动力动力锯：幽灵鼠盗木板（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_button"
+  }
+ ],
+ "sortnum": 110
+}

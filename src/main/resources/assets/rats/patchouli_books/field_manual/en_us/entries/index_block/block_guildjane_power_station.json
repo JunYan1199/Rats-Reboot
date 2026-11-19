@@ -1,0 +1,17 @@
+{
+ "name": "发电站",
+ "icon": "guildjane:power_station",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "guildjane:power_station",
+   "text": "玩法：$(l:power/8663eec075a555b7)搭起第一座发电站$(/l)$(br2)登记名：$(br)guildjane:power_station"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:power_station"
+  }
+ ],
+ "sortnum": 1
+}

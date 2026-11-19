@@ -1,0 +1,17 @@
+{
+ "name": "暗之石·毒晶",
+ "icon": "rats:venom_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:venom_stone",
+   "text": "玩法：$(l:evolution/6a7ce57afb155280)紫螫鼠 · 毒$(/l)$(br2)登记名：$(br)rats:venom_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:venom_stone"
+  }
+ ],
+ "sortnum": 319
+}

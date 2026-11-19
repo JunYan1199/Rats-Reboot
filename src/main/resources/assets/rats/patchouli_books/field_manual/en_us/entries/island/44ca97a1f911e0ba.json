@@ -1,0 +1,36 @@
+{
+ "name": "第八步：特殊材料与降灵",
+ "icon": "rats:idol_of_ratlantis",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：集齐鼠西洲的九种代表物，合成「鼠西洲的降灵」。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "九种材料：野蛮鼠爪、鼠盗帽、鼠西族魂火、鼠西族长袍、鼠西洲的头颅、老鼠鱼、鼠铜块、鼠西洲宝石、鼠套花瓣。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "其中「鼠西洲的头颅」要用金色老鼠头颅 + 奥术科技 + 灵能鼠脑 + 荷兰鼠船舵 + 双翼机翼合成——也就是说要先打完四个 Boss。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "降灵的用途：老鼠升级组合器的核心材料（第二章「升级组合」），也是非信者升级的材料。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：野蛮鼠爪 + 鼠盗帽 + 鼠西族魂火 + 老鼠长袍 + 鼠西洲的头颅 + 老鼠鱼 + 鼠铜块 + 鼠西洲宝石 + 鼠套花花瓣（J"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "EI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:idol_of_ratlantis"
+  }
+ ],
+ "sortnum": 59
+}

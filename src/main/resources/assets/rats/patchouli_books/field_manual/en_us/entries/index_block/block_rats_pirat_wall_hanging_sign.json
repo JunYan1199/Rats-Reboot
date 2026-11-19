@@ -1,0 +1,12 @@
+{
+ "name": "悬挂式幽灵鼠盗墙标",
+ "icon": "minecraft:compass",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:pirat_wall_hanging_sign"
+  }
+ ],
+ "sortnum": 65
+}

@@ -1,0 +1,17 @@
+{
+ "name": "受污染的食物",
+ "icon": "rats:contaminated_food",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:contaminated_food",
+   "text": "玩法：$(l:collection/37ad0f4925ca72b3)受污染的食物$(/l)$(br2)登记名：$(br)rats:contaminated_food"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：瘟疫医生。"
+  }
+ ],
+ "sortnum": 33
+}

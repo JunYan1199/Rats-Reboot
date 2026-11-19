@@ -1,0 +1,25 @@
+{
+ "name": "肥厚奶酪令牌",
+ "icon": "rats:chunky_cheese_token",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:chunky_cheese_token",
+   "text": "玩法：$(l:island/3deaef9e95e7c5f2)鼠西洲 · 失落的帝国$(/l)$(br2)登记名：$(br)rats:chunky_cheese_token"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:chunky_cheese_token"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：野鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：考古学家。"
+  }
+ ],
+ "sortnum": 15
+}

@@ -1,0 +1,12 @@
+{
+ "name": "不要恬静地走进那个夜",
+ "icon": "rats:plague_scythe",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "击败黑死神"
+  }
+ ],
+ "sortnum": 31
+}

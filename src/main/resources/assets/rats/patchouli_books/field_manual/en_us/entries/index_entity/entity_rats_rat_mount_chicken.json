@@ -1,0 +1,12 @@
+{
+ "name": "老鼠小鸡坐骑",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:rat_mount_chicken"
+  }
+ ],
+ "sortnum": 29
+}

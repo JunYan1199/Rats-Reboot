@@ -1,0 +1,25 @@
+{
+ "name": "香甜药草花束",
+ "icon": "rats:herb_bundle",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:herb_bundle",
+   "text": "玩法：$(l:collection/736dc717f6df07fb)香甜药草花束$(/l)$(br2)登记名：$(br)rats:herb_bundle"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:herb_bundle"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：黑死神、瘟疫医生。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：瘟疫炖汤。"
+  }
+ ],
+ "sortnum": 75
+}

@@ -1,0 +1,12 @@
+{
+ "name": "缠结鼠尾",
+ "icon": "rats:tangled_rat_tails",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "缠结鼠尾：时间鼠器、镀金长笛、腐化头颅的材料。$(br2)【材料来源】击败鼠王掉落；鼠西洲钓鱼宝藏"
+  }
+ ],
+ "sortnum": 42
+}

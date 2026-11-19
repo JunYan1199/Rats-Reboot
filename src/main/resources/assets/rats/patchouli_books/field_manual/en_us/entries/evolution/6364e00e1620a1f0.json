@@ -1,0 +1,24 @@
+{
+ "name": "风翎鼠 · 飞行",
+ "icon": "rats:gale_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　飞行$(br2)进化道具　觉醒之石·飞羽$(br2)原有被动　空中下降速度上限 0.30 格/刻$(br2)50 级　俯冲"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "主动跃向 4～10 格外的目标，落地时对目标造成攻击力 120% 的伤害，冷却 9 秒。$(br2)100 级　顺风"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "进入战斗时，12 格内同队鼠移速提高 25%，施法前摇缩短 15%，持续 6 秒，冷却 20 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gale_stone"
+  }
+ ],
+ "sortnum": 12
+}

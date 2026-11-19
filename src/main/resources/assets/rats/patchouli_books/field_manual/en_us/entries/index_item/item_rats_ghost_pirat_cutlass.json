@@ -1,0 +1,21 @@
+{
+ "name": "幽灵鼠盗弯刀",
+ "icon": "rats:ghost_pirat_cutlass",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ghost_pirat_cutlass",
+   "text": "玩法：$(l:island/0b9a4fc6b77a0cec)幽灵鼠盗弯刀$(/l)$(br2)登记名：$(br)rats:ghost_pirat_cutlass"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ghost_pirat_cutlass"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：幽灵鼠盗灵质、老鼠升级：空灵。"
+  }
+ ],
+ "sortnum": 67
+}

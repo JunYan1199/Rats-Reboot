@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：护甲",
+ "icon": "rats:rat_upgrade_armor",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：提高老鼠护甲。$(br2)【材料来源】工作台合成：铁锭×6 + 盾牌 + 老鼠升级：基础 + 铁块（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/armor_upgrade"
+  }
+ ],
+ "sortnum": 59
+}

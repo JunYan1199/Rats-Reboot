@@ -1,0 +1,21 @@
+{
+ "name": "奶酪块",
+ "icon": "rats:block_of_cheese",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:block_of_cheese",
+   "text": "玩法：$(l:keeping/17dc38bfe806cc4b)奶酪家族$(/l)$(br2)登记名：$(br)rats:block_of_cheese"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:block_of_cheese"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：蓝纹奶酪块、奶酪、旗帜图案。"
+  }
+ ],
+ "sortnum": 7
+}

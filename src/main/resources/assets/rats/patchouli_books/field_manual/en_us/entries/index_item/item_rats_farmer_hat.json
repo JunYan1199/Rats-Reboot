@@ -1,0 +1,21 @@
+{
+ "name": "农夫帽",
+ "icon": "rats:farmer_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:farmer_hat",
+   "text": "玩法：$(l:collection/4c23f99ed8337f83)农夫帽$(/l)$(br2)登记名：$(br)rats:farmer_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:farmer_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：渔夫帽·、老鼠升级：动物饲养员、老鼠升级：种植家。"
+  }
+ ],
+ "sortnum": 47
+}

@@ -1,0 +1,36 @@
+{
+ "name": "老鼠升级：考古学家",
+ "icon": "rats:rat_upgrade_archeologist",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠研究手里的物品，把它变成鼠西洲文物，放进下方容器或扔地上。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "研究表：兰花→鼠套花、绿宝石→鼠西洲宝石、下界合金锭→鼠铜锭、热带鱼→老鼠鱼、烈焰粉→魂火、皮革胸甲→长袍、铁剑→鼠盗弯刀、魔笛人帽→鼠盗帽、"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "发射器→机器鼠枪筒、骷髅头颅→战机头颅、兔子脚→野蛮鼠爪、幻翼膜→灵质、火焰弹→奶酪炮弹。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：考古学家老鼠坐在漏斗/箱子上方，运输老鼠给它送绿宝石，就是鼠西洲宝石工厂。考古学家帽来自丛林尸壳/骷髅的稀有装备或宠物店店主。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：大理石纹生奶酪×2 + 考古学家帽子 + 骨头×2 + 老鼠升级：基础 + 铁镐 + 肥厚奶酪令牌 + 铁锹（JEI：物品上按 "
+  },
+  {
+   "type": "patchouli:text",
+   "text": "R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/archeologist_upgrade"
+  }
+ ],
+ "sortnum": 78
+}

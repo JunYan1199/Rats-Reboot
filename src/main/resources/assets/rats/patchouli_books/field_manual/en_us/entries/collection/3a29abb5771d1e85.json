@@ -1,0 +1,16 @@
+{
+ "name": "黑色大理石纹奶酪",
+ "icon": "rats:black_marbled_cheese",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "黑色大理石纹奶酪。$(br2)【材料来源】工作台合成：大理石纹奶酪×8 + 黑色染料，产出 ×8；切石机：大理石纹奶酪（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:black_marbled_cheese"
+  }
+ ],
+ "sortnum": 73
+}

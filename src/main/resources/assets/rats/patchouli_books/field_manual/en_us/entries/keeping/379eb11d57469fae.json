@@ -1,0 +1,12 @@
+{
+ "name": "鼠皮",
+ "icon": "rats:rat_pelt",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠皮。$(br2)有什么用：4 张鼠皮能合成 1 张皮革，前期缺皮革时很实用；还能做老鼠旗帜图案。$(br2)【材料来源】击杀野生老鼠、鼠盗、瘟兽；鼠西洲钓鱼也能钓到"
+  }
+ ],
+ "sortnum": 3
+}

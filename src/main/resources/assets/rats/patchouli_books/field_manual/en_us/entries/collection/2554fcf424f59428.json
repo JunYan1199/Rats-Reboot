@@ -1,0 +1,16 @@
+{
+ "name": "老鼠菲斯帽",
+ "icon": "rats:rat_fez",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠菲斯帽。$(br2)【材料来源】工作台合成：奶酪条 + 红色羊毛×5（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_fez"
+  }
+ ],
+ "sortnum": 7
+}

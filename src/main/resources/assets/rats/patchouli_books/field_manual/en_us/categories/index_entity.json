@@ -1,0 +1,7 @@
+{
+ "name": "生物与投射物",
+ "icon": "minecraft:egg",
+ "description": "搜索名称，查看登记名、现有物品提示和可查到的配方或掉落。",
+ "sortnum": 14,
+ "parent": "rats:index"
+}

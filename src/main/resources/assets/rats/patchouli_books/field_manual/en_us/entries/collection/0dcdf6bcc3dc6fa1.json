@@ -1,0 +1,16 @@
+{
+ "name": "悬挂式幽灵鼠盗木告示牌",
+ "icon": "rats:pirat_hanging_sign",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "悬挂式告示牌。$(br2)【材料来源】工作台合成：锁链×2 + 去皮幽灵鼠盗木×6，产出 ×6（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_hanging_sign"
+  }
+ ],
+ "sortnum": 112
+}

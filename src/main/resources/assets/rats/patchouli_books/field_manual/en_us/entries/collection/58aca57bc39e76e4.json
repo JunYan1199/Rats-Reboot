@@ -1,0 +1,16 @@
+{
+ "name": "16 色全收集",
+ "icon": "rats:rat_tube_red",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "每个条目要求集齐全部 16 种颜色，属于收藏挑战，不急着做。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:tubes/rat_tube_red"
+  }
+ ],
+ "sortnum": 65
+}

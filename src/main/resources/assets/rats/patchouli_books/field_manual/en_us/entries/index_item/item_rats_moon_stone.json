@@ -1,0 +1,17 @@
+{
+ "name": "月之石",
+ "icon": "rats:moon_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:moon_stone",
+   "text": "玩法：$(l:evolution/6413f6de68a781f3)月环鼠 · 恶$(/l)$(br2)登记名：$(br)rats:moon_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:moon_stone"
+  }
+ ],
+ "sortnum": 85
+}

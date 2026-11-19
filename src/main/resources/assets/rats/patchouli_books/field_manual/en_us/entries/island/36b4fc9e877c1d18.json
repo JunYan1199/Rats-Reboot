@@ -1,0 +1,12 @@
+{
+ "name": "瘟疫古卷",
+ "icon": "rats:plague_tome",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：瘟疫古卷。对瘟疫医生右键，雷击把他变成黑死神 Boss。$(br2)【材料来源】疫鼠的超稀有掉落；宠物店店主或瘟疫医生出售（32 绿宝石）；鼠西洲钓鱼宝藏"
+  }
+ ],
+ "sortnum": 11
+}

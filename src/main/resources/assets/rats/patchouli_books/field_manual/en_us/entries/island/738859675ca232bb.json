@@ -1,0 +1,12 @@
+{
+ "name": "灵能鼠脑",
+ "icon": "rats:psionic_rat_brain",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "灵能鼠脑。4 个合成脑方块。$(br2)【材料来源】新·鼠西族掉落"
+  }
+ ],
+ "sortnum": 62
+}

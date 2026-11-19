@@ -1,0 +1,20 @@
+{
+ "name": "瘟疫与治疗",
+ "icon": "rats:plague_essence",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "疫鼠会传播「瘟疫」效果：持续掉血、虚弱。被疫鼠咬或碰到就可能感染。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "治疗：香甜药草花束、陈年糖蜜、瘟疫水蛭能缓解，瘟疫炖汤能治愈；净化液可以治愈患病生物（还能治好僵尸村民）。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:scythe_to_essence"
+  }
+ ],
+ "sortnum": 29
+}

@@ -1,0 +1,16 @@
+{
+ "name": "主世界鼠患",
+ "icon": "rats:filth_corruption",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "主世界的三个鼠类 Boss 和瘟疫医生。打败它们能拿令牌材料和强力装备。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:filth_corruption"
+  }
+ ],
+ "sortnum": 6
+}

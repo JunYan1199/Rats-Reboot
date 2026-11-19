@@ -1,0 +1,16 @@
+{
+ "name": "幽灵鼠盗木栅栏",
+ "icon": "rats:pirat_fence",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "栅栏。$(br2)【材料来源】工作台合成：幽灵鼠盗木板×4 + 木棍×2，产出 ×3；机械动力动力锯：幽灵鼠盗木板（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_fence"
+  }
+ ],
+ "sortnum": 105
+}

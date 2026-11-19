@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：祛魔师",
+ "icon": "rats:rat_upgrade_disenchanter",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_disenchanter",
+   "text": "老鼠可以祛魔持有的任意附魔物品$(br2)玩法：$(l:work/5a86f41aa2160316)老鼠升级：祛魔师$(/l)$(br2)登记名：$(br)rats:rat_upgrade_disenchanter"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/disenchanter_upgrade"
+  }
+ ],
+ "sortnum": 228
+}

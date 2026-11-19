@@ -1,0 +1,17 @@
+{
+ "name": "超级神奇糖果",
+ "icon": "rats:rare_candy_super",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rare_candy_super",
+   "text": "登记名：$(br)rats:rare_candy_super"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：特级神奇糖果。"
+  }
+ ],
+ "sortnum": 121
+}

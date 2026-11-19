@@ -1,0 +1,16 @@
+{
+ "name": "装饰与杂项",
+ "icon": "rats:rat_hammock_white",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "拿到一个算一个；各颜色全收集见下方「16 色全收集」。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:hammocks/hammock_dyed_white"
+  }
+ ],
+ "sortnum": 44
+}

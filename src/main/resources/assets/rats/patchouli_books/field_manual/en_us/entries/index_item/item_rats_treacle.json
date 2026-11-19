@@ -1,0 +1,17 @@
+{
+ "name": "陈年糖蜜",
+ "icon": "rats:treacle",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:treacle",
+   "text": "玩法：$(l:collection/157b8ccebc88df31)陈年糖蜜$(/l)$(br2)登记名：$(br)rats:treacle"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：瘟疫炖汤。"
+  }
+ ],
+ "sortnum": 318
+}

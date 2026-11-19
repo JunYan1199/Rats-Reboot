@@ -1,0 +1,12 @@
+{
+ "name": "经典有效",
+ "icon": "rats:rat_trap",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "制作捕鼠夹"
+  }
+ ],
+ "sortnum": 45
+}

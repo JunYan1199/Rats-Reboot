@@ -1,0 +1,21 @@
+{
+ "name": "羽翼",
+ "icon": "rats:feathery_wing",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:feathery_wing",
+   "text": "玩法：$(l:collection/4f354ebb8734abe6)羽翼$(/l)$(br2)登记名：$(br)rats:feathery_wing"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:feathery_wing"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：天使、老鼠升级：小鸡骑士、老鼠升级：伤害保护、老鼠升级：飞行。"
+  }
+ ],
+ "sortnum": 48
+}

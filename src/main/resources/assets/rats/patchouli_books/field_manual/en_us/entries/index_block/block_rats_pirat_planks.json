@@ -1,0 +1,25 @@
+{
+ "name": "幽灵鼠盗木板",
+ "icon": "rats:pirat_planks",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_planks",
+   "text": "玩法：$(l:collection/6a7e8a4abfe54249)幽灵鼠盗木$(/l)$(br2)登记名：$(br)rats:pirat_planks"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_planks"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：幽灵鼠盗木船、幽灵鼠盗木按钮、幽灵鼠盗木门、幽灵鼠盗木栅栏、幽灵鼠盗木栅栏门、幽灵鼠盗木压力板、幽灵鼠盗木告示牌、幽灵鼠盗木台阶、"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "幽灵鼠盗木楼梯、幽灵鼠盗木活板门。"
+  }
+ ],
+ "sortnum": 58
+}

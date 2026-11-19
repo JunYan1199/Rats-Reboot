@@ -1,0 +1,24 @@
+{
+ "name": "月环鼠 · 恶",
+ "icon": "rats:moon_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　恶$(br2)进化道具　月之石$(br2)原有被动　受到的击退力度 −20%$(br2)50 级　食月"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "直接命中半血以下的敌人时，追加攻击力 70% 的伤害。夜间提高到 100%，冷却 8 秒。$(br2)100 级　黯月守望"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "附近队友受到来自背后的直接伤害时，替其抵消本次伤害的 35%。夜间提高到 50%，冷却 10 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:moon_stone"
+  }
+ ],
+ "sortnum": 18
+}

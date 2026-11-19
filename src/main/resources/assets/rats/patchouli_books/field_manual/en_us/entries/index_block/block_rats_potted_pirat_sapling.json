@@ -1,0 +1,12 @@
+{
+ "name": "幽灵鼠盗树苗盆栽",
+ "icon": "minecraft:compass",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:potted_pirat_sapling"
+  }
+ ],
+ "sortnum": 69
+}

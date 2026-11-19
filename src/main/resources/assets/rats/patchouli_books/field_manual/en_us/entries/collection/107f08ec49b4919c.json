@@ -1,0 +1,16 @@
+{
+ "name": "幽灵鼠盗木",
+ "icon": "rats:pirat_wood",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "木头。$(br2)【材料来源】工作台合成：幽灵鼠盗原木×4，产出 ×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_wood"
+  }
+ ],
+ "sortnum": 100
+}

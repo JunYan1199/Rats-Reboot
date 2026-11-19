@@ -1,0 +1,12 @@
+{
+ "name": "奶酪之触",
+ "icon": "rats:cheese_stick",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成奶酪魔杖，用于设置老鼠的存放标记"
+  }
+ ],
+ "sortnum": 29
+}

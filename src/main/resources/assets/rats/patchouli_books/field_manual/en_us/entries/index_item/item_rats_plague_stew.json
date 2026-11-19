@@ -1,0 +1,17 @@
+{
+ "name": "瘟疫炖汤",
+ "icon": "rats:plague_stew",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:plague_stew",
+   "text": "玩法：$(l:collection/6df8ef13e829e1c3)瘟疫炖汤$(/l)$(br2)登记名：$(br)rats:plague_stew"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:plague_stew"
+  }
+ ],
+ "sortnum": 111
+}

@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：水性",
+ "icon": "rats:rat_upgrade_aquatic",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_aquatic",
+   "text": "玩法：$(l:work/08c023faecca1b13)老鼠升级：水性$(/l)$(br2)登记名：$(br)rats:rat_upgrade_aquatic"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/aquatic_upgrade"
+  }
+ ],
+ "sortnum": 197
+}

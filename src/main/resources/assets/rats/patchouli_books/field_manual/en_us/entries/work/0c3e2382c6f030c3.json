@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：挤奶女仆",
+ "icon": "rats:rat_upgrade_milker",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：命令设为「工作」时给附近的牛挤奶，牛奶运进存入容器（每次 1000 mB）。$(br2)实例：牛圈 + 储罐 + 挤奶老鼠 + 凝乳台 = 全自动奶酪。注意它属于采收类。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：皮革×4 + 生牛肉×3 + 老鼠升级：桶 + 奶桶（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/milker_upgrade"
+  }
+ ],
+ "sortnum": 12
+}

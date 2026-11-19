@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：战机坐骑",
+ "icon": "rats:rat_upgrade_automaton_mount",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠骑上鼠西族战机，坐骑 250 点生命，移动较慢。坐骑类。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：鼠西族战机头颅×2 + 远古锯片 + 鼠西族战机核心×3 + 老鼠升级：基础坐骑 + 奥术科技×2（JEI：物品上按 R 查看摆$(br2)法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/automaton_upgrade"
+  }
+ ],
+ "sortnum": 84
+}

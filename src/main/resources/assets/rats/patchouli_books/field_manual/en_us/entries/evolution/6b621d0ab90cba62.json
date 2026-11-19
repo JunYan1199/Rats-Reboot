@@ -1,0 +1,24 @@
+{
+ "name": "灯蛾鼠 · 虫",
+ "icon": "rats:cocoon_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　虫$(br2)进化道具　叶之石·虫茧$(br2)原有被动　对节肢生物的近战伤害 +15%$(br2)50 级　鳞粉标记"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "直接命中后标记敌人 6 秒，队友的弹射物对它增伤 15%，冷却 12 秒。$(br2)100 级　茧衣"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "附近正在施法的队友受击时，使其本次伤害减少 25%，并免受击退 3 秒，冷却 10 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cocoon_stone"
+  }
+ ],
+ "sortnum": 14
+}

@@ -1,0 +1,17 @@
+{
+ "name": "魔方垃圾",
+ "icon": "rats:pied_garbage",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pied_garbage",
+   "text": "玩法：$(l:collection/4903a626ea397973)魔方垃圾$(/l)$(br2)登记名：$(br)rats:pied_garbage"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pied_garbage"
+  }
+ ],
+ "sortnum": 49
+}

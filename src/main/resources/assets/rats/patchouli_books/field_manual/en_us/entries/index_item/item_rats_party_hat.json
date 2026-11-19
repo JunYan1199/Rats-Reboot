@@ -1,0 +1,17 @@
+{
+ "name": "派对帽",
+ "icon": "rats:party_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:party_hat",
+   "text": "可以染成任何颜色$(br2)玩法：$(l:collection/17bea77787e17dcd)全部帽子$(/l)$(br2)登记名：$(br)rats:party_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:party_hat"
+  }
+ ],
+ "sortnum": 93
+}

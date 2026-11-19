@@ -1,0 +1,17 @@
+{
+ "name": "光之石",
+ "icon": "rats:shine_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:shine_stone",
+   "text": "玩法：$(l:evolution/6cf8ad08341b1bdd)绸带鼠 · 妖精$(/l)$(br2)登记名：$(br)rats:shine_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:shine_stone"
+  }
+ ],
+ "sortnum": 307
+}

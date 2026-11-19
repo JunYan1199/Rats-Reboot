@@ -1,0 +1,17 @@
+{
+ "name": "黄绿色钻钻乐",
+ "icon": "rats:rat_tube_lime",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_tube_lime",
+   "text": "登记名：$(br)rats:rat_tube_lime"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:tubes/rat_tube_lime"
+  }
+ ],
+ "sortnum": 187
+}

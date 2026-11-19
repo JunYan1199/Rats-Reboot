@@ -1,0 +1,75 @@
+{
+  "_说明": "布瑞克寻宝鼠的宝藏表（草案，可用数据包覆盖 data/rats/brick_treasure.json）。按主人的进度解锁档次：unlock 为进度 id，null = 一开始就有。挖到时 55% 抽最高已解锁档，其余随机抽一个已解锁档；整合包里没有的物品自动跳过。",
+  "tiers": [
+    {
+      "name": "前期",
+      "unlock": null,
+      "entries": [
+        { "item": "minecraft:iron_ingot", "min": 2, "max": 5, "weight": 10 },
+        { "item": "minecraft:coal", "min": 4, "max": 10, "weight": 10 },
+        { "item": "minecraft:copper_ingot", "min": 3, "max": 8, "weight": 8 },
+        { "item": "minecraft:gold_nugget", "min": 4, "max": 12, "weight": 8 },
+        { "item": "minecraft:bread", "min": 2, "max": 5, "weight": 6 },
+        { "item": "minecraft:string", "min": 3, "max": 8, "weight": 6 },
+        { "item": "minecraft:leather", "min": 2, "max": 5, "weight": 6 },
+        { "item": "minecraft:bone_meal", "min": 4, "max": 10, "weight": 6 },
+        { "item": "minecraft:arrow", "min": 6, "max": 16, "weight": 5 },
+        { "item": "minecraft:saddle", "min": 1, "max": 1, "weight": 1 },
+        { "item": "minecraft:name_tag", "min": 1, "max": 1, "weight": 1 },
+        { "item": "rats:cheese", "min": 2, "max": 6, "weight": 8 },
+        { "item": "rats:raw_plastic", "min": 1, "max": 3, "weight": 3 },
+        { "item": "rats:token_fragment", "min": 1, "max": 2, "weight": 2 },
+        { "item": "farmersdelight:rope", "min": 4, "max": 8, "weight": 4 },
+        { "item": "farmersdelight:onion", "min": 2, "max": 4, "weight": 4 },
+        { "item": "farmersdelight:tomato_seeds", "min": 2, "max": 4, "weight": 3 },
+        { "item": "farmersdelight:cabbage_seeds", "min": 2, "max": 4, "weight": 3 },
+        { "item": "create:andesite_alloy", "min": 3, "max": 8, "weight": 5 },
+        { "item": "create:zinc_nugget", "min": 4, "max": 10, "weight": 4 }
+      ]
+    },
+    {
+      "name": "挖到钻石后",
+      "unlock": "minecraft:story/mine_diamond",
+      "entries": [
+        { "item": "minecraft:diamond", "min": 1, "max": 1, "weight": 4 },
+        { "item": "minecraft:emerald", "min": 1, "max": 3, "weight": 6 },
+        { "item": "minecraft:gold_ingot", "min": 2, "max": 5, "weight": 8 },
+        { "item": "minecraft:lapis_lazuli", "min": 4, "max": 10, "weight": 8 },
+        { "item": "minecraft:redstone", "min": 6, "max": 16, "weight": 8 },
+        { "item": "minecraft:experience_bottle", "min": 2, "max": 5, "weight": 5 },
+        { "item": "minecraft:ender_pearl", "min": 1, "max": 2, "weight": 4 },
+        { "item": "minecraft:golden_apple", "min": 1, "max": 1, "weight": 2 },
+        { "item": "create:brass_ingot", "min": 2, "max": 4, "weight": 5 },
+        { "item": "irons_spellbooks:arcane_essence", "min": 2, "max": 5, "weight": 4 }
+      ]
+    },
+    {
+      "name": "进下界后",
+      "unlock": "minecraft:story/enter_the_nether",
+      "entries": [
+        { "item": "minecraft:quartz", "min": 6, "max": 12, "weight": 8 },
+        { "item": "minecraft:blaze_rod", "min": 1, "max": 3, "weight": 6 },
+        { "item": "minecraft:glowstone_dust", "min": 6, "max": 12, "weight": 6 },
+        { "item": "minecraft:magma_cream", "min": 2, "max": 4, "weight": 4 },
+        { "item": "minecraft:nether_wart", "min": 3, "max": 6, "weight": 5 },
+        { "item": "minecraft:ghast_tear", "min": 1, "max": 1, "weight": 2 },
+        { "item": "minecraft:diamond", "min": 1, "max": 2, "weight": 4 },
+        { "item": "minecraft:netherite_scrap", "min": 1, "max": 1, "weight": 1 },
+        { "item": "create:precision_mechanism", "min": 1, "max": 1, "weight": 2 }
+      ]
+    },
+    {
+      "name": "进末地后",
+      "unlock": "minecraft:end/root",
+      "entries": [
+        { "item": "minecraft:ender_pearl", "min": 2, "max": 4, "weight": 6 },
+        { "item": "minecraft:chorus_fruit", "min": 4, "max": 8, "weight": 6 },
+        { "item": "minecraft:shulker_shell", "min": 1, "max": 1, "weight": 2 },
+        { "item": "minecraft:diamond", "min": 2, "max": 3, "weight": 4 },
+        { "item": "minecraft:netherite_scrap", "min": 1, "max": 2, "weight": 2 },
+        { "item": "minecraft:experience_bottle", "min": 4, "max": 8, "weight": 4 },
+        { "item": "minecraft:enchanted_golden_apple", "min": 1, "max": 1, "weight": 1 }
+      ]
+    }
+  ]
+}

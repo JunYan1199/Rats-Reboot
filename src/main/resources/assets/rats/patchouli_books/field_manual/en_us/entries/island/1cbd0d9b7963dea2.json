@@ -1,0 +1,12 @@
+{
+ "name": "双翼机翼",
+ "icon": "rats:biplane_wing",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "双翼机翼。$(br2)【材料来源】老鼠男爵的双翼机被击落时掉落"
+  }
+ ],
+ "sortnum": 65
+}

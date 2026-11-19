@@ -1,0 +1,12 @@
+{
+ "name": "小硬币",
+ "icon": "rats:tiny_coin",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：小硬币。9 个合成 1 个令牌碎片。$(br2)【材料来源】贵族鼠升级老鼠击杀生物掉落；宠物店店主交易；圣诞礼物；猫的晨间礼物；荷兰鼠沉船宝箱"
+  }
+ ],
+ "sortnum": 3
+}

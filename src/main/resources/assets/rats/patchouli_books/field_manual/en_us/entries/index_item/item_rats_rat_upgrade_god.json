@@ -1,0 +1,21 @@
+{
+ "name": "老鼠升级：战神",
+ "icon": "rats:rat_upgrade_god",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_god",
+   "text": "玩法：$(l:work/0102dbab5aae7cbd)老鼠升级：战神$(/l)$(br2)登记名：$(br)rats:rat_upgrade_god"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/god_upgrade"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：非信者。"
+  }
+ ],
+ "sortnum": 241
+}

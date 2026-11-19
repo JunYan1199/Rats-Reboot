@@ -1,0 +1,16 @@
+{
+ "name": "高帽",
+ "icon": "rats:top_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "高帽：贵族鼠、巫毒娃娃升级的材料。$(br2)【材料来源】工作台合成：黑色羊毛×2 + 黑色地毯×2 + 红色染料（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:top_hat"
+  }
+ ],
+ "sortnum": 8
+}

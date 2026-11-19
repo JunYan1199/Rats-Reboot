@@ -1,0 +1,20 @@
+{
+ "name": "老鼠哨子",
+ "icon": "rats:rat_whistle",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠哨子。把附近你驯服的老鼠传送回各自的「老鼠家」坐标（用奶酪魔杖设置）。$(br2)实例：老鼠跑丢了或卡住了，吹一下就都回家。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁锭×4 + 奶酪（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_whistle"
+  }
+ ],
+ "sortnum": 41
+}

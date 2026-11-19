@@ -1,0 +1,17 @@
+{
+ "name": "幽灵鼠盗木栅栏门",
+ "icon": "rats:pirat_fence_gate",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_fence_gate",
+   "text": "玩法：$(l:collection/0b997261313b2cb4)幽灵鼠盗木栅栏门$(/l)$(br2)登记名：$(br)rats:pirat_fence_gate"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_fence_gate"
+  }
+ ],
+ "sortnum": 54
+}

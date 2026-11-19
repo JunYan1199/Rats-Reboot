@@ -1,0 +1,16 @@
+{
+ "name": "鼠西洲武器装备",
+ "icon": "rats:ratlantis_sword",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "拿到一件算一件。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_sword"
+  }
+ ],
+ "sortnum": 45
+}

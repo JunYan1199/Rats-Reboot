@@ -1,0 +1,21 @@
+{
+ "name": "灵能鼠脑",
+ "icon": "rats:psionic_rat_brain",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:psionic_rat_brain",
+   "text": "玩法：$(l:island/29a143e6f0e07ba8)击败新·鼠西族$(/l)$(br2)登记名：$(br)rats:psionic_rat_brain"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：新·鼠西族。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：脑方块、老鼠升级：非信者、老鼠升级：灵媒、鼠西洲头盔、§a鼠西洲的头颅。"
+  }
+ ],
+ "sortnum": 116
+}

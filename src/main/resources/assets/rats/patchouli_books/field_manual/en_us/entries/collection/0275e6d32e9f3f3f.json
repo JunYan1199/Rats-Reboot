@@ -1,0 +1,24 @@
+{
+ "name": "毕业挑战：鼠鼠帝国之主",
+ "icon": "rats:rat_upgrade_nonbeliever",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "综合毕业挑战。需要先完成前三章的毕业任务，然后同时持有：$(br2)• 老鼠升级：战神（第二章战斗培养的顶点）；$(br2)• 老鼠升级：非信者（第三章终点）；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 全套鼠西洲盔甲（头盔、胸甲、护腿、靴子）；$(br2)• 一个猫咪捕鼠挎包和一张鼠片（证明你的猫还在为帝国打工）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "物品只检查不收走。完成后你就是真正的鼠鼠帝国之主！$(br2)【材料来源】工作台合成：金色老鼠头颅×4 + 老鼠升级：战士×4 + 下界之星（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/nonbeliever_upgrade"
+  }
+ ],
+ "sortnum": 116
+}

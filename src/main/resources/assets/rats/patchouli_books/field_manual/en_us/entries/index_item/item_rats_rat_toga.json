@@ -1,0 +1,21 @@
+{
+ "name": "老鼠长袍",
+ "icon": "rats:rat_toga",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_toga",
+   "text": "玩法：$(l:island/00167e1486deca9a)老鼠长袍$(/l)$(br2)登记名：$(br)rats:rat_toga"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：野蛮鼠西族。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠西洲的降灵。"
+  }
+ ],
+ "sortnum": 178
+}

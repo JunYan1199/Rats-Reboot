@@ -1,0 +1,24 @@
+{
+ "name": "给一座站接上多台设备",
+ "icon": "guildjane:wireless_connector",
+ "category": "rats:power",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "工作台左下放红石粉、中央放铜锭、右上放紫水晶碎片，合成无线连接器。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "空手右键发电站选能源模式，再手持连接器右键发电站。依次右键同维度中的接收设备 A、B、C；连接后会提示当前路数。再点已连接的接收端可断开它。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "一座站同时运行一种模式。切换模式后，原有接线会保留，当前模式兼容的接收端会工作。发电站和接收端所在区块都需要加载。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:wireless_connector"
+  }
+ ],
+ "sortnum": 2
+}

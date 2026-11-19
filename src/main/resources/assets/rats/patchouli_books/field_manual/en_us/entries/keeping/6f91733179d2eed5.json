@@ -1,0 +1,20 @@
+{
+ "name": "老鼠轮子",
+ "icon": "rats:rat_wheel",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠跑轮。装进鼠笼，老鼠在里面跑步会产生能量（RF），可以接能量线缆。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁栏杆×4 + 铁锭 + 奶酪×2（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_wheel"
+  }
+ ],
+ "sortnum": 58
+}

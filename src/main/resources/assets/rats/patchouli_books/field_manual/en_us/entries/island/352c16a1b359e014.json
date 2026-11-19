@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：空灵",
+ "icon": "rats:rat_upgrade_ethereal",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠能穿过方块、浮空，像幽灵一样。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：幽灵鼠盗帽 + 幽灵鼠盗灵质×4 + 幽灵鼠盗弯刀 + 老鼠升级：基础鼠西族 + 幻翼膜×2（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/ethereal_upgrade"
+  }
+ ],
+ "sortnum": 83
+}

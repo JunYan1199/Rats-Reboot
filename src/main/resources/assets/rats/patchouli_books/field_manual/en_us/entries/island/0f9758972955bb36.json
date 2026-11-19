@@ -1,0 +1,16 @@
+{
+ "name": "野蛮鼠西族指虎",
+ "icon": "rats:feral_bagh_nakhs",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "野蛮鼠西族指虎，近战武器。$(br2)【材料来源】工作台合成：腐肉×3 + 野蛮鼠爪×3 + 线（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:feral_bagh_nakhs"
+  }
+ ],
+ "sortnum": 58
+}

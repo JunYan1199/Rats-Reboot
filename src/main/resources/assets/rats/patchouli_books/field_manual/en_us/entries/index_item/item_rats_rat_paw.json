@@ -1,0 +1,21 @@
+{
+ "name": "老鼠爪",
+ "icon": "rats:rat_paw",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_paw",
+   "text": "玩法：$(l:keeping/76983b29878d7d80)老鼠爪$(/l)$(br2)登记名：$(br)rats:rat_paw"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：恶魔老鼠、野鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：小偷、老鼠升级：采石场、老鼠升级：幽匿。"
+  }
+ ],
+ "sortnum": 171
+}

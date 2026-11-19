@@ -1,0 +1,28 @@
+{
+ "name": "第五步：加工生产",
+ "icon": "rats:rat_upgrade_chef",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：让老鼠帮你加工物品。加工类升级同组互斥。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "厨师升级：老鼠会烧炼手里的任何物品，烧好后放进它下方的容器（没有容器就扔地上）。它还能做两道特殊菜：鼠王杂烩、马铃薯克尼什馅饼，以及奶酪条、小小黑色壁球。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：箱子 A（生肉）→ 运输老鼠送到厨师老鼠手里（让厨师老鼠坐在箱子 B 上方）→ 熟肉自动进 B。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：蛋糕×6 + 厨师帽 + 老鼠升级：基础 + 金苹果（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/chef_upgrade"
+  }
+ ],
+ "sortnum": 45
+}

@@ -1,0 +1,24 @@
+{
+ "name": "雷棘鼠 · 电",
+ "icon": "rats:thunder_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　电$(br2)进化道具　雷之石$(br2)原有被动　受到的雷击伤害 −60%$(br2)50 级　连锁闪电"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "直接命中后，向 6 格内最多两个其他敌人跳电，依次造成攻击力 65%、40% 的雷伤，冷却 5 秒。$(br2)100 级　避雷针"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "队友受到雷伤时，替其吸收此次伤害的 60%。随后 6 秒，队内下一次攻击法术伤害提高 20%，冷却 15 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:thunder_stone"
+  }
+ ],
+ "sortnum": 6
+}

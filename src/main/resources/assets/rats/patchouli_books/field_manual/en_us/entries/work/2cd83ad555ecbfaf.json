@@ -1,0 +1,16 @@
+{
+ "name": "升级基础",
+ "icon": "rats:rat_upgrade_block",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "与升级本身相关的基础物品。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_upgrade_block"
+  }
+ ],
+ "sortnum": 1
+}

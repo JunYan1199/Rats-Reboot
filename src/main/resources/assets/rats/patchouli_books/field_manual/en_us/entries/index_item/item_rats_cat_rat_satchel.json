@@ -1,0 +1,17 @@
+{
+ "name": "猫咪捕鼠挎包",
+ "icon": "rats:cat_rat_satchel",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cat_rat_satchel",
+   "text": "玩法：$(l:keeping/2f76ec5992e65678)第三步：猫咪捕鼠挎包$(/l)$(br2)登记名：$(br)rats:cat_rat_satchel"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cat_rat_satchel"
+  }
+ ],
+ "sortnum": 20
+}

@@ -1,0 +1,12 @@
+{
+ "name": "温新知故",
+ "icon": "rats:rat_upgrade_archeologist",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：考古学家，鼠西洲的备选方案"
+  }
+ ],
+ "sortnum": 10
+}

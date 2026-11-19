@@ -1,0 +1,16 @@
+{
+ "name": "采收：采矿",
+ "icon": "rats:rat_upgrade_quarry",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "采石场与矿物翻倍。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/quarry_upgrade"
+  }
+ ],
+ "sortnum": 38
+}

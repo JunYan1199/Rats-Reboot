@@ -1,0 +1,16 @@
+{
+ "name": "老鼠巡逻魔杖",
+ "icon": "rats:patrol_stick",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠巡逻魔杖。右键老鼠绑定，再依次右键方块设置巡逻路线。$(br2)【材料来源】工作台合成：下界奶酪 + 木棍（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:patrol_stick"
+  }
+ ],
+ "sortnum": 40
+}

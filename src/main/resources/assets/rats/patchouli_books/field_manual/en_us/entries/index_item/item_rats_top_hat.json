@@ -1,0 +1,21 @@
+{
+ "name": "高帽",
+ "icon": "rats:top_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:top_hat",
+   "text": "玩法：$(l:collection/3f70d448d9150073)帽子收藏$(/l)$(br2)登记名：$(br)rats:top_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:top_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：贵族鼠、老鼠升级：巫毒娃娃。"
+  }
+ ],
+ "sortnum": 317
+}

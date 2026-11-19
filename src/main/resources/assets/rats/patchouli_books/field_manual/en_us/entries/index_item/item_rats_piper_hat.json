@@ -1,0 +1,25 @@
+{
+ "name": "魔笛人帽",
+ "icon": "rats:piper_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:piper_hat",
+   "text": "穿了以后野鼠不再惧怕你$(br2)玩法：$(l:island/764e02becbdc5061)击败魔笛人$(/l)$(br2)登记名：$(br)rats:piper_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:piper_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：魔笛人。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠盗帽。"
+  }
+ ],
+ "sortnum": 96
+}

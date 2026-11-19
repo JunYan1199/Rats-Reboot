@@ -1,0 +1,17 @@
+{
+ "name": "月之石·沙纹",
+ "icon": "rats:dune_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:dune_stone",
+   "text": "玩法：$(l:evolution/63441f0877da4751)沙铲鼠 · 地面$(/l)$(br2)登记名：$(br)rats:dune_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dune_stone"
+  }
+ ],
+ "sortnum": 42
+}

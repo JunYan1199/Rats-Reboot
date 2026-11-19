@@ -1,0 +1,24 @@
+{
+ "name": "绒焰鼠 · 火",
+ "icon": "rats:fire_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　火$(br2)进化道具　火之石$(br2)原有被动　受到的火焰伤害 −25%$(br2)50 级　回火"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "近战命中同一目标 3 次后引爆余烬，对其及 3 格内敌人各造成攻击力 60% 的火伤，冷却 8 秒。$(br2)100 级　炽焰护送"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "附近队友受到火伤时，为其提供 50% 火伤减免，覆盖本次及后续 5 秒，冷却 18 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:fire_stone"
+  }
+ ],
+ "sortnum": 4
+}

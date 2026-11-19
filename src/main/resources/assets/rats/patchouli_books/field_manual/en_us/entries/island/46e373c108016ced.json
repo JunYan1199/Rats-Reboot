@@ -1,0 +1,12 @@
+{
+ "name": "奶酪炮弹",
+ "icon": "rats:cheese_cannonball",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "奶酪炮弹：海盗升级的弹药材料。$(br2)【材料来源】让带「考古学家」升级的老鼠研究：火焰弹；也来自鼠盗船和沉船宝箱（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 73
+}

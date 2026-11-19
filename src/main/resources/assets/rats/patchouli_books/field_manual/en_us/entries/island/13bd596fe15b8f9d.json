@@ -1,0 +1,20 @@
+{
+ "name": "鼠西洲宝石",
+ "icon": "rats:gem_of_ratlantis",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠西洲宝石。基础鼠西族升级、组合升级的材料，也是升级组合器的燃料。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：绿宝石×4 + 鼠套花花瓣；熔炉烧炼：老鼠“坨坨”；熔炉烧炼：鼠西族宝石矿石（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gem_of_ratlantis"
+  }
+ ],
+ "sortnum": 19
+}

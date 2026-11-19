@@ -1,0 +1,16 @@
+{
+ "name": "趁第一队在路上，再派一队",
+ "icon": "guildjane:guild_deed",
+ "category": "rats:guild",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "在派遣进度页点「继续接委托」，另选一单，用空闲的鼠组成第二队。回到悬赏板打开「派遣进度」，逐行核对领队、委托、进度条和归来倒计时。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:guild_deed"
+  }
+ ],
+ "sortnum": 4
+}

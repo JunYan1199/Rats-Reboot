@@ -1,0 +1,12 @@
+{
+ "name": "击败鼠王",
+ "icon": "rats:rat_king_crown",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠王会不断召唤老鼠围攻你，准备好范围伤害。$(br2)掉落：鼠王皇冠（金鼠偶升级材料）、缠结鼠尾（时间鼠器、镀金长笛材料）、污渍、令牌碎块。$(br2)击杀一次自动完成。"
+  }
+ ],
+ "sortnum": 9
+}

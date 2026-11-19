@@ -1,0 +1,12 @@
+{
+ "name": "鼠龙之火",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:rat_dragon_fire"
+  }
+ ],
+ "sortnum": 24
+}

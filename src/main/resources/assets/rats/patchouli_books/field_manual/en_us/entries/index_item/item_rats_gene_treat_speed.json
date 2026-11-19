@@ -1,0 +1,17 @@
+{
+ "name": "速度基因酥",
+ "icon": "rats:gene_treat_speed",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:gene_treat_speed",
+   "text": "登记名：$(br)rats:gene_treat_speed"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gene_treat_speed"
+  }
+ ],
+ "sortnum": 65
+}

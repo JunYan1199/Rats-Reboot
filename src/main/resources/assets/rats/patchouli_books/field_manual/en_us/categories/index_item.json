@@ -1,0 +1,7 @@
+{
+ "name": "材料与工具",
+ "icon": "rats:cheese",
+ "description": "搜索名称，查看登记名、现有物品提示和可查到的配方或掉落。",
+ "sortnum": 12,
+ "parent": "rats:index"
+}

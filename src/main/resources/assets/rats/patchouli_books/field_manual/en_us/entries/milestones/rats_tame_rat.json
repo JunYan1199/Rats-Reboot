@@ -1,0 +1,12 @@
+{
+ "name": "突如其联手",
+ "icon": "rats:rat_upgrade_health",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "手持奶酪右键野生老鼠，喂到它信任你为止"
+  }
+ ],
+ "sortnum": 60
+}

@@ -1,0 +1,21 @@
+{
+ "name": "魔方羊毛",
+ "icon": "rats:pied_wool",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pied_wool",
+   "text": "玩法：$(l:collection/2cd19ba3d08dfadb)魔方羊毛$(/l)$(br2)登记名：$(br)rats:pied_wool"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：魔笛人。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：魔方垃圾、魔笛人帽。"
+  }
+ ],
+ "sortnum": 50
+}

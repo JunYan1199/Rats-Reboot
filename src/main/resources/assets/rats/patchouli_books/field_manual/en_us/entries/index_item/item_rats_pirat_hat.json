@@ -1,0 +1,21 @@
+{
+ "name": "鼠盗帽",
+ "icon": "rats:pirat_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_hat",
+   "text": "玩法：$(l:island/3f8d6ef89c8a9066)鼠盗$(/l)$(br2)登记名：$(br)rats:pirat_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：幽灵鼠盗帽、鼠西洲的降灵、老鼠升级：海盗。"
+  }
+ ],
+ "sortnum": 100
+}

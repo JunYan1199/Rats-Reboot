@@ -1,0 +1,32 @@
+{
+ "name": "把法力带在身上",
+ "icon": "guildjane:mana_cell",
+ "category": "rats:power",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "法力存储装置配方：上排中央放紫水晶碎片，中排是玻璃、铜锭、玻璃，下排中央放铁锭。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "发电站选「法力」，手持存储装置直接右键发电站完成绑定，随后放在身上的物品栏。与发电站同维度且站点已加载时，每游戏秒充入最多 1,000 法力，"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "最多储存 10,000。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "手持装置对空气右键，可将给玩家的每秒补给量设成 0、10、50、100、250、500 或 1,000。新装置默认最高档；选 0 可以先蓄满。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "玩家法力已满时，余量留在装置里。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:mana_cell"
+  }
+ ],
+ "sortnum": 6
+}

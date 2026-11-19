@@ -1,0 +1,12 @@
+{
+ "name": "鼠西族宝石矿石",
+ "icon": "rats:ratlantean_gem_ore",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西族宝石矿石。$(br2)【材料来源】鼠西洲地下，用精准采集挖取"
+  }
+ ],
+ "sortnum": 93
+}

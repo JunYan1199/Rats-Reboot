@@ -1,0 +1,16 @@
+{
+ "name": "鼠套块",
+ "icon": "rats:compressed_rat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠套块：鼠套花瓣压缩成的方块。$(br2)【材料来源】工作台合成：鼠套花花瓣×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:compressed_rat"
+  }
+ ],
+ "sortnum": 53
+}

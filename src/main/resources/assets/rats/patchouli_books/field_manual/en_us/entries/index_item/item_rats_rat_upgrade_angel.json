@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：天使",
+ "icon": "rats:rat_upgrade_angel",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_angel",
+   "text": "玩法：$(l:work/2e747f8893f84537)老鼠升级：天使$(/l)$(br2)登记名：$(br)rats:rat_upgrade_angel"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/angel_upgrade"
+  }
+ ],
+ "sortnum": 196
+}

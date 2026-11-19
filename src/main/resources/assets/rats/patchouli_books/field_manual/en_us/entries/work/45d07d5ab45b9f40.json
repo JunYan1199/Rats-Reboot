@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：飞行",
+ "icon": "rats:rat_upgrade_flight",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠长出简单的翅膀飞行，飞行时更快、不受重力影响。与蜜蜂、龙互斥。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：青金石×4 + 奶酪×2 + 羽翼×2 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/flight_upgrade"
+  }
+ ],
+ "sortnum": 22
+}

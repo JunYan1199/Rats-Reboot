@@ -1,0 +1,16 @@
+{
+ "name": "猫捕鼠工具",
+ "icon": "rats:cheese_cat_baton",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "指挥棒负责「存货」，解扣器负责「卸下挎包」。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cheese_cat_baton"
+  }
+ ],
+ "sortnum": 25
+}

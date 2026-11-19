@@ -1,0 +1,16 @@
+{
+ "name": "鼠铜块",
+ "icon": "rats:oratchalcum_block",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠铜块，降灵的材料之一。$(br2)【材料来源】工作台合成：鼠铜锭×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:oratchalcum_block"
+  }
+ ],
+ "sortnum": 22
+}

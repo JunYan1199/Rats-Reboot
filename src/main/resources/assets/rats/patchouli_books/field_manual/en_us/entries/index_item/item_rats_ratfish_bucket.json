@@ -1,0 +1,13 @@
+{
+ "name": "老鼠鱼桶",
+ "icon": "rats:ratfish_bucket",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratfish_bucket",
+   "text": "玩法：$(l:collection/5aa9b9cf84f03c13)老鼠鱼桶$(/l)$(br2)登记名：$(br)rats:ratfish_bucket"
+  }
+ ],
+ "sortnum": 284
+}

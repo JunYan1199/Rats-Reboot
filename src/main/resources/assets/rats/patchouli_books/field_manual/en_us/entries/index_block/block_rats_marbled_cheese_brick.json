@@ -1,0 +1,21 @@
+{
+ "name": "大理石纹奶酪砖块",
+ "icon": "rats:marbled_cheese_brick",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:marbled_cheese_brick",
+   "text": "玩法：$(l:collection/1bc322884eed1eeb)鼠西洲建材$(/l)$(br2)登记名：$(br)rats:marbled_cheese_brick"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_brick"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：雕纹大理石纹奶酪砖块、苔藓大理石纹奶酪砖块、大理石纹奶酪砖块台阶、大理石纹奶酪砖块楼梯。"
+  }
+ ],
+ "sortnum": 26
+}

@@ -1,0 +1,16 @@
+{
+ "name": "防护与特殊",
+ "icon": "rats:rat_upgrade_damage_protection",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "免疫环境伤害和各种特殊效果。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/damage_protection_upgrade"
+  }
+ ],
+ "sortnum": 72
+}

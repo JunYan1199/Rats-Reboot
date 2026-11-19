@@ -1,0 +1,17 @@
+{
+ "name": "幽灵鼠盗木活板门",
+ "icon": "rats:pirat_trapdoor",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_trapdoor",
+   "text": "玩法：$(l:collection/04a0c977c7d9dafc)幽灵鼠盗木活板门$(/l)$(br2)登记名：$(br)rats:pirat_trapdoor"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_trapdoor"
+  }
+ ],
+ "sortnum": 64
+}

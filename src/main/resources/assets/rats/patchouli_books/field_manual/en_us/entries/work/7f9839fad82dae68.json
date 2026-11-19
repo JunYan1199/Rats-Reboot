@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：小偷",
+ "icon": "rats:rat_upgrade_pickpocket",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：「工作」时随机偷走村民的交易产物。$(br2)风险：可能降低你在村里的声望，铁傀儡也会打你的老鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：绿宝石×4 + 金色老鼠头颅 + 老鼠爪×2 + 老鼠升级：基础 + 绿宝石块（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/pickpocket_upgrade"
+  }
+ ],
+ "sortnum": 35
+}

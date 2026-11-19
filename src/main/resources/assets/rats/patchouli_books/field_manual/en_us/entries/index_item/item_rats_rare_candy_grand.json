@@ -1,0 +1,13 @@
+{
+ "name": "特级神奇糖果",
+ "icon": "rats:rare_candy_grand",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rare_candy_grand",
+   "text": "登记名：$(br)rats:rare_candy_grand"
+  }
+ ],
+ "sortnum": 119
+}

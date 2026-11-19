@@ -1,0 +1,12 @@
+{
+ "name": "不锈钢老鼠",
+ "icon": "rats:charged_ratbot_barrel",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "遭遇鼠西族机器鼠，旧时代的遗物。"
+  }
+ ],
+ "sortnum": 17
+}

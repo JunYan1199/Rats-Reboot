@@ -1,0 +1,24 @@
+{
+ "name": "第九步：鼠西族升级",
+ "icon": "rats:rat_upgrade_basic_ratlantean",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：做出基础鼠西族升级，解锁鼠西洲专属升级。$(br2)基础鼠西族升级本身没有效果，是下方所有鼠西族升级的底子。4 个可以压成鼠西洲升级方块。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "考古学家研究基础升级也能把它变成基础鼠西族升级。$(br2)【材料来源】工作台合成：鼠西洲升级方块，产出 ×4；工作台合成：鼠西洲宝石×4 + 大理石纹生奶酪×4；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "让带「考古学家」升级的老鼠研究：老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/basic_ratlantean_upgrade"
+  }
+ ],
+ "sortnum": 75
+}

@@ -1,0 +1,20 @@
+{
+ "name": "升级为什么装不上？",
+ "icon": "rats:rat_upgrade_jury_rigged",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "• 同一种升级只能装一个；$(br2)• 和已装的升级在同一冲突组（见主线说明）；$(br2)• 升级格已满（3 格）——用蝴蝶结或组合升级合并；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 部分升级要先满足前置：如龙升级要先有飞行、石棉、战士。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/jury_rigged_upgrade"
+  }
+ ],
+ "sortnum": 3
+}

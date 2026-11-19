@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：弩",
+ "icon": "rats:rat_upgrade_crossbow",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠用弩，射速比弓慢但伤害更高。$(br2)【材料来源】工作台合成：箭等同类×5 + 弩 + 铁锭×2 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/crossbow_upgrade"
+  }
+ ],
+ "sortnum": 66
+}

@@ -1,0 +1,16 @@
+{
+ "name": "裂纹大理石纹奶酪砖块楼梯",
+ "icon": "rats:marbled_cheese_brick_cracked_stairs",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "裂纹砖块楼梯。$(br2)【材料来源】工作台合成：裂纹大理石纹奶酪砖块×6，产出 ×4；切石机：裂纹大理石纹奶酪砖块（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_brick_cracked_stairs"
+  }
+ ],
+ "sortnum": 85
+}

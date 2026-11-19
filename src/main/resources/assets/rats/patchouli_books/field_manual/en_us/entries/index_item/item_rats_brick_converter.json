@@ -1,0 +1,17 @@
+{
+ "name": "布瑞克转化装置",
+ "icon": "rats:brick_converter",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:brick_converter",
+   "text": "登记名：$(br)rats:brick_converter"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_converter"
+  }
+ ],
+ "sortnum": 14
+}

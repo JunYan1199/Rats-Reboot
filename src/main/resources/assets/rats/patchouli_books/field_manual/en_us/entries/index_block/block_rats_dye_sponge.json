@@ -1,0 +1,17 @@
+{
+ "name": "染料海绵",
+ "icon": "rats:dye_sponge",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:dye_sponge",
+   "text": "玩法：$(l:keeping/405684555ff44724)第七步：日常管理$(/l)$(br2)登记名：$(br)rats:dye_sponge"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dye_sponge"
+  }
+ ],
+ "sortnum": 20
+}

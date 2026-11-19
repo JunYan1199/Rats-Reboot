@@ -1,0 +1,12 @@
+{
+ "name": "老鼠战士氏族",
+ "icon": "rats:rat_upgrade_warrior",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：战士，使你的老鼠富含肌肉纤维，还有护甲和更高血量"
+  }
+ ],
+ "sortnum": 57
+}

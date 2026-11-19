@@ -1,0 +1,12 @@
+{
+ "name": "受污染的食物",
+ "icon": "rats:contaminated_food",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "受污染的食物：最好别吃。$(br2)【材料来源】饥饿的野鼠偷吃箱子或喂食器里的食物后留下；瘟疫医生收购"
+  }
+ ],
+ "sortnum": 28
+}

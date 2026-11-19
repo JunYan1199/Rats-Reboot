@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：自疗",
+ "icon": "rats:rat_upgrade_remedy",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠会随时间快速回血（每 30 刻回半颗心，受饱食效率影响）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：下界疣×2 + 闪烁的西瓜片×4 + 老鼠升级：基础 + 玻璃瓶×2（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/remedy_upgrade"
+  }
+ ],
+ "sortnum": 60
+}

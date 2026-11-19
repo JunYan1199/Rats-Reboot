@@ -1,0 +1,17 @@
+{
+ "name": "鼠西族锄",
+ "icon": "rats:ratlantis_hoe",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_hoe",
+   "text": "玩法：$(l:island/7a24cd6a494a125b)鼠西族锄$(/l)$(br2)登记名：$(br)rats:ratlantis_hoe"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_hoe"
+  }
+ ],
+ "sortnum": 296
+}

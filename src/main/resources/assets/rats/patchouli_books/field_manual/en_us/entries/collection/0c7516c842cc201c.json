@@ -1,0 +1,12 @@
+{
+ "name": "音乐唱片",
+ "icon": "rats:music_disc_mice_on_venus",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "音乐唱片 C418 - Mice on Venus。$(br2)【材料来源】让你的老鼠击杀魔笛人时掉落"
+  }
+ ],
+ "sortnum": 58
+}

@@ -1,0 +1,12 @@
+{
+ "name": "老鼠采石平台",
+ "icon": "rats:rat_quarry_platform",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠采石平台。老鼠站在上面会自动上下移动，方便在矿坑里进出。$(br2)【材料来源】老鼠采石场工作时自动铺设的阶梯平台，挖下来即可获得"
+  }
+ ],
+ "sortnum": 41
+}

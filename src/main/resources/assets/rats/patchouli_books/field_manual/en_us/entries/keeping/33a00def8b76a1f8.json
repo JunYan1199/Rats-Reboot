@@ -1,0 +1,12 @@
+{
+ "name": "收集",
+ "icon": "rats:cheese",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠捡起地上的掉落物并存进标记的容器。$(br2)实例：刷石机、自动农场的掉落区旁放一只「收集」老鼠 + 一个箱子，相当于会走路的漏斗。白名单/黑名单升级可以挑着捡。"
+  }
+ ],
+ "sortnum": 34
+}

@@ -1,0 +1,21 @@
+{
+ "name": "老鼠升级：自爆",
+ "icon": "rats:rat_upgrade_tnt",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_tnt",
+   "text": "玩法：$(l:work/5507cf67c77df7ed)老鼠升级：自爆$(/l)$(br2)登记名：$(br)rats:rat_upgrade_tnt"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/tnt_upgrade"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：自爆专家。"
+  }
+ ],
+ "sortnum": 270
+}

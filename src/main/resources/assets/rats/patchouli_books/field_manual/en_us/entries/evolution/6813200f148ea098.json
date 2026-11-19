@@ -1,0 +1,20 @@
+{
+ "name": "进化从 50 级开始",
+ "icon": "rats:origin_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "让驯养的普通老鼠升到 50 级，手持对应进化石右键。每只鼠选择一个形态，使用另一颗石头不能覆盖。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "进化时获得该形态原有被动和 50 级能力。达到 100 级时，原有能力继续生效，并自动解锁第二项能力。已进化的老鼠按当前等级直接获得对应能力。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "打开老鼠档案可以查看两项能力名称和解锁状态。下方 19 个形态条目包含数值、作用范围和冷却。"
+  }
+ ],
+ "sortnum": 0
+}

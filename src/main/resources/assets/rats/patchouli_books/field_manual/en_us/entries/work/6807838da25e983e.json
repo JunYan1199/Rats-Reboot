@@ -1,0 +1,12 @@
+{
+ "name": "农夫乐事联动（进阶）",
+ "icon": "rats:rat_upgrade_basic",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "不是主线门槛，想玩农夫乐事再做。"
+  }
+ ],
+ "sortnum": 96
+}

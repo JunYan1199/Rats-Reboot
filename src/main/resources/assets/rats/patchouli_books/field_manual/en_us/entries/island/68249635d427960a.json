@@ -1,0 +1,16 @@
+{
+ "name": "鼠西洲镐",
+ "icon": "rats:ratlantis_pickaxe",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲镐：挖石头不消耗耐久。$(br2)【材料来源】工作台合成：鼠铜锭×4 + 下界合金镐（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_pickaxe"
+  }
+ ],
+ "sortnum": 50
+}

@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "package": "com.github.alexthe666.rats.mixin.rsi",
+  "plugin": "com.github.alexthe666.rats.mixin.rsi.RsiMixinPlugin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "GoetyBatchDelegateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

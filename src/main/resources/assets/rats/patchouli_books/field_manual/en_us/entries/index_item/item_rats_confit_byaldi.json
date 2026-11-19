@@ -1,0 +1,13 @@
+{
+ "name": "鼠王杂烩",
+ "icon": "rats:confit_byaldi",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:confit_byaldi",
+   "text": "玩法：$(l:collection/5638fb6c3563eb7c)全部食物$(/l)$(br2)登记名：$(br)rats:confit_byaldi"
+  }
+ ],
+ "sortnum": 32
+}

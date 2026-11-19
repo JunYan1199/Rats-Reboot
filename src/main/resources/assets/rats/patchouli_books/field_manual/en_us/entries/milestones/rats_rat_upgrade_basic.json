@@ -1,0 +1,12 @@
+{
+ "name": "老鼠专门化",
+ "icon": "rats:rat_upgrade_basic",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：基础，用于制作更高级的老鼠升级"
+  }
+ ],
+ "sortnum": 46
+}

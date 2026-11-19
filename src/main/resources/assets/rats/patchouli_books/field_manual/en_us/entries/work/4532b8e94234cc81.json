@@ -1,0 +1,12 @@
+{
+ "name": "共振存储联动（进阶）",
+ "icon": "rats:rat_upgrade_basic",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "不是主线门槛，用到共振存储（RS 联动）下单诡厄巫法祭坛仪式时再做。$(br2)没装老鼠升级时，下单仍按原模组方式：材料直接瞬移上基座、立刻开仪式；装了之后就由老鼠亲手搬运。"
+  }
+ ],
+ "sortnum": 100
+}

@@ -1,0 +1,28 @@
+{
+ "name": "第四步：工作区域",
+ "icon": "rats:radius_stick",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：控制老鼠在哪里干活。$(br2)• 搜索/采收范围：用老鼠范围魔杖右键老鼠，再右键方块设置范围中心，老鼠只在这个范围里找活；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 工作基点（合并版）：奶酪魔杖菜单里的「设置工作基点」，老鼠干完活回到这里待命；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 老鼠家：奶酪魔杖菜单「设置老鼠家坐标」，老鼠哨子会把老鼠传回这里，方块放置升级也把方块放在这里；$(br2)• 存入容器：所有采收产物都会放进这里。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例（全自动小麦田）：范围中心设在田中央 → 存入箱子设在田边 → 老鼠装「种植家」+「补种」→ 命令「工作」→ 再放一个奶酪喂食器。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:radius_stick"
+  }
+ ],
+ "sortnum": 26
+}

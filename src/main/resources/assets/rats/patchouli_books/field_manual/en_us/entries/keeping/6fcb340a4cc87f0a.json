@@ -1,0 +1,20 @@
+{
+ "name": "捕鼠网",
+ "icon": "rats:rat_capture_net",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：捕鼠网。扔出去把 16 格内你所有驯服的老鼠打包成一个老鼠袋。$(br2)实例：搬家时一网打尽，到新家对着地面右键老鼠袋放出来。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁粒×4 + 蜘蛛网×4 + 老鼠袋（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_capture_net"
+  }
+ ],
+ "sortnum": 46
+}

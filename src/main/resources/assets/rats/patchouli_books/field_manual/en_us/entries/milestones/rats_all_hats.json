@@ -1,0 +1,12 @@
+{
+ "name": "帽子收藏家",
+ "icon": "rats:party_hat",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "收集所有帽子！"
+  }
+ ],
+ "sortnum": 25
+}

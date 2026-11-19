@@ -1,0 +1,16 @@
+{
+ "name": "全部帽子",
+ "icon": "rats:party_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "拿到一顶算一顶。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:party_hat"
+  }
+ ],
+ "sortnum": 2
+}

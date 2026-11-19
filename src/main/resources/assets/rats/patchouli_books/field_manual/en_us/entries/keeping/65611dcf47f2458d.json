@@ -1,0 +1,20 @@
+{
+ "name": "压缩垃圾",
+ "icon": "rats:compressed_garbage",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：9 个垃圾堆压缩而成，刷出的老鼠是普通垃圾堆的两倍。$(br2)有什么用：继续压缩成污渍，用来做鼠王召唤物（污渍球）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：垃圾堆×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:compressed_garbage"
+  }
+ ],
+ "sortnum": 10
+}

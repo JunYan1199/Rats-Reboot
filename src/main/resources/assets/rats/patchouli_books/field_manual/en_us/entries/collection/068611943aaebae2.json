@@ -1,0 +1,16 @@
+{
+ "name": "炸薯饼",
+ "icon": "rats:potato_pancake",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "炸薯饼：9 个烤马铃薯做成。$(br2)【材料来源】工作台合成：烤马铃薯×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:potato_pancake"
+  }
+ ],
+ "sortnum": 23
+}

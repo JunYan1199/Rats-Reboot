@@ -1,0 +1,17 @@
+{
+ "name": "知性小瓶",
+ "icon": "rats:vial_of_sentience",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:vial_of_sentience",
+   "text": "一种血清，§l按照理论§r§7，可以逆转鼠西族的逆进化。$(br2)玩法：$(l:island/29dd4bf1edccc237)知性小瓶$(/l)$(br2)登记名：$(br)rats:vial_of_sentience"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:vial_of_sentience"
+  }
+ ],
+ "sortnum": 320
+}

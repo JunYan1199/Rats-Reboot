@@ -1,0 +1,20 @@
+{
+ "name": "让第一盏灯亮起来",
+ "icon": "guildjane:power_station",
+ "category": "rats:power",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "把猪或你自己驯养的电颊鼠带到机器旁。空手右键机身，点「装入附近的猪或电气鼠」。范围内有多只合格生物时，会选离你最近的那只。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "空舱牌写「待机」。装猪显示方团小猪和「群友」，装电颊鼠显示「皮卡丘」。顶部浅蓝灯泡亮起，发电站开始供能。要取回原来的生物，在面板点「放出舱内生物」。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:power_station"
+  }
+ ],
+ "sortnum": 1
+}

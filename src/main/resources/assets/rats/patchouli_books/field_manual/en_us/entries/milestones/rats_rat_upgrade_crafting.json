@@ -1,0 +1,12 @@
+{
+ "name": "手工鼠！",
+ "icon": "rats:rat_upgrade_crafting",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：合成，老鼠自动合成的第一步"
+  }
+ ],
+ "sortnum": 48
+}

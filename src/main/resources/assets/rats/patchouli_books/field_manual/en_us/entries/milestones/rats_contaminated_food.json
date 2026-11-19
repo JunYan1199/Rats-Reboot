@@ -1,0 +1,12 @@
+{
+ "name": "卫生监督快干活！",
+ "icon": "rats:contaminated_food",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "发现老鼠留下的恶心的受污染食物"
+  }
+ ],
+ "sortnum": 30
+}

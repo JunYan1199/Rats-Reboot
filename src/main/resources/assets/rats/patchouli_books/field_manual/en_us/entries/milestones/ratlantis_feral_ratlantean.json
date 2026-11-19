@@ -1,0 +1,12 @@
+{
+ "name": "追本溯源",
+ "icon": "rats:feral_rat_claw",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "遇到鼠西洲过去的高贵居民如今的残态"
+  }
+ ],
+ "sortnum": 2
+}

@@ -1,0 +1,12 @@
+{
+ "name": "鼠西洲箭",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:ratlantis_arrow"
+  }
+ ],
+ "sortnum": 39
+}

@@ -1,0 +1,16 @@
+{
+ "name": "卷心菜种子也算种子",
+ "icon": "rats:rat_upgrade_basic",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "本整合包里，配方中写「种子」的位置（补种、园丁、种植家、小鸡坐骑、食盆等）用的是种子标签，卷心菜种子、番茄种子等农夫乐事种子都能用。$(br2)种植家老鼠也能种农夫乐事的作物。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "拿到卷心菜种子就算完成。"
+  }
+ ],
+ "sortnum": 98
+}

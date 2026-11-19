@@ -1,0 +1,16 @@
+{
+ "name": "派对帽",
+ "icon": "rats:party_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "派对帽：可以染成任何颜色。$(br2)【材料来源】工作台合成：纸 + 红色染料 + 淡蓝色染料（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:party_hat"
+  }
+ ],
+ "sortnum": 11
+}

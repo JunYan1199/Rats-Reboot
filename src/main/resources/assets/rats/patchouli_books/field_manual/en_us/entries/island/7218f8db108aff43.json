@@ -1,0 +1,16 @@
+{
+ "name": "幽灵鼠盗",
+ "icon": "rats:ghost_pirat_ectoplasm",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "掉落幽灵鼠盗灵质。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ectoplasm_from_cutlass"
+  }
+ ],
+ "sortnum": 32
+}

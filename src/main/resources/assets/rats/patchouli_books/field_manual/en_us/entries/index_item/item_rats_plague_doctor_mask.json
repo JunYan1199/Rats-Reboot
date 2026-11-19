@@ -1,0 +1,13 @@
+{
+ "name": "瘟疫医生面具",
+ "icon": "rats:plague_doctor_mask",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:plague_doctor_mask",
+   "text": "减少接触疫鼠时患上瘟疫的概率$(br2)玩法：$(l:collection/6da71febb732d6b4)瘟疫医生面具$(/l)$(br2)登记名：$(br)rats:plague_doctor_mask"
+  }
+ ],
+ "sortnum": 105
+}

@@ -1,0 +1,16 @@
+{
+ "name": "鼠盗",
+ "icon": "rats:pirat_hat",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "掉落生鼠肉、鼠皮；考古学家研究铁剑能得到鼠盗弯刀，研究魔笛人帽得到鼠盗帽。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_hat"
+  }
+ ],
+ "sortnum": 28
+}

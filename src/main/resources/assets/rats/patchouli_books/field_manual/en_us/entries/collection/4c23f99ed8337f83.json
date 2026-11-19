@@ -1,0 +1,16 @@
+{
+ "name": "农夫帽",
+ "icon": "rats:farmer_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "农夫帽：种植家、动物饲养员升级的材料。$(br2)【材料来源】工作台合成：干草捆 + 小麦植株×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:farmer_hat"
+  }
+ ],
+ "sortnum": 5
+}

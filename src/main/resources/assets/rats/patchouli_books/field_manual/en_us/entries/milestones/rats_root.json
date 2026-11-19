@@ -1,0 +1,12 @@
+{
+ "name": "老鼠",
+ "icon": "rats:block_of_cheese",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "烦人老鼠"
+  }
+ ],
+ "sortnum": 59
+}

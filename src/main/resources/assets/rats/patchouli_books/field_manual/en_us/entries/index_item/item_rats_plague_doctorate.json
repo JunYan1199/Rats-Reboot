@@ -1,0 +1,17 @@
+{
+ "name": "瘟疫博士学位",
+ "icon": "rats:plague_doctorate",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:plague_doctorate",
+   "text": "将村民转化为瘟疫医生$(br2)玩法：$(l:island/4780a4a0d363cf72)瘟疫博士学位$(/l)$(br2)登记名：$(br)rats:plague_doctorate"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:plague_doctorate"
+  }
+ ],
+ "sortnum": 107
+}

@@ -1,0 +1,20 @@
+{
+ "name": "帽子收藏",
+ "icon": "rats:top_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "帽子可以自己戴，也可以戴在老鼠头上（老鼠界面的头部格）。集齐全部帽子有进度「收集所有帽子」。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "部分帽子有效果：魔笛人帽让野鼠不怕你；瘟疫医生面具降低感染几率；黑死神面具让疫鼠不攻击你。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:top_hat"
+  }
+ ],
+ "sortnum": 1
+}

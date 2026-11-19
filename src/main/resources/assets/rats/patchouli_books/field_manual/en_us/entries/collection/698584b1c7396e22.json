@@ -1,0 +1,16 @@
+{
+ "name": "绯红净化液",
+ "icon": "rats:crimson_liquid",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "绯红净化液：把恶魔老鼠净化成普通野鼠。$(br2)【材料来源】工作台合成：金色老鼠头颅 + 下界奶酪 + 玻璃瓶 + 绯红菌（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:crimson_liquid"
+  }
+ ],
+ "sortnum": 37
+}

@@ -1,0 +1,28 @@
+{
+ "name": "第一步：肥厚奶酪令牌",
+ "icon": "rats:chunky_cheese_token",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：拿到一枚肥厚奶酪令牌——去鼠西洲的钥匙。$(br2)三条路：$(br2)• 运气：任何野生老鼠被打死时都有极低几率直接掉一枚令牌；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 攒碎片：9 小硬币 → 1 令牌碎片，9 碎片 → 1 令牌碎块，9 碎块 → 1 令牌；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 打 Boss：鼠王、黑死神必掉令牌碎块，魔笛人掉令牌碎片（见下方「主世界鼠患」）。$(br2)小硬币来源：贵族鼠升级的老鼠击杀生物、宠物店店主交易、圣诞礼物、猫的晨间礼物。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "令牌碎片也能从瘟疫医生那里买（5 绿宝石）。$(br2)【材料来源】工作台合成：神秘令牌碎块×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:chunky_cheese_token"
+  }
+ ],
+ "sortnum": 1
+}

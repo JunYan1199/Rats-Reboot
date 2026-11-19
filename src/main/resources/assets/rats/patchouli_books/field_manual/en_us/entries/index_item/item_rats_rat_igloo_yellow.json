@@ -1,0 +1,17 @@
+{
+ "name": "黄色鼠小屋",
+ "icon": "rats:rat_igloo_yellow",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_igloo_yellow",
+   "text": "登记名：$(br)rats:rat_igloo_yellow"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:igloos/rat_igloo_yellow"
+  }
+ ],
+ "sortnum": 164
+}

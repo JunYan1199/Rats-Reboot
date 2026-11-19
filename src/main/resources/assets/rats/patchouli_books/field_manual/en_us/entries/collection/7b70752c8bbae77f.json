@@ -1,0 +1,16 @@
+{
+ "name": "图鉴 · 随时查阅",
+ "icon": "rats:rat_king_crown",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一章是老鼠模组的完整图鉴：帽子、食物、瘟疫、装饰、建材、唱片和旗帜……前三章没有单独介绍的物品都在这里。$(br2)• 本章所有条目都不上锁，随时可以翻看、随时可以完成；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 最右边是综合毕业挑战，需要先完成前三章。"
+  }
+ ],
+ "sortnum": 0
+}

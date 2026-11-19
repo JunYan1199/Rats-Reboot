@@ -1,0 +1,17 @@
+{
+ "name": "塑料原料",
+ "icon": "rats:raw_plastic",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:raw_plastic",
+   "text": "玩法：$(l:keeping/352134e200324bb8)塑料原料$(/l)$(br2)登记名：$(br)rats:raw_plastic"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：白色鼠小屋、白色钻钻乐。"
+  }
+ ],
+ "sortnum": 304
+}

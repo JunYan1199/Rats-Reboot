@@ -1,0 +1,17 @@
+{
+ "name": "大理石纹奶酪砖块楼梯",
+ "icon": "rats:marbled_cheese_brick_stairs",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:marbled_cheese_brick_stairs",
+   "text": "玩法：$(l:collection/5516488f58744ffd)大理石纹奶酪砖块楼梯$(/l)$(br2)登记名：$(br)rats:marbled_cheese_brick_stairs"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_brick_stairs"
+  }
+ ],
+ "sortnum": 35
+}

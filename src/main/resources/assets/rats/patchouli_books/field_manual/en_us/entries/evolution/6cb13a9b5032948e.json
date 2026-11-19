@@ -1,0 +1,24 @@
+{
+ "name": "潮鳍鼠 · 水",
+ "icon": "rats:water_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　水$(br2)进化道具　水之石$(br2)原有被动　水中移动速度 +30%$(br2)50 级　潮汐救援"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "队友生命跌破 50% 时，为其恢复 4% 最大生命。受疗者在水中时提高到 7%，冷却 18 秒。$(br2)100 级　破浪"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "近战命中时向前发出 6 格水浪，沿途敌人各受攻击力 70% 的伤害。在水中冷却 5 秒，岸上 10 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:water_stone"
+  }
+ ],
+ "sortnum": 5
+}

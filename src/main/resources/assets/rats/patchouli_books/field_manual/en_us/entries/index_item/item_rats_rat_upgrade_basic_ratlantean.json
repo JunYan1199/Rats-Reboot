@@ -1,0 +1,21 @@
+{
+ "name": "老鼠升级：基础鼠西族",
+ "icon": "rats:rat_upgrade_basic_ratlantean",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_basic_ratlantean",
+   "text": "没有效果$(br2)玩法：$(l:island/397b5a551018b51c)第九步：鼠西族升级$(/l)$(br2)登记名：$(br)rats:rat_upgrade_basic_ratlantean"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/basic_ratlantean_upgrade"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：海盗、老鼠升级：组合、老鼠升级：空灵、老鼠升级：野蛮撕咬、老鼠升级：灵媒、老鼠升级：终结鼠、鼠西洲升级方块。"
+  }
+ ],
+ "sortnum": 206
+}

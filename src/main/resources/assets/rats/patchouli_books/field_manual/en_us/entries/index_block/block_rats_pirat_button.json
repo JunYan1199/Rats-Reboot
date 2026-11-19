@@ -1,0 +1,17 @@
+{
+ "name": "幽灵鼠盗木按钮",
+ "icon": "rats:pirat_button",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_button",
+   "text": "玩法：$(l:collection/08396d40f9abc835)幽灵鼠盗木按钮$(/l)$(br2)登记名：$(br)rats:pirat_button"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_button"
+  }
+ ],
+ "sortnum": 51
+}

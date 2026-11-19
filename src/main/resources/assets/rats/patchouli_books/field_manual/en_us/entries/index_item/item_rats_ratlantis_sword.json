@@ -1,0 +1,17 @@
+{
+ "name": "鼠西洲剑",
+ "icon": "rats:ratlantis_sword",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_sword",
+   "text": "玩法：$(l:island/7fbcf5892bba4fc2)鼠西洲武器装备$(/l)$(br2)登记名：$(br)rats:ratlantis_sword"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_sword"
+  }
+ ],
+ "sortnum": 301
+}

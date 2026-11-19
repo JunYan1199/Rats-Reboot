@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：金鼠偶",
+ "icon": "rats:rat_upgrade_idol",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_idol",
+   "text": "玩法：$(l:work/52a8870d345a3cde)老鼠升级：金鼠偶$(/l)$(br2)登记名：$(br)rats:rat_upgrade_idol"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/idol_upgrade"
+  }
+ ],
+ "sortnum": 244
+}

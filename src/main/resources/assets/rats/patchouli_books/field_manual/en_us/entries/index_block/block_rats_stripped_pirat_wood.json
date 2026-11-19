@@ -1,0 +1,21 @@
+{
+ "name": "去皮幽灵鼠盗木",
+ "icon": "rats:stripped_pirat_wood",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:stripped_pirat_wood",
+   "text": "玩法：$(l:collection/75ae5a59731cc87b)去皮幽灵鼠盗木$(/l)$(br2)登记名：$(br)rats:stripped_pirat_wood"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:stripped_pirat_wood"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：悬挂式幽灵鼠盗木告示牌。"
+  }
+ ],
+ "sortnum": 109
+}

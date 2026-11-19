@@ -1,0 +1,12 @@
+{
+ "name": "击败鼠西族战机",
+ "icon": "rats:ancient_sawblade",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "会用锯片和激光攻击。掉落远古锯片（分解器材料）和奥术科技（鼠西洲胸甲、弓、非信者的材料）。"
+  }
+ ],
+ "sortnum": 37
+}

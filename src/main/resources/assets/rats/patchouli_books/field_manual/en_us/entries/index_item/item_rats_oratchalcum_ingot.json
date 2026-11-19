@@ -1,0 +1,21 @@
+{
+ "name": "鼠铜锭",
+ "icon": "rats:oratchalcum_ingot",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:oratchalcum_ingot",
+   "text": "玩法：$(l:island/5896f453bd371dbf)第三步：鼠西洲的资源$(/l)$(br2)登记名：$(br)rats:oratchalcum_ingot"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:oratchalcum_ingot"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：防空警报、鼠铜块、鼠铜粒、鼠西洲斧、鼠西洲靴子、鼠西族弓、鼠西洲胸甲、鼠西洲头盔、鼠西族锄、鼠西洲护腿、鼠西洲镐、鼠西洲锹。"
+  }
+ ],
+ "sortnum": 90
+}

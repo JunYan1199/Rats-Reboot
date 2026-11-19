@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：傀儡骑乘",
+ "icon": "rats:rat_upgrade_golem_mount",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠骑上铁傀儡，坐骑有 100 点生命。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：雕刻南瓜×2 + 十字玻璃等同类 + 铁块×4 + 老鼠升级：基础坐骑 + 绿宝石块（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/golem_mount_upgrade"
+  }
+ ],
+ "sortnum": 84
+}

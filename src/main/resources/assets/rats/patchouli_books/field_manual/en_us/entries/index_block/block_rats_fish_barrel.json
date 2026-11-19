@@ -1,0 +1,21 @@
+{
+ "name": "鱼桶",
+ "icon": "rats:fish_barrel",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:fish_barrel",
+   "text": "玩法：$(l:collection/0a0e38591fd92717)鱼桶$(/l)$(br2)登记名：$(br)rats:fish_barrel"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:fish_barrel"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：水性、老鼠升级：渔夫。"
+  }
+ ],
+ "sortnum": 21
+}

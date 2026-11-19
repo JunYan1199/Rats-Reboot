@@ -1,0 +1,17 @@
+{
+ "name": "黄色老鼠房屋",
+ "icon": "rats:rat_house_yellow",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house_yellow",
+   "text": "登记名：$(br)rats:rat_house_yellow"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_yellow"
+  }
+ ],
+ "sortnum": 96
+}

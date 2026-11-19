@@ -1,0 +1,17 @@
+{
+ "name": "鼠工台",
+ "icon": "rats:rat_crafting_table",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_crafting_table",
+   "text": "玩法：$(l:work/21489e921467b8ae)加工与特殊工作$(/l)$(br2)登记名：$(br)rats:rat_crafting_table"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_crafting_table"
+  }
+ ],
+ "sortnum": 78
+}

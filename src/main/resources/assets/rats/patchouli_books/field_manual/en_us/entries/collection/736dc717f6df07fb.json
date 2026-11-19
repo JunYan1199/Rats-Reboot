@@ -1,0 +1,16 @@
+{
+ "name": "香甜药草花束",
+ "icon": "rats:herb_bundle",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "香甜药草花束：缓解瘟疫。$(br2)【材料来源】工作台合成：蒲公英等同类×8 + 什锦蔬菜，产出 ×3；也来自瘟疫医生和黑死神（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:herb_bundle"
+  }
+ ],
+ "sortnum": 32
+}

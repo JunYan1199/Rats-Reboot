@@ -1,0 +1,16 @@
+{
+ "name": "什锦蔬菜",
+ "icon": "rats:assorted_vegetables",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "什锦蔬菜：各种蔬菜拼成，胡萝卜鼠升级、药草花束的材料。$(br2)【材料来源】工作台合成：甜菜根等同类×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:assorted_vegetables"
+  }
+ ],
+ "sortnum": 21
+}

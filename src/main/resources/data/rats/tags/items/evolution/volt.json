@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "rats:thunder_stone",
+    {
+      "id": "cobblemon:thunder_stone",
+      "required": false
+    },
+    {
+      "id": "pixelmon:thunder_stone",
+      "required": false
+    }
+  ]
+}

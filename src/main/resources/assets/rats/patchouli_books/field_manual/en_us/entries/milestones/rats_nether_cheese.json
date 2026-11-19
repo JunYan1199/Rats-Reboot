@@ -1,0 +1,12 @@
+{
+ "name": "辣味杰克起司",
+ "icon": "rats:nether_cheese",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "从下界中的恶魔老鼠那里获得下界奶酪"
+  }
+ ],
+ "sortnum": 35
+}

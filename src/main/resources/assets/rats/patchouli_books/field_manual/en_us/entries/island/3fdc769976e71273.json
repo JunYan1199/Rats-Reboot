@@ -1,0 +1,12 @@
+{
+ "name": "鼠西族魂火",
+ "icon": "rats:ratlantean_flame",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西族魂火。也来自鼠西族精灵。$(br2)【材料来源】让带「考古学家」升级的老鼠研究：烈焰粉（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 67
+}

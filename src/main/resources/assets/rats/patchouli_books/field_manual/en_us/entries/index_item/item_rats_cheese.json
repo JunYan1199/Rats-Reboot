@@ -1,0 +1,21 @@
+{
+ "name": "奶酪",
+ "icon": "rats:cheese",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cheese",
+   "text": "玩法：$(l:keeping/69880272d4bf948d)第二步：第一块奶酪$(/l)$(br2)登记名：$(br)rats:cheese"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cheese"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：奶酪块、布瑞克转化装置、护甲基因酥、法术冷却基因酥、攻击基因酥、巫法基因酥、生命基因酥、铁魔法基因酥、回复基因酥、速度基因酥、神奇糖果、$(br2)唱跳音符。"
+  }
+ ],
+ "sortnum": 25
+}

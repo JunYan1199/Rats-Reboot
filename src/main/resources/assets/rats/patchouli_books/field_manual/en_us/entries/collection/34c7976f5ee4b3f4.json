@@ -1,0 +1,16 @@
+{
+ "name": "苔藓大理石纹奶酪砖块",
+ "icon": "rats:marbled_cheese_brick_mossy",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "苔藓砖块。$(br2)【材料来源】工作台合成：大理石纹奶酪砖块 + 藤蔓；鼠西洲遗迹中挖取（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_brick_mossy"
+  }
+ ],
+ "sortnum": 86
+}

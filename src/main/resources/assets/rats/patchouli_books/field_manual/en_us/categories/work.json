@@ -1,0 +1,6 @@
+{
+ "name": "升级与自动化",
+ "icon": "rats:rat_upgrade_basic",
+ "description": "按工作类型找升级，搭建运输、采集和加工流程。",
+ "sortnum": 2
+}

@@ -1,0 +1,21 @@
+{
+ "name": "压缩垃圾",
+ "icon": "rats:compressed_garbage",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:compressed_garbage",
+   "text": "玩法：$(l:keeping/65611dcf47f2458d)压缩垃圾$(/l)$(br2)登记名：$(br)rats:compressed_garbage"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:compressed_garbage"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：污渍、魔方垃圾。"
+  }
+ ],
+ "sortnum": 16
+}

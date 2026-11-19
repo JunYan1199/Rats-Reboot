@@ -1,0 +1,17 @@
+{
+ "name": "红色老鼠房屋",
+ "icon": "rats:rat_house_red",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house_red",
+   "text": "玩法：$(l:collection/7c6319c78bc9d0a2)16 色老鼠房屋$(/l)$(br2)登记名：$(br)rats:rat_house_red"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_red"
+  }
+ ],
+ "sortnum": 94
+}

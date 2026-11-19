@@ -1,0 +1,24 @@
+{
+ "name": "拳穗鼠 · 格斗",
+ "icon": "rats:dawn_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　格斗$(br2)进化道具　觉醒之石$(br2)原有被动　近战攻击伤害 +10%$(br2)50 级　三段崩拳"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "连续近战命中同一目标时，每第 3 拳追加攻击力 65% 的伤害。超过 4 秒未命中则重新计数。$(br2)100 级　截拳护主"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "主人受到近战伤害且拳穗鼠在 4 格内时，本次伤害减少 35%，老鼠立即向袭击者反击 1 次，冷却 10 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dawn_stone"
+  }
+ ],
+ "sortnum": 9
+}

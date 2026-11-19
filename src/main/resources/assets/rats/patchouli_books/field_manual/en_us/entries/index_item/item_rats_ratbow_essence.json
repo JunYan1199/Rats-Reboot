@@ -1,0 +1,17 @@
+{
+ "name": "彩鼠源质",
+ "icon": "rats:ratbow_essence",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratbow_essence",
+   "text": "把老鼠染成“彩虹”色$(br2)玩法：$(l:keeping/6032bec1642f8fca)外观$(/l)$(br2)登记名：$(br)rats:ratbow_essence"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratbow_essence"
+  }
+ ],
+ "sortnum": 282
+}

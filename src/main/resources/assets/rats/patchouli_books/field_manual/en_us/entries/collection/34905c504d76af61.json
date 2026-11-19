@@ -1,0 +1,12 @@
+{
+ "name": "鼠西族军帽",
+ "icon": "rats:military_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西族军帽：老鼠和镰刀旗帜图案的材料。$(br2)【材料来源】飞翔的荷兰鼠沉船宝箱"
+  }
+ ],
+ "sortnum": 14
+}

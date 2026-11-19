@@ -1,0 +1,16 @@
+{
+ "name": "雕纹大理石纹奶酪砖块",
+ "icon": "rats:marbled_cheese_brick_chiseled",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "雕纹砖块：组合器、分解器的材料。$(br2)【材料来源】工作台合成：大理石纹奶酪砖块台阶×2；切石机：大理石纹奶酪；切石机：大理石纹奶酪砖块（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_brick_chiseled"
+  }
+ ],
+ "sortnum": 82
+}

@@ -1,0 +1,20 @@
+{
+ "name": "瘟疫博士学位",
+ "icon": "rats:plague_doctorate",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：瘟疫博士学位。右键一位成年的无业村民或傻子村民，把他变成瘟疫医生。$(br2)瘟疫医生是会交易的特殊商人，也会自然出现在村庄附近。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：瘟疫源质×4 + 纸（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:plague_doctorate"
+  }
+ ],
+ "sortnum": 10
+}

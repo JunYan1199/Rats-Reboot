@@ -1,0 +1,16 @@
+{
+ "name": "圆厅的三波鼠群",
+ "icon": "rats:pizza_slice",
+ "category": "rats:sewer",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "沿主通道向深处走到中段圆厅。简单或更高难度下，三波鼠群依次在圆厅两侧出现。清掉当前波次再准备下一波。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "单人三波分别为 8、10、11 只；多人进入会有增援。支路可探索，主路直通尽头的大厅。"
+  }
+ ],
+ "sortnum": 1
+}

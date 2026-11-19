@@ -1,0 +1,17 @@
+{
+ "name": "老鼠加特林",
+ "icon": "rats:rattling_gun",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rattling_gun",
+   "text": "通过右击可以把你肩膀上的老鼠放在枪手的座位上$(br2)玩法：$(l:island/4242fe1c780e0865)老鼠加特林$(/l)$(br2)登记名：$(br)rats:rattling_gun"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rattling_gun"
+  }
+ ],
+ "sortnum": 302
+}

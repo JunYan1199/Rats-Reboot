@@ -1,0 +1,13 @@
+{
+ "name": "音乐唱片",
+ "icon": "rats:music_disc_mice_on_venus",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:music_disc_mice_on_venus",
+   "text": "C418 - Mice on Venus$(br2)玩法：$(l:collection/0c7516c842cc201c)音乐唱片$(/l)$(br2)登记名：$(br)rats:music_disc_mice_on_venus"
+  }
+ ],
+ "sortnum": 87
+}

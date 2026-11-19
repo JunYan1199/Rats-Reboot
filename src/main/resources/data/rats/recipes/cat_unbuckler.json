@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [ "N N", " C ", " S " ],
+  "key": {
+    "N": { "item": "minecraft:iron_nugget" },
+    "C": { "tag": "forge:cheese" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "rats:cat_unbuckler" }
+}

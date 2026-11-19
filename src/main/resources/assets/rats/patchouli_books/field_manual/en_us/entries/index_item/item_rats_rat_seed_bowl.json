@@ -1,0 +1,17 @@
+{
+ "name": "老鼠食盆",
+ "icon": "rats:rat_seed_bowl",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_seed_bowl",
+   "text": "玩法：$(l:keeping/5e5bbd329010c3a6)老鼠食盆$(/l)$(br2)登记名：$(br)rats:rat_seed_bowl"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_seed_bowl"
+  }
+ ],
+ "sortnum": 174
+}

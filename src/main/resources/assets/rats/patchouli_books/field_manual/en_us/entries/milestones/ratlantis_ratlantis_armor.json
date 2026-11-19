@@ -1,0 +1,12 @@
+{
+ "name": "贴金大佛！",
+ "icon": "rats:ratlantis_helmet",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "获得一整套的鼠西族战甲"
+  }
+ ],
+ "sortnum": 20
+}

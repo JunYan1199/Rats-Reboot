@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：末影",
+ "icon": "rats:rat_upgrade_ender",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠可以随意传送，运输几乎瞬间完成；外观变黑、眼睛发紫光。$(br2)适合：长距离运输。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：末影珍珠×4 + 末影之眼×4 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/ender_upgrade"
+  }
+ ],
+ "sortnum": 21
+}

@@ -1,0 +1,21 @@
+{
+ "name": "鼠套花花瓣",
+ "icon": "rats:ratglove_petals",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratglove_petals",
+   "text": "玩法：$(l:island/130cd2402c5b79d5)特产资源$(/l)$(br2)登记名：$(br)rats:ratglove_petals"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratglove_petals"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠套块、鼠西洲宝石、鼠西洲的降灵、知性小瓶。"
+  }
+ ],
+ "sortnum": 286
+}

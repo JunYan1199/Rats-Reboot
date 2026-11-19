@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：渔夫",
+ "icon": "rats:rat_upgrade_fisherman",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠走到水边钓鱼，能钓到鱼、垃圾和宝藏。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：鱼桶×2 + 渔夫帽 + 钓鱼竿×2 + 老鼠升级：基础 + 生鳕鱼等同类×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/fisherman_upgrade"
+  }
+ ],
+ "sortnum": 34
+}

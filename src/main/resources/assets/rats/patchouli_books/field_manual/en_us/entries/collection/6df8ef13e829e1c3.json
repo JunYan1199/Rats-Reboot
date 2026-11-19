@@ -1,0 +1,16 @@
+{
+ "name": "瘟疫炖汤",
+ "icon": "rats:plague_stew",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "瘟疫炖汤：治愈瘟疫。$(br2)【材料来源】工作台合成：香甜药草花束 + 瘟疫水蛭 + 陈年糖蜜 + 碗（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:plague_stew"
+  }
+ ],
+ "sortnum": 35
+}

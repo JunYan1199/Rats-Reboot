@@ -1,0 +1,24 @@
+{
+ "name": "第四步：群系与结构",
+ "icon": "rats:dutchrat_bell",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：认识鼠西洲的地标。$(br2)• 大理石遗迹：大大小小的奶酪大理石废墟，散落在岛上，常有鼠西族精灵出没；$(br2)• 大理石堆：小型奶酪大理石堆；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 飞翔的荷兰鼠沉船：海面上的幽灵船，宝箱里有幽灵鼠盗装备、灵质、鼠西族军帽、奶酪炮弹、小硬币、鼠铜粒等；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 老鼠男爵的跑道：一条带防空警报的飞机跑道，是召唤老鼠男爵的场地；$(br2)• 幽灵鼠盗树：灵质右键任意树苗也能变成幽灵鼠盗树苗，木材可以做全套木制品（第四章图鉴）。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dutchrat_bell"
+  }
+ ],
+ "sortnum": 25
+}

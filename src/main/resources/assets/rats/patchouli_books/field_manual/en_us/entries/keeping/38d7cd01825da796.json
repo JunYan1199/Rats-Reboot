@@ -1,0 +1,16 @@
+{
+ "name": "奶酪条",
+ "icon": "rats:string_cheese",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：奶酪条，吃得很快的小零食。$(br2)有什么用：老鼠菲斯帽的材料。需要一只带「厨师」升级的老鼠来做（第二章）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】让带「厨师」升级的老鼠烹制：奶酪，产出 ×4（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 22
+}

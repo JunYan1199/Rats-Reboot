@@ -1,0 +1,17 @@
+{
+ "name": "飞行员皮帽",
+ "icon": "rats:aviator_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:aviator_hat",
+   "text": "玩法：$(l:island/3e4886302ee49c77)飞行员皮帽$(/l)$(br2)登记名：$(br)rats:aviator_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：双翼机坐骑。"
+  }
+ ],
+ "sortnum": 8
+}

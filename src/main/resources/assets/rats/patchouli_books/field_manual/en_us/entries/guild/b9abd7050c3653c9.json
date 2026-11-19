@@ -1,0 +1,16 @@
+{
+ "name": "为简打开大厅",
+ "icon": "guildjane:guild_deed",
+ "category": "rats:guild",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "面向预定的大厅方向使用地契。前方留出 19 × 18 格空地，上方留空 15 格。进门后找到柜台后的简，再看看墙上的公会悬赏板。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:guild_deed"
+  }
+ ],
+ "sortnum": 1
+}

@@ -1,0 +1,20 @@
+{
+ "name": "16 色鼠吊床",
+ "icon": "rats:rat_hammock_red",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "线 + 奶酪 + 对应颜色羊毛直接合成，或白色吊床 + 染料。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：白色鼠吊床等同类 + 白色染料；工作台合成：线×2 + 奶酪 + 白色羊毛×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:hammocks/hammock_dyed_red"
+  }
+ ],
+ "sortnum": 68
+}

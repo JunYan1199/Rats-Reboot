@@ -1,0 +1,17 @@
+{
+ "name": "镀金老鼠长笛",
+ "icon": "rats:gilded_rat_flute",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:gilded_rat_flute",
+   "text": "向目标发射老鼠$(br2)玩法：$(l:keeping/0918ee5bf0f12719)镀金老鼠长笛$(/l)$(br2)登记名：$(br)rats:gilded_rat_flute"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gilded_rat_flute"
+  }
+ ],
+ "sortnum": 71
+}

@@ -1,0 +1,16 @@
+{
+ "name": "羽翼",
+ "icon": "rats:feathery_wing",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "羽翼：飞行、天使、小鸡坐骑升级的材料。$(br2)【材料来源】工作台合成：生鸡肉 + 羽毛×4（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:feathery_wing"
+  }
+ ],
+ "sortnum": 54
+}

@@ -1,0 +1,17 @@
+{
+ "name": "老鼠房屋",
+ "icon": "rats:rat_house",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house",
+   "text": "玩法：$(l:keeping/05b8e322de70beae)第十步：老鼠房屋与作息$(/l)$(br2)登记名：$(br)rats:rat_house"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_house"
+  }
+ ],
+ "sortnum": 80
+}

@@ -1,0 +1,17 @@
+{
+ "name": "鼠笼",
+ "icon": "rats:rat_cage",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_cage",
+   "text": "玩法：$(l:keeping/4942b7dfba7b8a6d)第十二步：繁育与基因$(/l)$(br2)登记名：$(br)rats:rat_cage"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_cage"
+  }
+ ],
+ "sortnum": 73
+}

@@ -1,0 +1,17 @@
+{
+ "name": "便携老鼠夹",
+ "icon": "rats:rat_press",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_press",
+   "text": "登记名：$(br)rats:rat_press"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_press"
+  }
+ ],
+ "sortnum": 97
+}

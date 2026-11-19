@@ -1,0 +1,17 @@
+{
+ "name": "老鼠轮子",
+ "icon": "rats:rat_wheel",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_wheel",
+   "text": "老鼠会转动轮子产生能量$(br2)玩法：$(l:keeping/6f91733179d2eed5)老鼠轮子$(/l)$(br2)登记名：$(br)rats:rat_wheel"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_wheel"
+  }
+ ],
+ "sortnum": 279
+}

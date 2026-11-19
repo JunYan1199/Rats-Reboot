@@ -1,0 +1,12 @@
+{
+ "name": "特殊材料",
+ "icon": "rats:arcane_technology",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "Boss 和考古带来的稀有材料。"
+  }
+ ],
+ "sortnum": 60
+}

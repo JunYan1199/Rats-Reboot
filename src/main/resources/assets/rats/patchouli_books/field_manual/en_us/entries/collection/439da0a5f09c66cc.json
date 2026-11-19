@@ -1,0 +1,16 @@
+{
+ "name": "鼠汉堡",
+ "icon": "rats:rat_burger",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠汉堡：两片面包夹熟鼠肉，回复量很高。$(br2)【材料来源】工作台合成：面包×2 + 熟鼠肉（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_burger"
+  }
+ ],
+ "sortnum": 20
+}

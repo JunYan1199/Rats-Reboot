@@ -1,0 +1,16 @@
+{
+ "name": "灭虫师帽",
+ "icon": "rats:exterminator_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "灭虫师帽。宠物店店主也出售。$(br2)【材料来源】工作台合成：皮革帽子 + 灰色染料 + 盾牌（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:exterminator_hat"
+  }
+ ],
+ "sortnum": 18
+}

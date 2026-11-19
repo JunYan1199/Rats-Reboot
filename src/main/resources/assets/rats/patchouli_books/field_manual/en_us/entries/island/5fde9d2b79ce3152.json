@@ -1,0 +1,16 @@
+{
+ "name": "击败黑死神",
+ "icon": "rats:black_death_mask",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "黑死神会召唤疫鼠、瘟云和瘟兽，攻击带瘟疫。准备净化液或瘟疫炖汤解瘟疫。$(br2)掉落：黑死神面具（疫鼠不再攻击你）、黑死神镰刀（空挥召唤瘟云）、香甜药草花束、令牌碎块。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "击杀一次自动完成。"
+  }
+ ],
+ "sortnum": 12
+}

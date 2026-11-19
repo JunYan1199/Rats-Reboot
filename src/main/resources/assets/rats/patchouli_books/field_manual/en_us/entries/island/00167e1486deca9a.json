@@ -1,0 +1,12 @@
+{
+ "name": "老鼠长袍",
+ "icon": "rats:rat_toga",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠长袍：右键老鼠给它穿上。$(br2)【材料来源】让带「考古学家」升级的老鼠研究：皮革外套；也来自野蛮鼠西族和沉船宝箱（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 68
+}

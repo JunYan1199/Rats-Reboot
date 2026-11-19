@@ -1,0 +1,16 @@
+{
+ "name": "老鼠水瓶",
+ "icon": "rats:rat_water_bottle",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠水瓶，鼠笼装饰。$(br2)【材料来源】工作台合成：塑料原料 + 水桶 + 铁粒（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_water_bottle"
+  }
+ ],
+ "sortnum": 59
+}

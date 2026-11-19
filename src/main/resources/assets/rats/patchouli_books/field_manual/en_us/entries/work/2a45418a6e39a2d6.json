@@ -1,0 +1,16 @@
+{
+ "name": "移动与机动",
+ "icon": "rats:rat_upgrade_ender",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "让老鼠跑得更快、飞起来、瞬移或下水。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/ender_upgrade"
+  }
+ ],
+ "sortnum": 19
+}

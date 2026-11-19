@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：战士",
+ "icon": "rats:rat_upgrade_warrior",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：同时大幅提升生命、护甲、伤害。需要生命、力量、护甲三个升级。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：钻石×4 + 钻石剑 + 老鼠升级：生命 + 老鼠升级：力量 + 老鼠升级：护甲 + 钻石块（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/warrior_upgrade"
+  }
+ ],
+ "sortnum": 61
+}

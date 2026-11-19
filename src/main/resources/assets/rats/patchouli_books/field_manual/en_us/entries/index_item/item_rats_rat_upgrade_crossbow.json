@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：弩",
+ "icon": "rats:rat_upgrade_crossbow",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_crossbow",
+   "text": "玩法：$(l:work/14f81cd87d853c4b)武器与攻击$(/l)$(br2)登记名：$(br)rats:rat_upgrade_crossbow"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/crossbow_upgrade"
+  }
+ ],
+ "sortnum": 225
+}

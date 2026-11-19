@@ -1,0 +1,16 @@
+{
+ "name": "鼠西洲建材",
+ "icon": "rats:marbled_cheese_brick",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "大理石纹奶酪和幽灵鼠盗木的全套建材。大理石纹奶酪可以用切石机切出各种形状；幽灵鼠盗木和普通木材一样加工。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_brick"
+  }
+ ],
+ "sortnum": 70
+}

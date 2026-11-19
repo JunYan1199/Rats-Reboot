@@ -1,0 +1,24 @@
+{
+ "name": "叶冠鼠 · 草",
+ "icon": "rats:leaf_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　草$(br2)进化道具　叶之石$(br2)原有被动　露天白昼受到治疗 +25%$(br2)50 级　扎根营地"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "交战中原地停留 3 秒后扎根，每 3 秒为 6 格内生命比例最低的队友恢复 1.5% 最大生命，移动即解除。$(br2)100 级　丰收季"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "参与收获成熟作物时，20% 概率额外掉落 1 份农产品，只计农作物主产物，每 2 秒最多一次。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:leaf_stone"
+  }
+ ],
+ "sortnum": 7
+}

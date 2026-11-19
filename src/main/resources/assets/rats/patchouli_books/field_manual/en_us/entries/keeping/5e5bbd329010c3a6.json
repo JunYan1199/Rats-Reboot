@@ -1,0 +1,16 @@
+{
+ "name": "老鼠食盆",
+ "icon": "rats:rat_seed_bowl",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠食盆，鼠笼装饰。配方里的种子是任意种子标签。$(br2)【材料来源】工作台合成：卷心菜种子等同类×3 + 塑料原料×5（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_seed_bowl"
+  }
+ ],
+ "sortnum": 60
+}

@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：灵媒",
+ "icon": "rats:rat_upgrade_psychic",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：召唤传送门攻击目标，像新·鼠西族一样。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：海晶碎片×2 + 末影珍珠 + 末地水晶×2 + 灵能鼠脑 + 海晶砂粒×2 + 老鼠升级：基础鼠西族（JEI：物品上按 R 查$(br2)看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/psychic_upgrade"
+  }
+ ],
+ "sortnum": 82
+}

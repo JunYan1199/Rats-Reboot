@@ -1,0 +1,28 @@
+{
+ "name": "电颊鼠 · 两档电量",
+ "icon": "rats:spark_cheek_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　电颊鼠专属$(br2)进化道具　电颊石$(br2)原有被动　移动速度 +12%$(br2)50 级　十万伏特"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "直接命中后放电。低电量造成攻击力 45% 的雷伤，高电量提高到 110%，并溅射给一个近敌一半伤害，冷却 8 秒。$(br2)100 级　充电搭档"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "交战时每 12 秒给 8 格内一名同队施法鼠充电，使它当前剩余时间最长的法术冷却缩短 1 秒。高电量时缩短 3 秒。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "今日奶酪 0～3/4 为低电量；喂到 4/4 后立即切换为圆滚滚的高电量外观。次日奶酪计数归零，恢复低电量。两项能力仍按等级解锁。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:spark_cheek_stone"
+  }
+ ],
+ "sortnum": 21
+}

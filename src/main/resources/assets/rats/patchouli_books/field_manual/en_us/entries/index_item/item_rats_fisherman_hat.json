@@ -1,0 +1,21 @@
+{
+ "name": "渔夫帽·",
+ "icon": "rats:fisherman_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:fisherman_hat",
+   "text": "玩法：$(l:collection/79475bc354cbe71d)渔夫帽$(/l)$(br2)登记名：$(br)rats:fisherman_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:fisherman_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：渔夫。"
+  }
+ ],
+ "sortnum": 55
+}

@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：终结鼠",
+ "icon": "rats:rat_upgrade_ratinator",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：半机械老鼠，向目标发射激光。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁块×4 + 鼠西族战机头颅 + 机器鼠枪筒×2 + 老鼠升级：基础鼠西族 + 装填的机器鼠枪筒（JEI：物品上按 R 查看摆法$(br2)）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/ratinator_upgrade"
+  }
+ ],
+ "sortnum": 81
+}

@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：挤奶女仆",
+ "icon": "rats:rat_upgrade_milker",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_milker",
+   "text": "玩法：$(l:work/0c3e2382c6f030c3)老鼠升级：挤奶女仆$(/l)$(br2)登记名：$(br)rats:rat_upgrade_milker"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/milker_upgrade"
+  }
+ ],
+ "sortnum": 247
+}

@@ -1,0 +1,13 @@
+{
+ "name": "箭上之鼠",
+ "icon": "rats:rat_arrow",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_arrow",
+   "text": "玩法：$(l:collection/1d4ec4cbe9dbc56e)箭上之鼠$(/l)$(br2)登记名：$(br)rats:rat_arrow"
+  }
+ ],
+ "sortnum": 124
+}

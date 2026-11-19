@@ -1,0 +1,16 @@
+{
+ "name": "幽灵鼠盗木门",
+ "icon": "rats:pirat_door",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "门。$(br2)【材料来源】工作台合成：幽灵鼠盗木板×6，产出 ×3；机械动力动力锯：幽灵鼠盗木板（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_door"
+  }
+ ],
+ "sortnum": 107
+}

@@ -1,0 +1,21 @@
+{
+ "name": "鼠西洲升级方块",
+ "icon": "rats:ratlantis_upgrade_block",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_upgrade_block",
+   "text": "玩法：$(l:island/51fc7c8f21a82f49)鼠西洲升级方块$(/l)$(br2)登记名：$(br)rats:ratlantis_upgrade_block"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_upgrade_block"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：基础鼠西族。"
+  }
+ ],
+ "sortnum": 107
+}

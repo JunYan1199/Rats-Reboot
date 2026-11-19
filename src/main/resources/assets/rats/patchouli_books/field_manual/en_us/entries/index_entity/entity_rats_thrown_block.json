@@ -1,0 +1,12 @@
+{
+ "name": "念力方块",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:thrown_block"
+  }
+ ],
+ "sortnum": 43
+}

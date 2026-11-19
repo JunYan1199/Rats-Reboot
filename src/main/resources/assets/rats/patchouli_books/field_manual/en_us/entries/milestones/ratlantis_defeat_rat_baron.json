@@ -1,0 +1,12 @@
+{
+ "name": "死亡或荣耀",
+ "icon": "rats:biplane_wing",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "击败老鼠男爵"
+  }
+ ],
+ "sortnum": 1
+}

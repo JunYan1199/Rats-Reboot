@@ -1,0 +1,21 @@
+{
+ "name": "黑死神镰刀",
+ "icon": "rats:plague_scythe",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:plague_scythe",
+   "text": "空击时会召唤瘟云$(br2)玩法：$(l:collection/3fefd07b788fb60a)黑死神镰刀$(/l)$(br2)登记名：$(br)rats:plague_scythe"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：黑死神。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：腐化老鼠头颅、瘟疫源质。"
+  }
+ ],
+ "sortnum": 110
+}

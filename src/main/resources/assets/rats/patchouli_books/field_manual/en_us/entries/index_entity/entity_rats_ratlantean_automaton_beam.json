@@ -1,0 +1,12 @@
+{
+ "name": "战机光束",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:ratlantean_automaton_beam"
+  }
+ ],
+ "sortnum": 35
+}

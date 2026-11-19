@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：掷药鼠",
+ "icon": "rats:rat_upgrade_support",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：你没满血时老鼠向你扔喷溅治疗药水，满血时扔其它增益药水。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：下界疣×4 + 闪烁的西瓜片 + 玻璃瓶×2 + 老鼠升级：基础 + 酿造台（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/support_upgrade"
+  }
+ ],
+ "sortnum": 69
+}

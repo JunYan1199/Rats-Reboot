@@ -1,0 +1,17 @@
+{
+ "name": "鼠奴纸契",
+ "icon": "rats:rat_papers",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_papers",
+   "text": "玩法：$(l:keeping/3a439dc176b408a2)鼠奴纸契$(/l)$(br2)登记名：$(br)rats:rat_papers"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_papers"
+  }
+ ],
+ "sortnum": 170
+}

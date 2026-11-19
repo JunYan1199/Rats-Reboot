@@ -1,0 +1,20 @@
+{
+ "name": "彩鼠源质",
+ "icon": "rats:ratbow_essence",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：彩鼠源质。右键老鼠把它变成不停变换颜色的彩虹鼠。$(br2)小彩蛋：用铁砧给它改特定名字会有特殊效果。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：白色染料等同类×8 + 瘟疫源质（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratbow_essence"
+  }
+ ],
+ "sortnum": 50
+}

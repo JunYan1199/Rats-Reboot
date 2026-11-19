@@ -1,0 +1,32 @@
+{
+ "name": "第十步：老鼠房屋与作息",
+ "icon": "rats:rat_house",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：给老鼠一个家，学会它的作息。$(br2)绑定房屋：用奶酪魔杖右键老鼠，再右键老鼠房屋，在菜单里选「绑定老鼠房屋」。一个房屋只住一只老鼠，一只老鼠只绑一个房屋。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "房屋可以用染料染成 16 种颜色（第四章图鉴）。$(br2)作息（Reborn 系统）：$(br2)• 早上（游戏时间 0~4000）工作；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 中午（4000~8000）回家睡觉，存在房屋里；$(br2)• 下午和夜里（8000 以后）醒来继续工作。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "（配置里打开「Diurnal Rats」后改为夜里 16000~20000 睡觉。）$(br2)• 右键房屋可以把睡着的老鼠抱出来；房屋被拆掉时里面的老鼠会出来。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 用 Jade 看房屋能显示屋里是谁、还有多久醒。$(br2)【材料来源】工作台合成：白色羊毛等同类×8（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_house"
+  }
+ ],
+ "sortnum": 53
+}

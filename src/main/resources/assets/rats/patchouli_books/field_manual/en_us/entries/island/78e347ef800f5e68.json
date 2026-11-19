@@ -1,0 +1,12 @@
+{
+ "name": "击败飞翔的荷兰鼠",
+ "icon": "rats:dutchrat_wheel",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "幽灵船长，会掷出幽灵弯刀。掉落飞翔的荷兰鼠的船舵（鼠西洲靴子、非信者的材料，也能拆出 10 个灵质）。"
+  }
+ ],
+ "sortnum": 41
+}

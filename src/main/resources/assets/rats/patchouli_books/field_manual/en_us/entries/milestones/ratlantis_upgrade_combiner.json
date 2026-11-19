@@ -1,0 +1,12 @@
+{
+ "name": "最  大  出  力！！！",
+ "icon": "rats:upgrade_combiner",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级组合器，并开始将这些升级混合在一起"
+  }
+ ],
+ "sortnum": 23
+}

@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：时间“鼠”器",
+ "icon": "rats:rat_upgrade_tick_accelerator",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：加快老鼠脚下那个方块的刻速度，作物、熔炉、机器都会更快。$(br2)实例：让老鼠「坐下」在熔炉或作物上。缠结鼠尾来自鼠王。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：青金石块×4 + 缠结鼠尾 + 时钟×3 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/tick_accelerator_upgrade"
+  }
+ ],
+ "sortnum": 51
+}

@@ -1,0 +1,16 @@
+{
+ "name": "令牌材料",
+ "icon": "rats:token_piece",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "一步步攒出令牌。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:token_piece"
+  }
+ ],
+ "sortnum": 2
+}

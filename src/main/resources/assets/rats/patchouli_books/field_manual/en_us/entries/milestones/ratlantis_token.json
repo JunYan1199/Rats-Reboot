@@ -1,0 +1,12 @@
+{
+ "name": "抽卡！十连！全是SSR！！",
+ "icon": "rats:chunky_cheese_token",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "从老鼠身上获得大块奶酪令牌！做得好！"
+  }
+ ],
+ "sortnum": 22
+}

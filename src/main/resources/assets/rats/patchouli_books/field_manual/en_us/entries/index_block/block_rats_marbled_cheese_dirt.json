@@ -1,0 +1,17 @@
+{
+ "name": "大理石纹奶酪泥土",
+ "icon": "rats:marbled_cheese_dirt",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:marbled_cheese_dirt",
+   "text": "玩法：$(l:collection/30299298ccdf2798)大理石纹奶酪泥土$(/l)$(br2)登记名：$(br)rats:marbled_cheese_dirt"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_dirt"
+  }
+ ],
+ "sortnum": 37
+}

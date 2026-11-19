@@ -1,0 +1,12 @@
+{
+ "name": "撒诈捣虚",
+ "icon": "rats:rat_upgrade_idol",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：金鼠偶，你的老鼠似乎变成了引人注目的金子"
+  }
+ ],
+ "sortnum": 52
+}

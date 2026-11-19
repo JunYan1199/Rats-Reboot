@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：弓",
+ "icon": "rats:rat_upgrade_bow",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠攻击时用弓射箭。$(br2)【材料来源】工作台合成：箭等同类×7 + 弓 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/bow_upgrade"
+  }
+ ],
+ "sortnum": 65
+}

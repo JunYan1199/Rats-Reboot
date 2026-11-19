@@ -1,0 +1,16 @@
+{
+ "name": "大理石纹奶酪楼梯",
+ "icon": "rats:marbled_cheese_stairs",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "楼梯。$(br2)【材料来源】工作台合成：大理石纹奶酪×6，产出 ×4；切石机：大理石纹奶酪（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_stairs"
+  }
+ ],
+ "sortnum": 75
+}

@@ -1,0 +1,12 @@
+{
+ "name": "LEDLE LEDLE LEDLE LEEEE",
+ "icon": "rats:dutchrat_wheel",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "击败飞翔的荷兰鼠"
+  }
+ ],
+ "sortnum": 0
+}

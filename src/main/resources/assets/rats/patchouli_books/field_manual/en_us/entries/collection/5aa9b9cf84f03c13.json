@@ -1,0 +1,12 @@
+{
+ "name": "老鼠鱼桶",
+ "icon": "rats:ratfish_bucket",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠鱼桶。$(br2)【材料来源】用水桶右键鼠西洲的老鼠鱼"
+  }
+ ],
+ "sortnum": 64
+}

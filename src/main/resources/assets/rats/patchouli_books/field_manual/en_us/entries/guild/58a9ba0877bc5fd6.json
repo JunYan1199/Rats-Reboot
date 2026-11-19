@@ -1,0 +1,16 @@
+{
+ "name": "读懂今日的十四封委托",
+ "icon": "guildjane:guild_deed",
+ "category": "rats:guild",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "右键公会悬赏板翻页。寻物、采集、送餐、讨伐每天各有三单；切到满级首领页，另有两单。全服共享当日榜，台北时间零点换榜。已经派出的队伍会继续原来的委托。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:guild_deed"
+  }
+ ],
+ "sortnum": 2
+}

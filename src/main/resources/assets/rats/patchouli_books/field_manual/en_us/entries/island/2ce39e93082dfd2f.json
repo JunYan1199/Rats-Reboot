@@ -1,0 +1,28 @@
+{
+ "name": "第七步：鼠西洲装备",
+ "icon": "rats:ratlantis_chestplate",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：做出鼠西洲的装备。$(br2)鼠西洲盔甲 = 下界合金盔甲 + 7 鼠铜锭 + 一件 Boss 材料："
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 头盔：灵能鼠脑；胸甲：奥术科技；护腿：双翼机翼；靴子：荷兰鼠船舵。$(br2)盔甲效果：一只光灵鼠始终保护你，让敌人退避；每多穿一件效果叠加。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "工具 = 下界合金工具 + 4 鼠铜锭：剑每击额外召唤光灵鼠造成 6 点伤害；镐挖石头、锹挖沙子、斧砍树叶不掉耐久；锄一次多耕 8 格。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "做出胸甲后自动完成，下方是全部装备。$(br2)【材料来源】工作台合成：鼠铜锭×7 + 奥术科技 + 下界合金胸甲（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_chestplate"
+  }
+ ],
+ "sortnum": 44
+}

@@ -1,0 +1,13 @@
+{
+ "name": "披萨片",
+ "icon": "rats:pizza_slice",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pizza_slice",
+   "text": "登记名：$(br)rats:pizza_slice"
+  }
+ ],
+ "sortnum": 102
+}

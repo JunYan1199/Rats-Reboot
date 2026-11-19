@@ -1,0 +1,20 @@
+{
+ "name": "垃圾桶",
+ "icon": "rats:trash_can",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：垃圾桶，造垃圾堆的机器。$(br2)怎么用：空手右键打开/合上盖子；手持任意方块右键把它扔进去变成垃圾；装满后取出就是一个垃圾堆。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "常见问题：只收方块类物品；扔进去的东西不会返还。$(br2)【材料来源】工作台合成：铁粒 + 铁锭×3 + 炼药锅（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:trash_can"
+  }
+ ],
+ "sortnum": 8
+}

@@ -1,0 +1,20 @@
+{
+ "name": "捕鼠夹",
+ "icon": "rats:rat_trap",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：捕鼠夹。往里放食物（奶酪最好）会吸引野鼠，野鼠踩上去就会死在夹子里。$(br2)常见问题：夹到一只后要右键重置才能继续用；会夹死野鼠，不会伤到驯服的老鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁锭 + 铁活板门 + 橡木台阶等同类×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_trap"
+  }
+ ],
+ "sortnum": 13
+}

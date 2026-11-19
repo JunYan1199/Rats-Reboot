@@ -1,0 +1,17 @@
+{
+ "name": "捕鼠网",
+ "icon": "rats:rat_capture_net",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_capture_net",
+   "text": "将16个方块内所有驯服的老鼠包裹成一个整齐的麻袋！$(br2)玩法：$(l:keeping/6fcb340a4cc87f0a)捕鼠网$(/l)$(br2)登记名：$(br)rats:rat_capture_net"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_capture_net"
+  }
+ ],
+ "sortnum": 130
+}

@@ -1,0 +1,17 @@
+{
+ "name": "奶酪矿石",
+ "icon": "rats:cheese_ore",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cheese_ore",
+   "text": "玩法：$(l:collection/0a8e61c867046f5f)奶酪矿石$(/l)$(br2)登记名：$(br)rats:cheese_ore"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：奶酪。"
+  }
+ ],
+ "sortnum": 14
+}

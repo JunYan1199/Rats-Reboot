@@ -1,0 +1,12 @@
+{
+ "name": "考古学家帽子",
+ "icon": "rats:archeologist_hat",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "考古学家帽子：考古学家升级的材料。$(br2)【材料来源】丛林尸壳或骷髅的稀有装备掉落；宠物店店主出售（12 绿宝石）"
+  }
+ ],
+ "sortnum": 87
+}

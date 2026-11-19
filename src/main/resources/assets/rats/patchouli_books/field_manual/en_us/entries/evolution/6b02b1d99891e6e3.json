@@ -1,0 +1,24 @@
+{
+ "name": "冰菱鼠 · 冰",
+ "icon": "rats:ice_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　冰$(br2)进化道具　冰之石$(br2)原有被动　受到的冰冻伤害 −50%$(br2)50 级　冰封追击"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "命中附有缓慢效果的敌人时，普通敌人冻结 2 秒。对首领改为本次追加攻击力 70% 的冰伤，冷却 10 秒。$(br2)100 级　永霜护甲"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "队友首次跌破 60% 生命时获得其最大生命 6% 的护盾，最多 180 点，持续 8 秒，冷却 20 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ice_stone"
+  }
+ ],
+ "sortnum": 8
+}

@@ -1,0 +1,21 @@
+{
+ "name": "幽灵鼠盗帽",
+ "icon": "rats:ghost_pirat_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ghost_pirat_hat",
+   "text": "玩法：$(l:collection/752f645d06df0105)幽灵鼠盗帽$(/l)$(br2)登记名：$(br)rats:ghost_pirat_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ghost_pirat_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：幽灵鼠盗灵质、老鼠升级：空灵。"
+  }
+ ],
+ "sortnum": 69
+}

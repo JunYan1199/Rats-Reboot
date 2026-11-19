@@ -1,0 +1,16 @@
+{
+ "name": "鼠西洲靴子",
+ "icon": "rats:ratlantis_boots",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲靴子。$(br2)【材料来源】工作台合成：鼠铜锭×7 + 飞翔的荷兰鼠的船舵 + 下界合金靴子（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_boots"
+  }
+ ],
+ "sortnum": 48
+}

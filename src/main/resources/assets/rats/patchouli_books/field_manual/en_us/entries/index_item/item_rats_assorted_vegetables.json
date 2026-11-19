@@ -1,0 +1,21 @@
+{
+ "name": "什锦蔬菜",
+ "icon": "rats:assorted_vegetables",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:assorted_vegetables",
+   "text": "玩法：$(l:collection/0f79a5b139da973a)什锦蔬菜$(/l)$(br2)登记名：$(br)rats:assorted_vegetables"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:assorted_vegetables"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠王杂烩、香甜药草花束、老鼠升级：胡萝卜鼠。"
+  }
+ ],
+ "sortnum": 7
+}

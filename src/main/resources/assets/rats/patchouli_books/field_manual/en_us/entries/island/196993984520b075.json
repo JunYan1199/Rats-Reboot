@@ -1,0 +1,16 @@
+{
+ "name": "装填的机器鼠枪筒",
+ "icon": "rats:charged_ratbot_barrel",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "装填的机器鼠枪筒：老鼠加特林、终结鼠升级的材料。$(br2)【材料来源】工作台合成：红石块×8 + 机器鼠枪筒（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:charged_ratbot_barrel"
+  }
+ ],
+ "sortnum": 71
+}

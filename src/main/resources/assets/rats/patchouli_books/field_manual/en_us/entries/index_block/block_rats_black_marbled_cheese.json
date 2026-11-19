@@ -1,0 +1,17 @@
+{
+ "name": "黑色大理石纹奶酪",
+ "icon": "rats:black_marbled_cheese",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:black_marbled_cheese",
+   "text": "玩法：$(l:collection/3a29abb5771d1e85)黑色大理石纹奶酪$(/l)$(br2)登记名：$(br)rats:black_marbled_cheese"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:black_marbled_cheese"
+  }
+ ],
+ "sortnum": 5
+}

@@ -1,0 +1,12 @@
+{
+ "name": "我乃疗方！",
+ "icon": "rats:plague_doctor_mask",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "在村庄寻找瘟疫医生"
+  }
+ ],
+ "sortnum": 39
+}

@@ -1,0 +1,20 @@
+{
+ "name": "知性小瓶",
+ "icon": "rats:vial_of_sentience",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：知性小瓶。把它扔向一只野蛮鼠西族，它会觉醒成 Boss「新·鼠西族」。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：鼠西族魂火×6 + 野蛮鼠爪 + 鼠套花花瓣 + 玻璃瓶（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:vial_of_sentience"
+  }
+ ],
+ "sortnum": 38
+}

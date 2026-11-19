@@ -1,0 +1,12 @@
+{
+ "name": "马铃薯克尼什馅饼",
+ "icon": "rats:potato_knishes",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "马铃薯克尼什馅饼。$(br2)【材料来源】让带「厨师」升级的老鼠烹制：蜈蚣（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 27
+}

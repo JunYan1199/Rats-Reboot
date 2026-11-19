@@ -1,0 +1,17 @@
+{
+ "name": "蓝色钻钻乐",
+ "icon": "rats:rat_tube_blue",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_tube_blue",
+   "text": "登记名：$(br)rats:rat_tube_blue"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:tubes/rat_tube_blue"
+  }
+ ],
+ "sortnum": 180
+}

@@ -1,0 +1,17 @@
+{
+ "name": "去皮幽灵鼠盗原木",
+ "icon": "rats:stripped_pirat_log",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:stripped_pirat_log",
+   "text": "玩法：$(l:collection/69b63adcbb428147)去皮幽灵鼠盗原木$(/l)$(br2)登记名：$(br)rats:stripped_pirat_log"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：去皮幽灵鼠盗木。"
+  }
+ ],
+ "sortnum": 108
+}

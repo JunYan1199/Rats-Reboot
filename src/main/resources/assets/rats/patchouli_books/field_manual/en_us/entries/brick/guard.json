@@ -1,0 +1,16 @@
+{
+ "name": "侍卫上岗",
+ "icon": "rats:brick_hat_guard",
+ "category": "rats:brick",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "装备武器和护甲，让侍卫跟随主人。遇到敌人时留出攻击距离；盾牌和武器的耐久也需要补充。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_hat_guard"
+  }
+ ],
+ "sortnum": 2
+}

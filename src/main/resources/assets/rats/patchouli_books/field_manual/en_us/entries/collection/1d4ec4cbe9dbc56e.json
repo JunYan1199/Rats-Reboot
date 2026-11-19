@@ -1,0 +1,12 @@
+{
+ "name": "箭上之鼠",
+ "icon": "rats:rat_arrow",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "箭上之鼠：射出去后老鼠会落地，不会受伤。整活道具。$(br2)【材料来源】手持普通箭右键自己驯服的老鼠，把它绑在箭上"
+  }
+ ],
+ "sortnum": 57
+}

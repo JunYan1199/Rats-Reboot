@@ -1,0 +1,17 @@
+{
+ "name": "叶之石",
+ "icon": "rats:leaf_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:leaf_stone",
+   "text": "玩法：$(l:evolution/69d90ed5c1c4de9b)叶冠鼠 · 草$(/l)$(br2)登记名：$(br)rats:leaf_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:leaf_stone"
+  }
+ ],
+ "sortnum": 80
+}

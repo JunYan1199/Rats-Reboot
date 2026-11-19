@@ -1,0 +1,16 @@
+{
+ "name": "白色鼠小屋",
+ "icon": "rats:rat_igloo_white",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠小屋：鼠笼装饰，可以染色。$(br2)【材料来源】工作台合成：白色鼠小屋等同类 + 白色染料；工作台合成：塑料原料×5（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:igloos/rat_igloo_plastic"
+  }
+ ],
+ "sortnum": 45
+}

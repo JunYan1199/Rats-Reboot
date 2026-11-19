@@ -1,0 +1,44 @@
+{
+ "name": "第七步：升级组合",
+ "icon": "rats:rat_upgrade_jury_rigged",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：突破 3 个升级格的限制。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "蝴蝶结（前期办法）：合成时用 2 个基础升级占位；做好后把两个升级「绑」在一起占 1 格。注意：绑好的组合不能再编辑或拆开（除非用分解器）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "组合升级 + 组合器（后期办法，需要鼠西洲材料）：$(br2)① 合成「老鼠升级：组合」；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "② 放置老鼠升级组合器，界面里左边放组合升级，中间放要合并进去的升级，燃料格放鼠西洲宝石；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "③ 每次合并约 15 秒，燃料是鼠西洲宝石（一颗烧 7.5 秒，一次合并大约 2 颗）；可以反复往同一个组合升级里塞很多升级；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "④ 装组合升级只占 1 格，里面的升级全部生效（仍受冲突规则限制）。$(br2)拆开：把组合升级丢在分解器上，里面的升级会掉出来。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "冲突提示「无法组合这些升级」时，检查是否同组冲突。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：钻石块 + 黏液球×2 + 金块 + 老鼠升级：基础×2 + 线 + 铁块 + 红石块（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/jury_rigged_upgrade"
+  }
+ ],
+ "sortnum": 87
+}

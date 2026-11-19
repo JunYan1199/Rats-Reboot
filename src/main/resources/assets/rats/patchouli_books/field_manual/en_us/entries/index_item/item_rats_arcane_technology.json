@@ -1,0 +1,21 @@
+{
+ "name": "奥术科技",
+ "icon": "rats:arcane_technology",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:arcane_technology",
+   "text": "玩法：$(l:island/60795d410e92eb2c)特殊材料$(/l)$(br2)登记名：$(br)rats:arcane_technology"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：鼠西族战机。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：战机坐骑、老鼠升级：非信者、鼠西族弓、鼠西洲胸甲、§a鼠西洲的头颅。"
+  }
+ ],
+ "sortnum": 5
+}

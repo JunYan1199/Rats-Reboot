@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：野兽坐骑",
+ "icon": "rats:rat_upgrade_beast_mount",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠骑上野兽，坐骑 80 点生命，移动很快。材料来自瘟疫相关怪物。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：瘟疫水蛭×4 + 老鼠头颅 + 污渍×2 + 老鼠升级：基础坐骑 + 瘟疫源质（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/beast_mount_upgrade"
+  }
+ ],
+ "sortnum": 86
+}

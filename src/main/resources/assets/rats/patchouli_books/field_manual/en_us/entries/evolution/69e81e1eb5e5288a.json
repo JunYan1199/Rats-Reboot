@@ -1,0 +1,24 @@
+{
+ "name": "岩晶鼠 · 岩石",
+ "icon": "rats:geode_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　岩石$(br2)进化道具　火之石·岩核$(br2)原有被动　受到的爆炸伤害 −25%$(br2)50 级　晶体反震"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "受近战攻击后碎晶反击，对 3 格内敌人各造成自身护甲值 2 倍的伤害，冷却 3 秒。$(br2)100 级　掩体"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "队友将受爆炸伤害时，6 格内全队本次及随后 4 秒爆炸减伤 50%，冷却 16 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:geode_stone"
+  }
+ ],
+ "sortnum": 15
+}

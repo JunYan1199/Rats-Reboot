@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：水性",
+ "icon": "rats:rat_upgrade_aquatic",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠长出鳞片，能在水里自由游泳和呼吸。需要额外呼吸升级做材料。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：鱼桶×4 + 生鳕鱼等同类×4 + 老鼠升级：额外呼吸（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/aquatic_upgrade"
+  }
+ ],
+ "sortnum": 25
+}

@@ -1,0 +1,12 @@
+{
+ "name": "小小黑色壁球",
+ "icon": "rats:little_black_squash_balls",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "小小黑色壁球：厨师老鼠烹煤炭得到。$(br2)【材料来源】让带「厨师」升级的老鼠烹制：煤炭（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 24
+}

@@ -1,0 +1,20 @@
+{
+ "name": "原绒鼠 · 一般",
+ "icon": "rats:origin_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　一般$(br2)进化道具　月之石·原绒$(br2)原有被动　击杀怪物经验 +15%$(br2)50 级　共同训练"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "老鼠击杀怪物时，12 格内等级最低的一只同队鼠额外获得本次经验的 25%，每 5 秒一次。$(br2)100 级　仓储领班"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "成功向指定箱子存货后，自己和 8 格内同队搬运鼠移速提高 20%，持续 8 秒，冷却 15 秒。"
+  }
+ ],
+ "sortnum": 3
+}

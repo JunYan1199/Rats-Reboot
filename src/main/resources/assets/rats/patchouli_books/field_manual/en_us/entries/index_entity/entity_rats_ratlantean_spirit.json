@@ -1,0 +1,16 @@
+{
+ "name": "鼠西族精灵",
+ "icon": "rats:ratlantean_spirit_spawn_egg",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:ratlantean_spirit"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "战利品表列出的物品（实际掉落受条件和概率影响）：鼠西族魂火、鼠西族战机头颅。"
+  }
+ ],
+ "sortnum": 37
+}

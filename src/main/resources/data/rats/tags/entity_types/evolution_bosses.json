@@ -1,0 +1,149 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexscaves:luxtructosaurus",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ancient_remnant",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ender_guardian",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ignis",
+      "required": false
+    },
+    {
+      "id": "cataclysm:maledictus",
+      "required": false
+    },
+    {
+      "id": "cataclysm:netherite_monstrosity",
+      "required": false
+    },
+    {
+      "id": "cataclysm:scylla",
+      "required": false
+    },
+    {
+      "id": "cataclysm:the_harbinger",
+      "required": false
+    },
+    {
+      "id": "cataclysm:the_leviathan",
+      "required": false
+    },
+    {
+      "id": "goety:apostle",
+      "required": false
+    },
+    {
+      "id": "goety:ender_keeper",
+      "required": false
+    },
+    {
+      "id": "goety:hostile_redstone_monstrosity",
+      "required": false
+    },
+    {
+      "id": "goety:vizier",
+      "required": false
+    },
+    {
+      "id": "goetyawaken:apostle_servant",
+      "required": false
+    },
+    {
+      "id": "goetyawaken:ender_keeper_servant",
+      "required": false
+    },
+    {
+      "id": "goetyawaken:hostile_mushroom_monstrosity",
+      "required": false
+    },
+    {
+      "id": "goetyawaken:mushroom_monstrosity",
+      "required": false
+    },
+    {
+      "id": "goetyawaken:nameless_one",
+      "required": false
+    },
+    {
+      "id": "goetyawaken:vizier_servant",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:dead_king",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:fire_boss",
+      "required": false
+    },
+    {
+      "id": "minecraft:ender_dragon",
+      "required": false
+    },
+    {
+      "id": "minecraft:warden",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither",
+      "required": false
+    },
+    {
+      "id": "revelationfix:ice_hermit",
+      "required": false
+    },
+    {
+      "id": "starfantasy_goety:apollyon",
+      "required": false
+    },
+    {
+      "id": "starfantasy_goety:ascian_king",
+      "required": false
+    },
+    {
+      "id": "twilightforest:alpha_yeti",
+      "required": false
+    },
+    {
+      "id": "twilightforest:hydra",
+      "required": false
+    },
+    {
+      "id": "twilightforest:knight_phantom",
+      "required": false
+    },
+    {
+      "id": "twilightforest:lich",
+      "required": false
+    },
+    {
+      "id": "twilightforest:minoshroom",
+      "required": false
+    },
+    {
+      "id": "twilightforest:naga",
+      "required": false
+    },
+    {
+      "id": "twilightforest:plateau_boss",
+      "required": false
+    },
+    {
+      "id": "twilightforest:snow_queen",
+      "required": false
+    },
+    {
+      "id": "twilightforest:ur_ghast",
+      "required": false
+    }
+  ]
+}

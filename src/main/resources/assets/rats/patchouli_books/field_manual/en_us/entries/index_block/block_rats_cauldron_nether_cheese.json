@@ -1,0 +1,13 @@
+{
+ "name": "下界奶酪炼药锅",
+ "icon": "rats:cauldron_nether_cheese",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cauldron_nether_cheese",
+   "text": "登记名：$(br)rats:cauldron_nether_cheese"
+  }
+ ],
+ "sortnum": 13
+}

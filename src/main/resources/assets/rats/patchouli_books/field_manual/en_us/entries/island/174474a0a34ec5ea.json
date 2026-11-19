@@ -1,0 +1,12 @@
+{
+ "name": "奥术科技",
+ "icon": "rats:arcane_technology",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "奥术科技。$(br2)【材料来源】鼠西族战机掉落"
+  }
+ ],
+ "sortnum": 61
+}

@@ -1,0 +1,12 @@
+{
+ "name": "激光束",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:laser_beam"
+  }
+ ],
+ "sortnum": 10
+}

@@ -1,0 +1,16 @@
+{
+ "name": "运输",
+ "icon": "rats:cheese",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠把物品从「提取容器」搬到「存入容器」。$(br2)实例（最常用）：① 魔杖右键老鼠；② 右键箱子 A 选「提取」；③ 右键箱子 B 选「存入」；④ 命令设为「运输」。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "老鼠就会一趟一趟把 A 里的东西搬到 B。装「托盘」升级一次搬一整组，装「末影」升级瞬间往返。"
+  }
+ ],
+ "sortnum": 36
+}

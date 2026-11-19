@@ -1,0 +1,21 @@
+{
+ "name": "腐化老鼠头颅",
+ "icon": "rats:corrupt_rat_skull",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:corrupt_rat_skull",
+   "text": "玩法：$(l:collection/2618982dd3f72201)腐化老鼠头颅$(/l)$(br2)登记名：$(br)rats:corrupt_rat_skull"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:corrupt_rat_skull"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：非信者。"
+  }
+ ],
+ "sortnum": 35
+}

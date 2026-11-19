@@ -1,0 +1,21 @@
+{
+ "name": "老鼠升级：白名单",
+ "icon": "rats:rat_upgrade_whitelist",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_whitelist",
+   "text": "玩法：$(l:work/6323fafec5bbc7b0)物品与生物筛选$(/l)$(br2)登记名：$(br)rats:rat_upgrade_whitelist"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/whitelist_upgrade"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：生物名单。"
+  }
+ ],
+ "sortnum": 276
+}

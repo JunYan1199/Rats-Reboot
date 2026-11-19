@@ -1,0 +1,7 @@
+{
+ "name": "设施与建筑方块",
+ "icon": "guildjane:power_station",
+ "description": "搜索名称，查看登记名、现有物品提示和可查到的配方或掉落。",
+ "sortnum": 13,
+ "parent": "rats:index"
+}

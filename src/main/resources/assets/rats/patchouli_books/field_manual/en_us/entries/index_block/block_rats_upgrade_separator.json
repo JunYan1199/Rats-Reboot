@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级分解器",
+ "icon": "rats:upgrade_separator",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:upgrade_separator",
+   "text": "玩法：$(l:work/09ae315f98285a04)老鼠升级分解器$(/l)$(br2)登记名：$(br)rats:upgrade_separator"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrade_separator"
+  }
+ ],
+ "sortnum": 112
+}

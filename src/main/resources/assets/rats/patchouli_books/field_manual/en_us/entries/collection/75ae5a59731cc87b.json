@@ -1,0 +1,16 @@
+{
+ "name": "去皮幽灵鼠盗木",
+ "icon": "rats:stripped_pirat_wood",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "去皮木头。$(br2)【材料来源】工作台合成：去皮幽灵鼠盗原木×4，产出 ×3；机械动力动力锯：幽灵鼠盗木（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:stripped_pirat_wood"
+  }
+ ],
+ "sortnum": 101
+}

@@ -1,0 +1,20 @@
+{
+ "name": "击败魔笛人",
+ "icon": "rats:piper_hat",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "魔笛人会在部分群系的夜晚刷新，吹笛子召唤野鼠帮他战斗。$(br2)掉落：魔笛人帽（戴上后野鼠不再怕你）、魔方羊毛、令牌碎片。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "彩蛋：让你的老鼠击杀魔笛人，会额外掉落一张音乐唱片（Mice on Venus 或 Living Mice）。$(br2)击杀一次自动完成。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:piper_hat"
+  }
+ ],
+ "sortnum": 7
+}

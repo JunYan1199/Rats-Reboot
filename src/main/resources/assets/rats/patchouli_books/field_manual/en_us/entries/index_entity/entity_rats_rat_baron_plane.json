@@ -1,0 +1,16 @@
+{
+ "name": "老鼠男爵的飞机",
+ "icon": "minecraft:compass",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:rat_baron_plane"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "战利品表列出的物品（实际掉落受条件和概率影响）：双翼机翼、鼠铜粒。"
+  }
+ ],
+ "sortnum": 22
+}

@@ -1,0 +1,20 @@
+{
+ "name": "第二章毕业：老鼠工厂",
+ "icon": "rats:rat_upgrade_god",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "你已经掌握了：运输与筛选、液体与能量、管道、工作区域、全部采收类、加工类、战斗类和坐骑升级，以及升级组合。$(br2)推荐的毕业作品（任选其一）："
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 一条全自动奶酪线：挤奶 → 凝乳台/搅拌 → 喂食器；$(br2)• 一座采石场 + 矿物翻倍 + 运输到熔炉；$(br2)• 一只战神老鼠保镖。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/god_upgrade"
+  }
+ ],
+ "sortnum": 99
+}

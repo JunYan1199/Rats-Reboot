@@ -1,0 +1,12 @@
+{
+ "name": "敌人图鉴",
+ "icon": "rats:pirat_cutlass",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "每种敌人击杀一次自动完成。"
+  }
+ ],
+ "sortnum": 27
+}

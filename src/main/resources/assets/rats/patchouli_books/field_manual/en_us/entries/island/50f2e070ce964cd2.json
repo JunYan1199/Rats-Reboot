@@ -1,0 +1,12 @@
+{
+ "name": "鼠西族机器鼠",
+ "icon": "rats:ratbot_barrel",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "掉落机器鼠枪筒、鼠铜粒、铁锭、红石。"
+  }
+ ],
+ "sortnum": 31
+}

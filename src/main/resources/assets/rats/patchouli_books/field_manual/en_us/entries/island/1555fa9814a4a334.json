@@ -1,0 +1,20 @@
+{
+ "name": "飞翔的荷兰鼠的钟",
+ "icon": "rats:dutchrat_bell",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：飞翔的荷兰鼠的钟。在夜晚敲响（右键）召唤飞翔的荷兰鼠，白天和和平难度无效。$(br2)材料：幽灵鼠盗原木、栅栏、灵质和鼠西洲宝石。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：幽灵鼠盗原木等同类×3 + 幽灵鼠盗木栅栏×4 + 幽灵鼠盗灵质 + 鼠西洲宝石（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dutchrat_bell"
+  }
+ ],
+ "sortnum": 40
+}

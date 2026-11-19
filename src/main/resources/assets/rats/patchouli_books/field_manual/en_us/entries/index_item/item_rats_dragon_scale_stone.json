@@ -1,0 +1,17 @@
+{
+ "name": "觉醒之石·龙鳞",
+ "icon": "rats:dragon_scale_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:dragon_scale_stone",
+   "text": "玩法：$(l:evolution/699019d2d8287f53)苍鳞鼠 · 龙$(/l)$(br2)登记名：$(br)rats:dragon_scale_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dragon_scale_stone"
+  }
+ ],
+ "sortnum": 40
+}

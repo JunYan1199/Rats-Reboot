@@ -1,0 +1,12 @@
+{
+ "name": "带有育种灯的鼠笼",
+ "icon": "minecraft:compass",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:rat_cage_breeding_lantern"
+  }
+ ],
+ "sortnum": 74
+}

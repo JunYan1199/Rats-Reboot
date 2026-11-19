@@ -1,0 +1,16 @@
+{
+ "name": "幽灵鼠盗木船",
+ "icon": "rats:pirat_boat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "船。$(br2)【材料来源】工作台合成：幽灵鼠盗木板×5（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_boat"
+  }
+ ],
+ "sortnum": 113
+}

@@ -1,0 +1,12 @@
+{
+ "name": "机器鼠枪筒",
+ "icon": "rats:ratbot_barrel",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "机器鼠枪筒。8 红石块包住变成装填的枪筒。$(br2)【材料来源】让带「考古学家」升级的老鼠研究：发射器；也来自鼠西族机器鼠（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 70
+}

@@ -1,0 +1,12 @@
+{
+ "name": "准备好了吗？孩子们",
+ "icon": "rats:pirat_hat",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "遇到鼠盗，它是一只放荡不羁、放浪形骸的老鼠"
+  }
+ ],
+ "sortnum": 9
+}

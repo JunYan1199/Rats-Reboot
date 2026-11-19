@@ -1,0 +1,16 @@
+{
+ "name": "井盖",
+ "icon": "rats:manhole",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "井盖：装饰方块。$(br2)【材料来源】工作台合成：铁栏杆×3 + 铁活板门×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:manhole"
+  }
+ ],
+ "sortnum": 50
+}

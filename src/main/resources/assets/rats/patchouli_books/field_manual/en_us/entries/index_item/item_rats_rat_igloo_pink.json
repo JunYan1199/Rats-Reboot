@@ -1,0 +1,17 @@
+{
+ "name": "粉红色鼠小屋",
+ "icon": "rats:rat_igloo_pink",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_igloo_pink",
+   "text": "登记名：$(br)rats:rat_igloo_pink"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:igloos/rat_igloo_pink"
+  }
+ ],
+ "sortnum": 160
+}

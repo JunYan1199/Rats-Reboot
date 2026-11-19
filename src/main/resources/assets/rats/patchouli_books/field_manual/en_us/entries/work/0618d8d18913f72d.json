@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：采石场",
+ "icon": "rats:rat_upgrade_quarry",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：「工作」时在老鼠采石场范围内往下挖方块。一次合成得到 3 个。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：老鼠爪×2 + 污渍×3 + 老鼠升级：基础 + 蓝纹奶酪块×3，产出 ×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/quarry_upgrade"
+  }
+ ],
+ "sortnum": 39
+}

@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：胡萝卜鼠",
+ "icon": "rats:rat_upgrade_carrat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_carrat",
+   "text": "你饿的时候可以右击老鼠把它吃掉！$(br2)玩法：$(l:work/5affe9652620594a)老鼠升级：胡萝卜鼠$(/l)$(br2)登记名：$(br)rats:rat_upgrade_carrat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/carrat_upgrade"
+  }
+ ],
+ "sortnum": 217
+}

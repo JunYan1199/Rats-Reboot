@@ -1,0 +1,16 @@
+{
+ "name": "大理石纹奶酪泥土",
+ "icon": "rats:marbled_cheese_dirt",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "大理石纹奶酪泥土。$(br2)【材料来源】工作台合成：大理石纹奶酪 + 泥土等同类（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_dirt"
+  }
+ ],
+ "sortnum": 89
+}

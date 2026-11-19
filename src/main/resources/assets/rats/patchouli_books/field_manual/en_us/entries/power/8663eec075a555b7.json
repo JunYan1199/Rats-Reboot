@@ -1,0 +1,20 @@
+{
+ "name": "搭起第一座发电站",
+ "icon": "guildjane:power_station",
+ "category": "rats:power",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "工作台上排：铜块、遮光玻璃、铜块。$(br2)中排：红石块、下界合金锭、红石块。下排：钻石、遮光玻璃、钻石。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "合成后准备长宽高各两格的空间。放下发电站，带来一只猪或自己驯养的电颊鼠。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:power_station"
+  }
+ ],
+ "sortnum": 0
+}

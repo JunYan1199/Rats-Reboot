@@ -1,0 +1,16 @@
+{
+ "name": "鼠铜粒",
+ "icon": "rats:oratchalcum_nugget",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠铜粒，9 个合成鼠铜锭。机器鼠、沉船宝箱、钓鱼都会给。$(br2)【材料来源】工作台合成：鼠铜锭，产出 ×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:oratchalcum_nugget"
+  }
+ ],
+ "sortnum": 21
+}

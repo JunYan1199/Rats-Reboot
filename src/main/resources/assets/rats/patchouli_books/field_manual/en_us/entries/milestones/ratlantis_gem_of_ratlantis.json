@@ -1,0 +1,12 @@
+{
+ "name": "近乎圣洁",
+ "icon": "rats:gem_of_ratlantis",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "用鼠套花瓣和绿宝石来制作鼠西洲宝石"
+  }
+ ],
+ "sortnum": 3
+}

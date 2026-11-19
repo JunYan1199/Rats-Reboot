@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级组合器",
+ "icon": "rats:upgrade_combiner",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠升级组合器，燃料是鼠西洲宝石。中心材料「鼠西洲的降灵」需要集齐鼠西洲的九种代表物（第三章）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：鼠西洲的降灵 + 大理石纹奶酪柱×4 + 雕纹大理石纹奶酪砖块 + 雕纹大理石纹奶酪（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrade_combiner"
+  }
+ ],
+ "sortnum": 90
+}

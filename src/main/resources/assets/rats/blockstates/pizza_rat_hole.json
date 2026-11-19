@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "rats:block/pizza_rat_hole" },
+    "lit=true": { "model": "rats:block/pizza_rat_hole_lit" }
+  }
+}

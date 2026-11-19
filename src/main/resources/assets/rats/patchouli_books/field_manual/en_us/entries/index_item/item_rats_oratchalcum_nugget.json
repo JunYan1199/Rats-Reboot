@@ -1,0 +1,25 @@
+{
+ "name": "鼠铜粒",
+ "icon": "rats:oratchalcum_nugget",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:oratchalcum_nugget",
+   "text": "玩法：$(l:island/1d6fd4c2680faa94)鼠铜粒$(/l)$(br2)登记名：$(br)rats:oratchalcum_nugget"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:oratchalcum_nugget"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：老鼠男爵的飞机、鼠西族机器鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠铜锭。"
+  }
+ ],
+ "sortnum": 91
+}

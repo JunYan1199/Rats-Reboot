@@ -1,0 +1,16 @@
+{
+ "name": "厨师帽",
+ "icon": "rats:chef_toque",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "厨师帽：厨师升级的材料。$(br2)【材料来源】工作台合成：白色羊毛×4 + 线×2（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:chef_toque"
+  }
+ ],
+ "sortnum": 3
+}

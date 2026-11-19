@@ -1,0 +1,17 @@
+{
+ "name": "巫法基因酥",
+ "icon": "rats:gene_treat_goety",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:gene_treat_goety",
+   "text": "登记名：$(br)rats:gene_treat_goety"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:gene_treat_goety"
+  }
+ ],
+ "sortnum": 61
+}

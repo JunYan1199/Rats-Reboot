@@ -1,0 +1,6 @@
+{
+ "name": "冒险进度",
+ "icon": "minecraft:map",
+ "description": "用游戏自带的进度目标检查你还没有尝试过的玩法。",
+ "sortnum": 15
+}

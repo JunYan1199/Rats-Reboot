@@ -1,0 +1,16 @@
+{
+ "name": "幽灵鼠盗木运输船",
+ "icon": "rats:pirat_chest_boat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "运输船。$(br2)【材料来源】工作台合成：幽灵鼠盗木船 + 箱子或陷阱箱（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:pirat_chest_boat"
+  }
+ ],
+ "sortnum": 114
+}

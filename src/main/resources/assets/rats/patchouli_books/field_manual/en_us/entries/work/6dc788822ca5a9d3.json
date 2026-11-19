@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：药水抗性",
+ "icon": "rats:rat_upgrade_poison",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：免疫中毒、瞬间伤害、凋零。$(br2)【材料来源】工作台合成：蜘蛛眼×3 + 荧石粉×2 + 老鼠升级：基础 + 毒马铃薯×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/poison_upgrade"
+  }
+ ],
+ "sortnum": 74
+}

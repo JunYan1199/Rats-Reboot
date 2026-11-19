@@ -1,0 +1,12 @@
+{
+ "name": "音乐唱片",
+ "icon": "rats:music_disc_living_mice",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "音乐唱片 C418 - Living Mice。$(br2)【材料来源】让你的老鼠击杀魔笛人时掉落"
+  }
+ ],
+ "sortnum": 59
+}

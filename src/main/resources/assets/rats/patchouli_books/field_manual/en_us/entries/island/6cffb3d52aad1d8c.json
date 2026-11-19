@@ -1,0 +1,16 @@
+{
+ "name": "神秘令牌碎块",
+ "icon": "rats:token_piece",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：神秘令牌碎块。9 个合成肥厚奶酪令牌。$(br2)【材料来源】工作台合成：神秘令牌碎片×9；也可从鼠王、黑死神掉落（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:token_piece"
+  }
+ ],
+ "sortnum": 5
+}

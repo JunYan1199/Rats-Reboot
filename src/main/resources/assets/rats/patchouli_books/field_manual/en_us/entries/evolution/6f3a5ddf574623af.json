@@ -1,0 +1,24 @@
+{
+ "name": "法术战斗 · 把书变成战斗能力",
+ "icon": "rats:legion_baton",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "将已写入战斗法术的铁魔法法术书，或装有战斗聚晶的巫法聚晶袋，放入老鼠背包。用指挥杖分配过分工的鼠只会使用符合分工的法术。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "打开老鼠界面，在右侧切换到「法术战斗」，再点中间的命令名称确认。老鼠会跟随主人，发现敌人后自行保持施法距离。空书、缺少匹配法术、$(br2)冷却和等待目标都会显示在背包上方。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "独自测试时可用写有火焰箭的书，攻击一次愚者的伤害测试假人，或在附近放一只僵尸。治疗鼠会等待同队鼠或主人受伤，增益鼠会等待交战。$(br2)切回其他命令可恢复原本的行动。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:legion_baton"
+  }
+ ],
+ "sortnum": 22
+}

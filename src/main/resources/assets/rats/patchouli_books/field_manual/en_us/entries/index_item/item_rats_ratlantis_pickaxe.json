@@ -1,0 +1,17 @@
+{
+ "name": "鼠西洲镐",
+ "icon": "rats:ratlantis_pickaxe",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantis_pickaxe",
+   "text": "玩法：$(l:island/68249635d427960a)鼠西洲镐$(/l)$(br2)登记名：$(br)rats:ratlantis_pickaxe"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_pickaxe"
+  }
+ ],
+ "sortnum": 298
+}

@@ -1,0 +1,17 @@
+{
+ "name": "鼠铜矿石",
+ "icon": "rats:oratchalcum_ore",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:oratchalcum_ore",
+   "text": "玩法：$(l:collection/476a0a1ddf1aab3d)鼠铜矿石$(/l)$(br2)登记名：$(br)rats:oratchalcum_ore"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠铜锭。"
+  }
+ ],
+ "sortnum": 47
+}

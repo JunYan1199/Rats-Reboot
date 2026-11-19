@@ -1,0 +1,12 @@
+{
+ "name": "世界之王！",
+ "icon": "rats:tangled_rat_tails",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "击败鼠王"
+  }
+ ],
+ "sortnum": 32
+}

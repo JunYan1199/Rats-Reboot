@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：黑名单",
+ "icon": "rats:rat_upgrade_blacklist",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠只拾取/运输「不在」名单里的物品。$(br2)实例：运输老鼠搬走箱子里除了工具以外的所有东西。与白名单互斥。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：黑色染料×8 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/blacklist_upgrade"
+  }
+ ],
+ "sortnum": 7
+}

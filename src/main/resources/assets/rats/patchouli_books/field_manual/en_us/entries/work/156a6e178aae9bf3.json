@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：基础能量传输",
+ "icon": "rats:rat_upgrade_basic_energy",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠运送能量（RF/FE）而不是物品，在两个能量方块之间搬运，也能给手持物品充能。$(br2)实例：发电机 → 机器，老鼠当「无线电线」。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：金锭×6 + 红石火把 + 老鼠升级：基础 + 红石粉（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/basic_energy_upgrade"
+  }
+ ],
+ "sortnum": 14
+}

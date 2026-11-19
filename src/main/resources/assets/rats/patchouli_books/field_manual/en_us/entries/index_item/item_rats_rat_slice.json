@@ -1,0 +1,13 @@
+{
+ "name": "鼠片",
+ "icon": "rats:rat_slice",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_slice",
+   "text": "玩法：$(l:keeping/404c5f5cf52d3805)第四步：鼠片$(/l)$(br2)登记名：$(br)rats:rat_slice"
+  }
+ ],
+ "sortnum": 176
+}

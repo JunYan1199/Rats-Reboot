@@ -1,0 +1,12 @@
+{
+ "name": "塑料废品",
+ "icon": "rats:plastic_waste",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：塑料废品。烧炼得到塑料原料。$(br2)【材料来源】宠物店店主交易（垃圾堆+绿宝石）；宠物店箱子；鼠西洲钓鱼的垃圾"
+  }
+ ],
+ "sortnum": 61
+}

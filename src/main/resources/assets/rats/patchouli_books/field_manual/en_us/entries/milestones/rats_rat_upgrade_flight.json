@@ -1,0 +1,12 @@
+{
+ "name": "该鸽了",
+ "icon": "rats:rat_upgrade_flight",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：飞行，使老鼠升空"
+  }
+ ],
+ "sortnum": 50
+}

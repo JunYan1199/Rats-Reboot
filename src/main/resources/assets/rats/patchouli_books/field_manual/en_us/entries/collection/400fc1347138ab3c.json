@@ -1,0 +1,12 @@
+{
+ "name": "蜈蚣",
+ "icon": "rats:centipede",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "蜈蚣：厨师老鼠用它做马铃薯克尼什馅饼。$(br2)【材料来源】手持小小黑色虫子右键砂土"
+  }
+ ],
+ "sortnum": 26
+}

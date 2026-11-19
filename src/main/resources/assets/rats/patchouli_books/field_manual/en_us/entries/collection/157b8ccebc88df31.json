@@ -1,0 +1,12 @@
+{
+ "name": "陈年糖蜜",
+ "icon": "rats:treacle",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "陈年糖蜜：缓解瘟疫。$(br2)【材料来源】瘟疫医生出售；瘟疫医生小屋宝箱；鼠西洲钓鱼"
+  }
+ ],
+ "sortnum": 33
+}

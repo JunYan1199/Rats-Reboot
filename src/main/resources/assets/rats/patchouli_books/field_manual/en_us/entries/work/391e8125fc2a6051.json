@@ -1,0 +1,24 @@
+{
+ "name": "老鼠采石场",
+ "icon": "rats:rat_quarry",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠采石场方块。老鼠会挖掘它正下方的区域，并沿着自动铺设的阶梯平台上下。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：放好采石场 → 采石场升级老鼠命令「工作」→ 用魔杖把采石场本身设为存入容器 → 定期从采石场里取矿。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：蓝纹奶酪块×7 + 钻石 + 工作台或鼠工台（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_quarry"
+  }
+ ],
+ "sortnum": 40
+}

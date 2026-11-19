@@ -1,0 +1,17 @@
+{
+ "name": "老鼠育种灯",
+ "icon": "rats:rat_breeding_lantern",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_breeding_lantern",
+   "text": "玩法：$(l:keeping/6ddd4c93e6fe56eb)鼠笼装饰与材料$(/l)$(br2)登记名：$(br)rats:rat_breeding_lantern"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_breeding_lantern"
+  }
+ ],
+ "sortnum": 128
+}

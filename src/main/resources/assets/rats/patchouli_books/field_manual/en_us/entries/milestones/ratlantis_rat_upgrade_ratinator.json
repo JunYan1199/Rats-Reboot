@@ -1,0 +1,12 @@
+{
+ "name": "如同泪水消失在雨中",
+ "icon": "rats:rat_upgrade_ratinator",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：终结鼠，将致命的老鼠赛博变为现实"
+  }
+ ],
+ "sortnum": 15
+}

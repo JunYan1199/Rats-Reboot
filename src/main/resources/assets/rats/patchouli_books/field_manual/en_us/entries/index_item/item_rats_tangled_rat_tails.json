@@ -1,0 +1,21 @@
+{
+ "name": "缠结鼠尾",
+ "icon": "rats:tangled_rat_tails",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:tangled_rat_tails",
+   "text": "玩法：$(l:collection/380be695b5a3604a)缠结鼠尾$(/l)$(br2)登记名：$(br)rats:tangled_rat_tails"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：鼠王。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：腐化老鼠头颅、镀金老鼠长笛、老鼠升级：时间“鼠”器。"
+  }
+ ],
+ "sortnum": 312
+}

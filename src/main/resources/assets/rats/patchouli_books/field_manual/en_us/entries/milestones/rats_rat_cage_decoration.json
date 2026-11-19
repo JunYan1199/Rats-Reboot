@@ -1,0 +1,12 @@
+{
+ "name": "亮丽笼子",
+ "icon": "rats:rat_water_bottle",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "将鼠笼装饰放置在鼠笼中"
+  }
+ ],
+ "sortnum": 41
+}

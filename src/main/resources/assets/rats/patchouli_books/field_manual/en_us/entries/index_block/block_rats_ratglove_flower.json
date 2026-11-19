@@ -1,0 +1,17 @@
+{
+ "name": "鼠套花",
+ "icon": "rats:ratglove_flower",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratglove_flower",
+   "text": "玩法：$(l:island/34bc44e3932111ba)鼠套花$(/l)$(br2)登记名：$(br)rats:ratglove_flower"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠套花花瓣。"
+  }
+ ],
+ "sortnum": 103
+}

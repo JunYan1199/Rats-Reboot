@@ -1,0 +1,17 @@
+{
+ "name": "布瑞克牛仔帽",
+ "icon": "rats:brick_hat_cowboy",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:brick_hat_cowboy",
+   "text": "登记名：$(br)rats:brick_hat_cowboy"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_hat_cowboy"
+  }
+ ],
+ "sortnum": 15
+}

@@ -1,0 +1,24 @@
+{
+ "name": "绸带鼠 · 妖精",
+ "icon": "rats:shine_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　妖精$(br2)进化道具　光之石$(br2)原有被动　受到治疗 +15%$(br2)50 级　生命绸带"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "自身对队友施放治疗时，将实际有效治疗量的 35% 传给另一名受伤队友，单次最多 100 点，冷却 5 秒。$(br2)100 级　祝愿"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "对队友完成增益法术时，也给对方一层持续 8 秒的祝愿。期间第一次跌破 40% 生命便恢复其 6% 最大生命，冷却 18 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:shine_stone"
+  }
+ ],
+ "sortnum": 20
+}

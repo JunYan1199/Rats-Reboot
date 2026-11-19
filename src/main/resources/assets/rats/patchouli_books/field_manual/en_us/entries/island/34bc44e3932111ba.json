@@ -1,0 +1,12 @@
+{
+ "name": "鼠套花",
+ "icon": "rats:ratglove_flower",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠套花。$(br2)【材料来源】让带「考古学家」升级的老鼠研究：兰花；鼠西洲岛屿上自然生成；考古学家研究兰花也能得到（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 17
+}

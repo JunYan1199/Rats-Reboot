@@ -1,0 +1,12 @@
+{
+ "name": "自食其果",
+ "icon": "rats:piper_hat",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "遇到控制老鼠的坏蛋"
+  }
+ ],
+ "sortnum": 36
+}

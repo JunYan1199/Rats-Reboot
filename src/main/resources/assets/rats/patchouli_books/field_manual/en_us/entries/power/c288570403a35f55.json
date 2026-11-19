@@ -1,0 +1,20 @@
+{
+ "name": "向自己的灵魂方舟供能",
+ "icon": "guildjane:power_station",
+ "category": "rats:power",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "先按诡厄巫法的方式完成灵魂方舟的归属绑定，再将发电站切为「灵魂能量」，用连接器点击方舟。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "方舟的主人在线、绑定位置及维度相符时，每游戏秒最多增加 1,000 灵魂能量，直至达到巫法的储量上限。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:power_station"
+  }
+ ],
+ "sortnum": 5
+}

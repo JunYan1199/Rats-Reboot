@@ -1,0 +1,12 @@
+{
+ "name": "老鼠“坨坨”",
+ "icon": "rats:rat_nugget_ore",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：带矿物信息的坨坨。右键打开得到矿物，或直接放进熔炉烧炼。$(br2)【材料来源】矿物翻倍老鼠吃掉某种矿石后产出，记录了对应矿物"
+  }
+ ],
+ "sortnum": 44
+}

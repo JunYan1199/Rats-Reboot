@@ -1,0 +1,12 @@
+{
+ "name": "算上我所有怒火……",
+ "icon": "rats:rat_cage",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "制作鼠笼，用于繁殖老鼠"
+  }
+ ],
+ "sortnum": 40
+}

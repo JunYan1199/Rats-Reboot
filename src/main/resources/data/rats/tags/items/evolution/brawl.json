@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "rats:dawn_stone",
+    {
+      "id": "cobblemon:dawn_stone",
+      "required": false
+    },
+    {
+      "id": "pixelmon:dawn_stone",
+      "required": false
+    }
+  ]
+}

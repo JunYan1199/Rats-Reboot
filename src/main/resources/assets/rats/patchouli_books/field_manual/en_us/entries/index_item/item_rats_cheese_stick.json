@@ -1,0 +1,21 @@
+{
+ "name": "奶酪魔杖",
+ "icon": "rats:cheese_stick",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cheese_stick",
+   "text": "玩法：$(l:keeping/3a3ad685969ab2a3)第六步：奶酪魔杖与指令$(/l)$(br2)登记名：$(br)rats:cheese_stick"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cheese_stick"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：国王权杖。"
+  }
+ ],
+ "sortnum": 29
+}

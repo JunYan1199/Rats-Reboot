@@ -1,0 +1,17 @@
+{
+ "name": "蜈蚣",
+ "icon": "rats:centipede",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:centipede",
+   "text": "玩法：$(l:collection/400fc1347138ab3c)蜈蚣$(/l)$(br2)登记名：$(br)rats:centipede"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：马铃薯克尼什馅饼。"
+  }
+ ],
+ "sortnum": 22
+}

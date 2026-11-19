@@ -1,0 +1,20 @@
+{
+ "name": "开张第一间厨房",
+ "icon": "rats:brick_chef_hat",
+ "category": "rats:brick",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "给布瑞克戴厨师帽、准备锅铲。在点餐台附近放好配方所需的乐事工作方块和材料，打开点餐台选择菜品并下单。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "用奶酪魔杖指定成品箱，先用材料齐全的一道菜验证出餐。没有出现预期菜品时，先检查对应烹饪模组、工作方块和食材。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_chef_hat"
+  }
+ ],
+ "sortnum": 1
+}

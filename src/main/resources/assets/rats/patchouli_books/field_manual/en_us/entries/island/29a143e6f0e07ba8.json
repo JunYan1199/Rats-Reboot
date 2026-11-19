@@ -1,0 +1,12 @@
+{
+ "name": "击败新·鼠西族",
+ "icon": "rats:psionic_rat_brain",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "拥有强大的灵能，会召唤传送门攻击。掉落灵能鼠脑（灵媒升级、鼠西洲头盔、脑方块）。"
+  }
+ ],
+ "sortnum": 39
+}

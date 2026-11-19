@@ -1,0 +1,16 @@
+{
+ "name": "大理石纹奶酪柱",
+ "icon": "rats:marbled_cheese_pillar",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "柱：组合器、分解器的材料。$(br2)【材料来源】工作台合成：大理石纹奶酪×2，产出 ×2；切石机：大理石纹奶酪（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:marbled_cheese_pillar"
+  }
+ ],
+ "sortnum": 78
+}

@@ -1,0 +1,16 @@
+{
+ "name": "老鼠鱼",
+ "icon": "rats:ratfish",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠鱼。降灵的材料之一。用水桶右键老鼠鱼能装进老鼠鱼桶。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】让带「考古学家」升级的老鼠研究：热带鱼；鼠西洲水域的老鼠鱼掉落；鼠西洲钓鱼；考古学家研究热带鱼（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 24
+}

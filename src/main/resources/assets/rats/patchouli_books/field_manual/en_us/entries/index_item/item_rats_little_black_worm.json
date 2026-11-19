@@ -1,0 +1,17 @@
+{
+ "name": "小小黑色虫子",
+ "icon": "rats:little_black_worm",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:little_black_worm",
+   "text": "手持小小黑色虫子右击砂土将其变成蜈蚣$(br2)玩法：$(l:collection/7fd531e4733b1633)小小黑色虫子$(/l)$(br2)登记名：$(br)rats:little_black_worm"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:little_black_worm"
+  }
+ ],
+ "sortnum": 83
+}

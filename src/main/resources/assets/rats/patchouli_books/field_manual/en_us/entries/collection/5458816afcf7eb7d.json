@@ -1,0 +1,16 @@
+{
+ "name": "污渍",
+ "icon": "rats:filth",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "污渍：污渍球、野兽坐骑、采石场升级的材料。$(br2)【材料来源】工作台合成：压缩垃圾×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:filth"
+  }
+ ],
+ "sortnum": 41
+}

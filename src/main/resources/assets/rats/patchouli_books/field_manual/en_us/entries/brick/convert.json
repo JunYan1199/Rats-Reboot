@@ -1,0 +1,20 @@
+{
+ "name": "从驯鼠到布瑞克",
+ "icon": "rats:brick_converter",
+ "category": "rats:brick",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "用布瑞克转化装置右键自己的驯服鼠，再用一次可以复原。转化后打开老鼠面板，给它准备职业需要的帽子和工具。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "帽子决定职业；拿国王权杖右键自己的布瑞克，可以给当前职业派任务。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_converter"
+  }
+ ],
+ "sortnum": 0
+}

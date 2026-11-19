@@ -1,0 +1,17 @@
+{
+ "name": "水之石",
+ "icon": "rats:water_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:water_stone",
+   "text": "玩法：$(l:evolution/6cb13a9b5032948e)潮鳍鼠 · 水$(/l)$(br2)登记名：$(br)rats:water_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:water_stone"
+  }
+ ],
+ "sortnum": 321
+}

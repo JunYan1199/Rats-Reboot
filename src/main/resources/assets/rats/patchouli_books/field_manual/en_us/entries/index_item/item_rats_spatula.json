@@ -1,0 +1,17 @@
+{
+ "name": "锅铲",
+ "icon": "rats:spatula",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:spatula",
+   "text": "登记名：$(br)rats:spatula"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:spatula"
+  }
+ ],
+ "sortnum": 309
+}

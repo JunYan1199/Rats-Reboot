@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：大桶",
+ "icon": "rats:rat_upgrade_big_bucket",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠一次运 5000 mB 液体，是桶升级的升级版。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：铁桶×4 + 钻石×3 + 老鼠升级：桶 + 黏液球（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/big_bucket_upgrade"
+  }
+ ],
+ "sortnum": 11
+}

@@ -1,0 +1,12 @@
+{
+ "name": "病倒了！",
+ "icon": "rats:plague_essence",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "接触疫鼠感染瘟疫"
+  }
+ ],
+ "sortnum": 37
+}

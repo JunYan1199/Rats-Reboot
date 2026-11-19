@@ -1,0 +1,17 @@
+{
+ "name": "鼠瓜灯",
+ "icon": "rats:jack_o_ratern",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:jack_o_ratern",
+   "text": "玩法：$(l:collection/15c173fd177ea3f6)鼠瓜灯$(/l)$(br2)登记名：$(br)rats:jack_o_ratern"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:jack_o_ratern"
+  }
+ ],
+ "sortnum": 23
+}

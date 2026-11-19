@@ -1,0 +1,17 @@
+{
+ "name": "凝乳台",
+ "icon": "rats:auto_curdler",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:auto_curdler",
+   "text": "玩法：$(l:keeping/6a847eaaba0cd117)凝乳台$(/l)$(br2)登记名：$(br)rats:auto_curdler"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:auto_curdler"
+  }
+ ],
+ "sortnum": 4
+}

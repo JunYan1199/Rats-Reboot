@@ -1,0 +1,16 @@
+{
+ "name": "腐化老鼠头颅",
+ "icon": "rats:corrupt_rat_skull",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "腐化老鼠头颅：非信者升级的材料。$(br2)【材料来源】工作台合成：黑死神镰刀 + 缠结鼠尾 + 金色老鼠头颅（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:corrupt_rat_skull"
+  }
+ ],
+ "sortnum": 39
+}

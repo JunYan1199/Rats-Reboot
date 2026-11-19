@@ -1,0 +1,16 @@
+{
+ "name": "鼠盗",
+ "icon": "rats:pirat_spawn_egg",
+ "category": "rats:index_entity",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "登记名：$(br)rats:pirat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "战利品表列出的物品（实际掉落受条件和概率影响）：鼠皮、生鼠肉。"
+  }
+ ],
+ "sortnum": 14
+}

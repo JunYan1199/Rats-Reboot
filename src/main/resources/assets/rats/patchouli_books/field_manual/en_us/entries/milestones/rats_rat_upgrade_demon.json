@@ -1,0 +1,12 @@
+{
+ "name": "我之前见过这个……",
+ "icon": "rats:rat_upgrade_demon",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：恶魔，让你的老鼠成为下界中的恶魔老鼠"
+  }
+ ],
+ "sortnum": 49
+}

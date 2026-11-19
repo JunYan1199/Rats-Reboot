@@ -1,0 +1,12 @@
+{
+ "name": "飞翔的荷兰鼠的船舵",
+ "icon": "rats:dutchrat_wheel",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "飞翔的荷兰鼠的船舵。$(br2)【材料来源】飞翔的荷兰鼠掉落"
+  }
+ ],
+ "sortnum": 64
+}

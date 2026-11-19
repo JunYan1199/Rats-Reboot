@@ -1,0 +1,12 @@
+{
+ "name": "对于国王来说人算什么？",
+ "icon": "rats:rat_upgrade_god",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：战神，几乎把你的老鼠变成了不可阻挡的杀人机器"
+  }
+ ],
+ "sortnum": 51
+}

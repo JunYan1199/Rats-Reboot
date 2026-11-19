@@ -1,0 +1,12 @@
+{
+ "name": "老鼠爪",
+ "icon": "rats:rat_paw",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠爪。$(br2)有什么用：小偷升级、幽匿升级、采石场升级的合成材料，记得留几个。$(br2)【材料来源】击杀野生老鼠或恶魔老鼠"
+  }
+ ],
+ "sortnum": 4
+}

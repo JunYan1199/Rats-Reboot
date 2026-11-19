@@ -1,0 +1,17 @@
+{
+ "name": "布瑞克草帽",
+ "icon": "rats:brick_hat_straw",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:brick_hat_straw",
+   "text": "登记名：$(br)rats:brick_hat_straw"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_hat_straw"
+  }
+ ],
+ "sortnum": 19
+}

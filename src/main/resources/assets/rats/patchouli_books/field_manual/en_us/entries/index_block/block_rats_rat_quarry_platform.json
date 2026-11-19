@@ -1,0 +1,13 @@
+{
+ "name": "老鼠采石平台",
+ "icon": "rats:rat_quarry_platform",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_quarry_platform",
+   "text": "玩法：$(l:work/1c2c6af7d6a0c383)老鼠采石平台$(/l)$(br2)登记名：$(br)rats:rat_quarry_platform"
+  }
+ ],
+ "sortnum": 99
+}

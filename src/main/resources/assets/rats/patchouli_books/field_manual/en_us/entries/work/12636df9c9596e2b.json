@@ -1,0 +1,24 @@
+{
+ "name": "老鼠升级：矿物翻倍",
+ "icon": "rats:rat_upgrade_ore_doubling",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠每吃 1 个可加工的矿石或粗矿，就会掉落 2 个「坨坨」。每个坨坨右键或放进熔炉，都能得到一份对应的熔炼产物。粗铁、粗金、粗铜和模组粗矿均可使用，"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "产物优先取熔炉配方，其次取高炉配方。$(br2)实例：采石场老鼠 + 矿物翻倍 = 矿物产量大幅提升。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：老鼠“坨坨”×4 + 钻石 + 煤炭块×2 + 老鼠升级：基础 + 铁块（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/ore_doubling_upgrade"
+  }
+ ],
+ "sortnum": 42
+}

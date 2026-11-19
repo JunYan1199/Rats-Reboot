@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "rats:shine_stone",
+    {
+      "id": "cobblemon:shiny_stone",
+      "required": false
+    },
+    {
+      "id": "pixelmon:shiny_stone",
+      "required": false
+    }
+  ]
+}

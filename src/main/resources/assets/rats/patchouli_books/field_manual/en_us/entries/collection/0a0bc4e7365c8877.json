@@ -1,0 +1,16 @@
+{
+ "name": "魔笛人帽",
+ "icon": "rats:piper_hat",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "魔笛人帽：戴上后野鼠不再怕你。$(br2)【材料来源】工作台合成：羽毛 + 魔方羊毛×5；击败魔笛人掉落（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:piper_hat"
+  }
+ ],
+ "sortnum": 4
+}

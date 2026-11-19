@@ -1,0 +1,16 @@
+{
+ "name": "特产资源",
+ "icon": "rats:ratglove_petals",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲的基础材料。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratglove_petals"
+  }
+ ],
+ "sortnum": 16
+}

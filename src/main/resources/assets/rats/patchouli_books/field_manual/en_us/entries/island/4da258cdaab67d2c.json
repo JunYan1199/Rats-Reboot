@@ -1,0 +1,16 @@
+{
+ "name": "鼠西洲护腿",
+ "icon": "rats:ratlantis_leggings",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲护腿。$(br2)【材料来源】工作台合成：鼠铜锭×7 + 双翼机翼 + 下界合金护腿（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_leggings"
+  }
+ ],
+ "sortnum": 47
+}

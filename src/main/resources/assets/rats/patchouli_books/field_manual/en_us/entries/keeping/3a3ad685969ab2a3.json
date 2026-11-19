@@ -1,0 +1,28 @@
+{
+ "name": "第六步：奶酪魔杖与指令",
+ "icon": "rats:cheese_stick",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：学会给老鼠下命令。$(br2)下命令的方法：$(br2)• 右键你的老鼠打开它的界面，界面里可以切换命令、查看背包和属性；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 老鼠长笛可以一次给周围所有老鼠下同一个命令（潜行右键切换要下的命令）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "奶酪魔杖：先右键老鼠绑定它，再右键方块，会弹出选项菜单——设置存入容器、提取容器、投放位置、老鼠家坐标、工作基点、绑定老鼠房屋等。$(br2)几乎所有工作命令都靠它指定位置。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "上方是八种命令的说明和实例，下方是全部管理工具。$(br2)【材料来源】工作台合成：奶酪 + 木棍（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:cheese_stick"
+  }
+ ],
+ "sortnum": 31
+}

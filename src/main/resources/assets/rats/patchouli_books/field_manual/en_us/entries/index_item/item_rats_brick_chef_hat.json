@@ -1,0 +1,17 @@
+{
+ "name": "布瑞克厨师帽",
+ "icon": "rats:brick_chef_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:brick_chef_hat",
+   "text": "登记名：$(br)rats:brick_chef_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_chef_hat"
+  }
+ ],
+ "sortnum": 13
+}

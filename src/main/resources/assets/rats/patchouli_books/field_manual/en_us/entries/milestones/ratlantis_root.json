@@ -1,0 +1,12 @@
+{
+ "name": "鼠西洲",
+ "icon": "rats:marbled_cheese_raw",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "一个失落的帝国"
+  }
+ ],
+ "sortnum": 21
+}

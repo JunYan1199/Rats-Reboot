@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "rats:water_stone",
+    {
+      "id": "cobblemon:water_stone",
+      "required": false
+    },
+    {
+      "id": "pixelmon:water_stone",
+      "required": false
+    }
+  ]
+}

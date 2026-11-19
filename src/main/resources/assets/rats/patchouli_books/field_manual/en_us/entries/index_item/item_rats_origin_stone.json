@@ -1,0 +1,17 @@
+{
+ "name": "月之石·原绒",
+ "icon": "rats:origin_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:origin_stone",
+   "text": "玩法：$(l:evolution/6813200f148ea098)进化从 50 级开始$(/l)$(br2)登记名：$(br)rats:origin_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:origin_stone"
+  }
+ ],
+ "sortnum": 92
+}

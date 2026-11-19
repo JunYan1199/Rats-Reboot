@@ -1,0 +1,16 @@
+{
+ "name": "鼠笼装饰与材料",
+ "icon": "rats:rat_breeding_lantern",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "手持装饰右键鼠笼就能装上。塑料原料来自塑料废品烧炼。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_breeding_lantern"
+  }
+ ],
+ "sortnum": 56
+}

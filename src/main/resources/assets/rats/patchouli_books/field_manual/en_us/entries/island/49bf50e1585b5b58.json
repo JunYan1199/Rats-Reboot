@@ -1,0 +1,12 @@
+{
+ "name": "Boss 挑战",
+ "icon": "rats:dutchrat_wheel",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "召唤物和击杀任务。"
+  }
+ ],
+ "sortnum": 35
+}

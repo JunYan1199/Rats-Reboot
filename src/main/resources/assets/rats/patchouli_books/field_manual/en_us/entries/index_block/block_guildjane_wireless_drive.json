@@ -1,0 +1,12 @@
+{
+ "name": "无线应力接收器",
+ "icon": "minecraft:compass",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "用连接器选取发电站，再点击机械动力设备的空闲轴端，接收器会自动安装。$(br2)登记名：$(br)guildjane:wireless_drive"
+  }
+ ],
+ "sortnum": 2
+}

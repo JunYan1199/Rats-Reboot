@@ -1,0 +1,16 @@
+{
+ "name": "龙翼",
+ "icon": "rats:dragon_wing",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "龙翼：龙升级的材料。$(br2)【材料来源】工作台合成：烈焰棒×4 + 皮革×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dragon_wing"
+  }
+ ],
+ "sortnum": 55
+}

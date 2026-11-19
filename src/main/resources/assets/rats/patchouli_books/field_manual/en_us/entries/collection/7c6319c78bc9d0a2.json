@@ -1,0 +1,16 @@
+{
+ "name": "16 色老鼠房屋",
+ "icon": "rats:rat_house_red",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "老鼠房屋 + 染料。$(br2)【材料来源】工作台合成：老鼠房屋等同类 + 白色染料（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_red"
+  }
+ ],
+ "sortnum": 69
+}

@@ -1,0 +1,17 @@
+{
+ "name": "法术军团指挥杖",
+ "icon": "rats:legion_baton",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:legion_baton",
+   "text": "玩法：$(l:evolution/6b7a5329fc596e87)满级和协作规则$(/l)$(br2)登记名：$(br)rats:legion_baton"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:legion_baton"
+  }
+ ],
+ "sortnum": 81
+}

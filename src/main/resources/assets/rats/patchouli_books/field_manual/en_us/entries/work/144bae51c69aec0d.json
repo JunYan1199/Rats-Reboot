@@ -1,0 +1,16 @@
+{
+ "name": "老鼠升级：高级能量传输",
+ "icon": "rats:rat_upgrade_advanced_energy",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：高级能量传输，传输速率比基础更高。$(br2)【材料来源】工作台合成：钻石×3 + 金锭×2 + 老鼠升级：基础能量传输 + 红石块×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/advanced_energy_upgrade"
+  }
+ ],
+ "sortnum": 15
+}

@@ -1,0 +1,12 @@
+{
+ "name": "鼠西洲！",
+ "icon": "rats:ratlantis_portal",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "使用肥厚奶酪令牌在地上随处创建通往鼠西州的入口。并通过入口进入！"
+  }
+ ],
+ "sortnum": 19
+}

@@ -1,0 +1,12 @@
+{
+ "name": "鼠王皇冠",
+ "icon": "rats:rat_king_crown",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠王皇冠：金鼠偶升级的材料。$(br2)【材料来源】击败鼠王掉落"
+  }
+ ],
+ "sortnum": 15
+}

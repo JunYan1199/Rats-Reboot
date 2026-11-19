@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：野蛮撕咬",
+ "icon": "rats:rat_upgrade_feral_bite",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_feral_bite",
+   "text": "老鼠攻击会造成5点额外伤害，并且会施加瘟疫和中毒负面效果$(br2)玩法：$(l:island/1a82c08d7952327c)老鼠升级：野蛮撕咬$(/l)$(br2)登记名：$(br)rats:rat_upgrade_feral_bite"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/feral_bite_upgrade"
+  }
+ ],
+ "sortnum": 237
+}

@@ -1,0 +1,12 @@
+{
+ "name": "奶酪矿石",
+ "icon": "rats:cheese_ore",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "奶酪矿石。$(br2)【材料来源】鼠西洲地下，用精准采集挖取"
+  }
+ ],
+ "sortnum": 92
+}

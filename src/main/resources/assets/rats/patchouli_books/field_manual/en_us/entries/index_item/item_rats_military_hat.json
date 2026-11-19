@@ -1,0 +1,17 @@
+{
+ "name": "鼠西族军帽",
+ "icon": "rats:military_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:military_hat",
+   "text": "玩法：$(l:collection/34905c504d76af61)鼠西族军帽$(/l)$(br2)登记名：$(br)rats:military_hat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：旗帜图案。"
+  }
+ ],
+ "sortnum": 84
+}

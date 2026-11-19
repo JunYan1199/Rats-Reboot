@@ -1,0 +1,21 @@
+{
+ "name": "机器鼠枪筒",
+ "icon": "rats:ratbot_barrel",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratbot_barrel",
+   "text": "玩法：$(l:island/50f2e070ce964cd2)鼠西族机器鼠$(/l)$(br2)登记名：$(br)rats:ratbot_barrel"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：鼠西族机器鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：防空警报、装填的机器鼠枪筒、老鼠升级：双翼机坐骑、老鼠升级：终结鼠。"
+  }
+ ],
+ "sortnum": 281
+}

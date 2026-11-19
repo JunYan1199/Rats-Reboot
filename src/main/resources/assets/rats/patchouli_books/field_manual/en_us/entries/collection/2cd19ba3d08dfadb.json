@@ -1,0 +1,12 @@
+{
+ "name": "魔方羊毛",
+ "icon": "rats:pied_wool",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "魔方羊毛：魔笛人帽、魔方垃圾的材料。$(br2)【材料来源】击败魔笛人掉落；瘟疫医生出售"
+  }
+ ],
+ "sortnum": 51
+}

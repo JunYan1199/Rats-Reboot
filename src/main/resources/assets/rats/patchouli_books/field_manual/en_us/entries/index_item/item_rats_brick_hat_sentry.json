@@ -1,0 +1,17 @@
+{
+ "name": "布瑞克哨兵军帽",
+ "icon": "rats:brick_hat_sentry",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:brick_hat_sentry",
+   "text": "登记名：$(br)rats:brick_hat_sentry"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_hat_sentry"
+  }
+ ],
+ "sortnum": 18
+}

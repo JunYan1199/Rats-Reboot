@@ -1,0 +1,12 @@
+{
+ "name": "击败老鼠男爵",
+ "icon": "rats:biplane_wing",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "先打下他的飞机（掉落双翼机翼、鼠铜粒），再解决男爵本人，他戴着飞行员皮帽。$(br2)双翼机翼是鼠西洲护腿、双翼机坐骑升级、鼠西洲的头颅的材料。"
+  }
+ ],
+ "sortnum": 43
+}

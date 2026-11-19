@@ -1,0 +1,12 @@
+{
+ "name": "鼠西族精灵",
+ "icon": "rats:ratlantean_flame",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "掉落鼠西族魂火（知性小瓶、鼠西洲弓的材料）。"
+  }
+ ],
+ "sortnum": 30
+}

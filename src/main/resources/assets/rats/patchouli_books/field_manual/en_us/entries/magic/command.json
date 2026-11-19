@@ -1,0 +1,24 @@
+{
+ "name": "编队、分工与集火",
+ "icon": "rats:legion_baton",
+ "category": "rats:magic",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "手持指挥杖，潜行对空气右键切换职责，再右键自己的驯鼠编队。同一根杖对应同一队。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "瞄准敌人右键发令，48 格内属于你的同队老鼠会收到目标。需要撤编时切换到自由模式，再右键原队员。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "施法装备与对应模组联动。编好队后留意分配提示中的已装备数量，再试一次集火。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:legion_baton"
+  }
+ ],
+ "sortnum": 0
+}

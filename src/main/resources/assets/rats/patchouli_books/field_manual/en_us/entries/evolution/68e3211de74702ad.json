@@ -1,0 +1,12 @@
+{
+ "name": "野外毛色与染色",
+ "icon": "rats:origin_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "野生老鼠有原生色、黑色、琥珀色、香槟色、蓝色系及白化等常见毛色，也可能生成稀有色或混色。$(br2)手持染料右键老鼠可改变毛色。毛色和进化是两套独立机制。"
+  }
+ ],
+ "sortnum": 1
+}

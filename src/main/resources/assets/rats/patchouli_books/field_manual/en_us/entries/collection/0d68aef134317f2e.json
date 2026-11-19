@@ -1,0 +1,16 @@
+{
+ "name": "瘟疫源质",
+ "icon": "rats:plague_essence",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "瘟疫源质。$(br2)【材料来源】工作台合成：黑死神镰刀，产出 ×5；疫鼠的稀有掉落；也可分解黑死神镰刀得到 5 个（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:scythe_to_essence"
+  }
+ ],
+ "sortnum": 31
+}

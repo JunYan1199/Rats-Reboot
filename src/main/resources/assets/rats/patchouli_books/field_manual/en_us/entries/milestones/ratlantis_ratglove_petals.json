@@ -1,0 +1,12 @@
+{
+ "name": "花的力量",
+ "icon": "rats:ratglove_petals",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "利用九个鼠套花合成鼠套花瓣"
+  }
+ ],
+ "sortnum": 16
+}

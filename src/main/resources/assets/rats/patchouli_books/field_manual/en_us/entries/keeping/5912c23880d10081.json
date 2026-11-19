@@ -1,0 +1,16 @@
+{
+ "name": "染料海绵",
+ "icon": "rats:dye_sponge",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：染料海绵。右键老鼠或羊，去掉身上的染色。$(br2)【材料来源】工作台合成：白色染料等同类×4 + 海绵（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dye_sponge"
+  }
+ ],
+ "sortnum": 49
+}

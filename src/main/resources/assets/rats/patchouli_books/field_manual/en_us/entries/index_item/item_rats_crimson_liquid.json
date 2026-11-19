@@ -1,0 +1,17 @@
+{
+ "name": "绯红净化液",
+ "icon": "rats:crimson_liquid",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:crimson_liquid",
+   "text": "把恶魔老鼠净化为野鼠$(br2)玩法：$(l:collection/698584b1c7396e22)绯红净化液$(/l)$(br2)登记名：$(br)rats:crimson_liquid"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:crimson_liquid"
+  }
+ ],
+ "sortnum": 37
+}

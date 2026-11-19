@@ -1,0 +1,16 @@
+{
+ "name": "鼠西洲头盔",
+ "icon": "rats:ratlantis_helmet",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲头盔。$(br2)【材料来源】工作台合成：鼠铜锭×7 + 灵能鼠脑 + 下界合金头盔（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_helmet"
+  }
+ ],
+ "sortnum": 46
+}

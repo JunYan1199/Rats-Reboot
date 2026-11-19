@@ -1,0 +1,12 @@
+{
+ "name": "双十一豪买",
+ "icon": "rats:rat_upgrade_platter",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：托盘，用于老鼠一次性运输整组物品"
+  }
+ ],
+ "sortnum": 54
+}

@@ -1,0 +1,16 @@
+{
+ "name": "生鼠肉",
+ "icon": "rats:raw_rat",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠最普通的掉落物，可以直接吃，也能烤熟。$(br2)有什么用：烤成熟鼠肉；卖给宠物店店主换绿宝石；放进南瓜做鼠瓜灯。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】击杀野生老鼠、鼠盗；宠物店店主也收购生鼠肉"
+  }
+ ],
+ "sortnum": 2
+}

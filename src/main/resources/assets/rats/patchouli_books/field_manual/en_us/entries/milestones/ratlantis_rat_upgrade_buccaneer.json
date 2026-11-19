@@ -1,0 +1,12 @@
+{
+ "name": "是的船长！",
+ "icon": "rats:rat_upgrade_buccaneer",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成老鼠升级：海盗，为老鼠提供了用不着的16世纪武装"
+  }
+ ],
+ "sortnum": 11
+}

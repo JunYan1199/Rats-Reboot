@@ -1,0 +1,17 @@
+{
+ "name": "鼠西族宝石矿石",
+ "icon": "rats:ratlantean_gem_ore",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ratlantean_gem_ore",
+   "text": "玩法：$(l:collection/6319fd82bd519d8c)鼠西族宝石矿石$(/l)$(br2)登记名：$(br)rats:ratlantean_gem_ore"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠西洲宝石。"
+  }
+ ],
+ "sortnum": 104
+}

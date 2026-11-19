@@ -1,0 +1,13 @@
+{
+ "name": "马铃薯克尼什馅饼",
+ "icon": "rats:potato_knishes",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:potato_knishes",
+   "text": "玩法：$(l:collection/24acff265ea9bc82)马铃薯克尼什馅饼$(/l)$(br2)登记名：$(br)rats:potato_knishes"
+  }
+ ],
+ "sortnum": 114
+}

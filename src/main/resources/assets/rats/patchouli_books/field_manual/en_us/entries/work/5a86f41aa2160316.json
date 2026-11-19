@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：祛魔师",
+ "icon": "rats:rat_upgrade_disenchanter",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠祛除手里物品上的附魔（类似砂轮）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：石头台阶×2 + 书 + 安山岩等同类×4 + 老鼠升级：基础 + 砂轮（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/disenchanter_upgrade"
+  }
+ ],
+ "sortnum": 50
+}

@@ -1,0 +1,21 @@
+{
+ "name": "鼠皮",
+ "icon": "rats:rat_pelt",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_pelt",
+   "text": "玩法：$(l:keeping/3ec680ff1c61b335)野鼠掉落$(/l)$(br2)登记名：$(br)rats:rat_pelt"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：野蛮鼠西族、鼠盗、瘟兽、野鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：布瑞克转化装置、旗帜图案。"
+  }
+ ],
+ "sortnum": 172
+}

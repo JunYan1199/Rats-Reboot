@@ -1,0 +1,17 @@
+{
+ "name": "垃圾桶",
+ "icon": "rats:trash_can",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:trash_can",
+   "text": "玩法：$(l:keeping/39c4bb49e3e1e5ef)垃圾桶$(/l)$(br2)登记名：$(br)rats:trash_can"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:trash_can"
+  }
+ ],
+ "sortnum": 110
+}

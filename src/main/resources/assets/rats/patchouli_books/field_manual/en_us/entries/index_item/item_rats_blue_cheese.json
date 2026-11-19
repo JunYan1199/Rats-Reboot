@@ -1,0 +1,21 @@
+{
+ "name": "蓝纹奶酪",
+ "icon": "rats:blue_cheese",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:blue_cheese",
+   "text": "玩法：$(l:keeping/35ef3954dd3c862d)蓝纹奶酪$(/l)$(br2)登记名：$(br)rats:blue_cheese"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:blue_cheese"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：蓝纹奶酪块。"
+  }
+ ],
+ "sortnum": 12
+}

@@ -1,0 +1,12 @@
+{
+ "name": "飞行员皮帽",
+ "icon": "rats:aviator_hat",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "飞行员皮帽：双翼机坐骑的材料，也能戴。$(br2)【材料来源】老鼠男爵戴着，击败后可获得"
+  }
+ ],
+ "sortnum": 86
+}

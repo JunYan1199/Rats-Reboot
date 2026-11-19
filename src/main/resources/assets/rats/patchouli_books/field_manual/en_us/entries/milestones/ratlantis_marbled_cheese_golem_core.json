@@ -1,0 +1,12 @@
+{
+ "name": "我们可以重构……",
+ "icon": "rats:marbled_cheese_golem_core",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "合成鼠西族战机核心！现在，将鼠西族战机头颅放在顶部，并用大理石纹奶酪包裹核心！（任意大理石纹奶酪，做成铁傀儡的形状）"
+  }
+ ],
+ "sortnum": 6
+}

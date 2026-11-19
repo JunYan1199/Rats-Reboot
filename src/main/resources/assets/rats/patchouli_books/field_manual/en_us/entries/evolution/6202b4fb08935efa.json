@@ -1,0 +1,24 @@
+{
+ "name": "日曜鼠 · 超能力",
+ "icon": "rats:sun_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　超能力$(br2)进化道具　日之石$(br2)原有被动　受到的原版魔法伤害 −20%$(br2)50 级　预知"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "队友单次将受到超过自身最大生命 8% 的伤害时，为其削减本次伤害的 40%，冷却 20 秒。$(br2)100 级　精神共鸣"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "自身用铁魔法或巫法完成施法后，8 格内另一只队友下一次使用另一体系的攻击法术伤害提高 25%。有效 8 秒，冷却 12 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:sun_stone"
+  }
+ ],
+ "sortnum": 13
+}

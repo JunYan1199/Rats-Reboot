@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：战神",
+ "icon": "rats:rat_upgrade_god",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：战神，近乎无敌的属性提升。需要 4 个战士升级 + 4 个金色老鼠头颅 + 下界之星。$(br2)战神还是鼠西洲「非信者」升级的材料。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：金色老鼠头颅×4 + 老鼠升级：战士×4 + 下界之星（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/god_upgrade"
+  }
+ ],
+ "sortnum": 62
+}

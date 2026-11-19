@@ -1,0 +1,25 @@
+{
+ "name": "幽灵鼠盗灵质",
+ "icon": "rats:ghost_pirat_ectoplasm",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:ghost_pirat_ectoplasm",
+   "text": "手持幽灵鼠盗灵质右击任意树苗将其转化成幽灵鼠盗树苗$(br2)玩法：$(l:island/7218f8db108aff43)幽灵鼠盗$(/l)$(br2)登记名：$(br)rats:ghost_pirat_ectoplasm"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ectoplasm_from_cutlass"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：飞翔的荷兰鼠、幽灵鼠盗。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：飞翔的荷兰鼠的钟、幽灵鼠盗弯刀、幽灵鼠盗帽、幽灵鼠盗木板、老鼠升级：空灵。"
+  }
+ ],
+ "sortnum": 68
+}

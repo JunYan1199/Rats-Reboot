@@ -1,0 +1,16 @@
+{
+ "name": "金色老鼠头颅",
+ "icon": "rats:golden_rat_skull",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "金色老鼠头颅：大量高级升级的材料。$(br2)【材料来源】工作台合成：金锭×8 + 老鼠头颅（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:golden_rat_skull"
+  }
+ ],
+ "sortnum": 38
+}

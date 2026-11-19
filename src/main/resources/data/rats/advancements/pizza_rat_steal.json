@@ -1,0 +1,16 @@
+{
+  "parent": "rats:root",
+  "criteria": {
+    "stolen": { "trigger": "minecraft:impossible" }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": { "translate": "advancement.rats.pizza_rat_steal.desc" },
+    "frame": "task",
+    "hidden": false,
+    "icon": { "item": "rats:pizza_slice" },
+    "show_toast": true,
+    "title": { "translate": "advancement.rats.pizza_rat_steal.title" }
+  },
+  "requirements": [ [ "stolen" ] ]
+}

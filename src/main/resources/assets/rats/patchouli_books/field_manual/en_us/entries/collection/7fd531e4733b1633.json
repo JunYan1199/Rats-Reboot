@@ -1,0 +1,16 @@
+{
+ "name": "小小黑色虫子",
+ "icon": "rats:little_black_worm",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "小小黑色虫子：手持它右键砂土，会变成蜈蚣。$(br2)【材料来源】工作台合成：小小黑色壁球×6 + 炸薯饼×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:little_black_worm"
+  }
+ ],
+ "sortnum": 25
+}

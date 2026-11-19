@@ -1,0 +1,16 @@
+{
+ "name": "让简在收据上盖章",
+ "icon": "guildjane:guild_deed",
+ "category": "rats:guild",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "一支队伍归来后，右键简，先听听路上的遭遇，再选结算并核对背包。另一队仍按原定时间归来。首次成功结算会为全服解锁夜曲服装；之后可以在对话中换回原版。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:guild_deed"
+  }
+ ],
+ "sortnum": 5
+}

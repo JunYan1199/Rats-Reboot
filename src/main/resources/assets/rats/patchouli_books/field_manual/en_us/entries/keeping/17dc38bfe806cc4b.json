@@ -1,0 +1,16 @@
+{
+ "name": "奶酪家族",
+ "icon": "rats:block_of_cheese",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "各种奶酪和奶酪方块。蓝纹奶酪、下界奶酪是部分升级的专用材料。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:block_of_cheese"
+  }
+ ],
+ "sortnum": 16
+}

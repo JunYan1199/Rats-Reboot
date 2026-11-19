@@ -1,0 +1,21 @@
+{
+ "name": "老鼠升级：战士",
+ "icon": "rats:rat_upgrade_warrior",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_warrior",
+   "text": "玩法：$(l:work/12668b8df6424260)属性强化$(/l)$(br2)登记名：$(br)rats:rat_upgrade_warrior"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/warrior_upgrade"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：龙、老鼠升级：战神。"
+  }
+ ],
+ "sortnum": 275
+}

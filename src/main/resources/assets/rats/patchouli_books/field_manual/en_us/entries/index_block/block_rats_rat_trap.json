@@ -1,0 +1,17 @@
+{
+ "name": "捕鼠夹",
+ "icon": "rats:rat_trap",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_trap",
+   "text": "玩法：$(l:keeping/13ea69d28d4140db)捕鼠夹$(/l)$(br2)登记名：$(br)rats:rat_trap"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_trap"
+  }
+ ],
+ "sortnum": 100
+}

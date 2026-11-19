@@ -1,0 +1,12 @@
+{
+ "name": "人人都能烹饪",
+ "icon": "rats:chef_toque",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "获得老鼠厨师烹饪的两种佳肴之一"
+  }
+ ],
+ "sortnum": 42
+}

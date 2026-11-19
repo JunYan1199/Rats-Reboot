@@ -1,0 +1,12 @@
+{
+ "name": "裂纹大理石纹奶酪砖块",
+ "icon": "rats:marbled_cheese_brick_cracked",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "裂纹砖块。$(br2)【材料来源】熔炉烧炼：老鼠“坨坨”；熔炉烧炼：大理石纹奶酪（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 83
+}

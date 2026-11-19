@@ -1,0 +1,12 @@
+{
+ "name": "但伙计，我数学不好吗",
+ "icon": "rats:psionic_rat_brain",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "击败新·鼠西族"
+  }
+ ],
+ "sortnum": 7
+}

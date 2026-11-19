@@ -1,0 +1,21 @@
+{
+ "name": "老鼠升级方块",
+ "icon": "rats:rat_upgrade_block",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_block",
+   "text": "玩法：$(l:work/2cd83ad555ecbfaf)升级基础$(/l)$(br2)登记名：$(br)rats:rat_upgrade_block"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_upgrade_block"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：基础。"
+  }
+ ],
+ "sortnum": 102
+}

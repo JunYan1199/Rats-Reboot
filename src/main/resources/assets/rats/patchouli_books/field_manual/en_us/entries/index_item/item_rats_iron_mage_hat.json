@@ -1,0 +1,17 @@
+{
+ "name": "魔法帽（铁魔法）",
+ "icon": "rats:iron_mage_hat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:iron_mage_hat",
+   "text": "登记名：$(br)rats:iron_mage_hat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:iron_mage_hat"
+  }
+ ],
+ "sortnum": 78
+}

@@ -1,0 +1,12 @@
+{
+ "name": "大理石纹奶酪",
+ "icon": "rats:marbled_cheese",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "大理石纹奶酪。$(br2)【材料来源】熔炉烧炼：大理石纹生奶酪；熔炉烧炼：老鼠“坨坨”（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 72
+}

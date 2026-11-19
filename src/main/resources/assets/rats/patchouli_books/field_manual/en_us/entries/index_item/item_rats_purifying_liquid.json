@@ -1,0 +1,21 @@
+{
+ "name": "净化液",
+ "icon": "rats:purifying_liquid",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:purifying_liquid",
+   "text": "净化患有瘟疫的生物（净化液能治愈僵尸村民）$(br2)玩法：$(l:collection/112ffdeb062724a4)瘟疫物品$(/l)$(br2)登记名：$(br)rats:purifying_liquid"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:purifying_liquid"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：净化垃圾。"
+  }
+ ],
+ "sortnum": 117
+}

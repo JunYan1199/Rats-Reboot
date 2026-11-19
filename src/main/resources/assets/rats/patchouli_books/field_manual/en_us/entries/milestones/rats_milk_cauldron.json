@@ -1,0 +1,12 @@
+{
+ "name": "凝乳时间",
+ "icon": "rats:cauldron_milk",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "将牛奶倒入炼药锅中，等待其变成奶酪"
+  }
+ ],
+ "sortnum": 34
+}

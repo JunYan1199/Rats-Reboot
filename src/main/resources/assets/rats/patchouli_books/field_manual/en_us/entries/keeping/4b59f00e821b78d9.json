@@ -1,0 +1,24 @@
+{
+ "name": "第十一步：死亡与复活",
+ "icon": "rats:rat_house",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "这一步要做什么：了解老鼠死了怎么办。$(br2)• 绑定了老鼠房屋（同一维度）的老鼠死亡时不会真的死：它会被房屋收回，60 秒后满血从房屋里出来，身上的升级和物品都在；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 房屋里已经住着别的老鼠或正在复活时，就无法再接收；$(br2)• 装了「天使」升级的老鼠死后会变成幽灵，一分钟后原地复活（不走房屋）；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 两者都没有的老鼠，死了就真的没了。$(br2)建议：给每只重要的老鼠都配一个房屋。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_house"
+  }
+ ],
+ "sortnum": 54
+}

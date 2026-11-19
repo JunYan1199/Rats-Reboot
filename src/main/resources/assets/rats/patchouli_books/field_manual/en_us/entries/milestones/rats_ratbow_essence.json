@@ -1,0 +1,12 @@
+{
+ "name": "光彩夺目！",
+ "icon": "rats:ratbow_essence",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "制作一个彩鼠源质，可以把老鼠染成不停变换的彩虹色"
+  }
+ ],
+ "sortnum": 58
+}

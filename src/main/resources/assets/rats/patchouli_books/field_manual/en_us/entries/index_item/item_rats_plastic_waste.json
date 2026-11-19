@@ -1,0 +1,17 @@
+{
+ "name": "塑料废品",
+ "icon": "rats:plastic_waste",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:plastic_waste",
+   "text": "玩法：$(l:keeping/7d060c6653f52070)塑料废品$(/l)$(br2)登记名：$(br)rats:plastic_waste"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：塑料原料。"
+  }
+ ],
+ "sortnum": 113
+}

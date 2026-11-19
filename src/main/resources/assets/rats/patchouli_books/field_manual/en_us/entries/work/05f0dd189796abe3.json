@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：方块放置",
+ "icon": "rats:rat_upgrade_placer",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：「工作」时把手里的方块放到「老鼠家」坐标。$(br2)实例：配合运输老鼠送来圆石，做一个会自己补墙的点。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：粉红色染料×4 + 苔石×4 + 老鼠升级：基础（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/placer_upgrade"
+  }
+ ],
+ "sortnum": 36
+}

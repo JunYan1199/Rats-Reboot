@@ -1,0 +1,17 @@
+{
+ "name": "奶酪条",
+ "icon": "rats:string_cheese",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:string_cheese",
+   "text": "§o“没有弦的世界是混乱的”。$(br2)玩法：$(l:keeping/38d7cd01825da796)奶酪条$(/l)$(br2)登记名：$(br)rats:string_cheese"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠菲斯帽。"
+  }
+ ],
+ "sortnum": 310
+}

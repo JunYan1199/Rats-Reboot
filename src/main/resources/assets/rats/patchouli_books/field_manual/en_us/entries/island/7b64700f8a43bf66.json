@@ -1,0 +1,20 @@
+{
+ "name": "幽灵鼠盗灵质",
+ "icon": "rats:ghost_pirat_ectoplasm",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "幽灵鼠盗灵质。也来自幽灵鼠盗、荷兰鼠。右键任意树苗变成幽灵鼠盗树苗。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：飞翔的荷兰鼠的船舵，产出 ×10；工作台合成：幽灵鼠盗弯刀，产出 ×4；工作台合成：幽灵鼠盗帽，$(br2)产出 ×4（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ectoplasm_from_cutlass"
+  }
+ ],
+ "sortnum": 72
+}

@@ -1,0 +1,17 @@
+{
+ "name": "鼠汉堡",
+ "icon": "rats:rat_burger",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_burger",
+   "text": "§o“不要问他们肉从哪里来。”$(br2)玩法：$(l:collection/439da0a5f09c66cc)鼠汉堡$(/l)$(br2)登记名：$(br)rats:rat_burger"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_burger"
+  }
+ ],
+ "sortnum": 129
+}

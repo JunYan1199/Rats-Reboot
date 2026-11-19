@@ -1,0 +1,16 @@
+{
+ "name": "下界的恶魔老鼠",
+ "icon": "rats:nether_cheese",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "恶魔老鼠生活在下界，会主动攻击。掉落下界奶酪、熟鼠肉、老鼠爪等。$(br2)想要它当宠物？用绯红净化液把它净化成普通野鼠，再喂奶酪驯服。$(br2)击杀一次自动完成。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:nether_cheese"
+  }
+ ],
+ "sortnum": 13
+}

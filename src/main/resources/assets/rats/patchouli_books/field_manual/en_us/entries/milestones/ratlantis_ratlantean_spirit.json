@@ -1,0 +1,12 @@
+{
+ "name": "一兆死灵遗灰",
+ "icon": "rats:ratlantean_flame",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "遇到湮没已久的鼠西族鬼魂"
+  }
+ ],
+ "sortnum": 18
+}

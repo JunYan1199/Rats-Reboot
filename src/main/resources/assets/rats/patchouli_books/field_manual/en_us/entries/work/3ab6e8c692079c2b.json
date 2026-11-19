@@ -1,0 +1,20 @@
+{
+ "name": "老鼠升级：生物名单",
+ "icon": "rats:rat_upgrade_mob_filter",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "作用：老鼠只攻击名单上标记的生物。$(br2)用法：右键打开界面，选择目标生物。$(br2)实例：捕猎老鼠只打僵尸和骷髅，不碰你的牛羊。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：腐肉等同类×6 + 老鼠升级：白名单 + 老鼠升级：基础 + 老鼠升级：黑名单（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/filter_upgrade"
+  }
+ ],
+ "sortnum": 8
+}

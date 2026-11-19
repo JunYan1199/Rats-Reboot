@@ -1,0 +1,17 @@
+{
+ "name": "冒险公会地契",
+ "icon": "guildjane:guild_deed",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "guildjane:guild_deed",
+   "text": "玩法：$(l:guild/aefbb9449abc539b)领取公会地契$(/l)$(br2)登记名：$(br)guildjane:guild_deed"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:guild_deed"
+  }
+ ],
+ "sortnum": 0
+}

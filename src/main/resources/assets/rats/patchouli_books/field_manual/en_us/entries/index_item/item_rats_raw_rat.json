@@ -1,0 +1,21 @@
+{
+ "name": "生鼠肉",
+ "icon": "rats:raw_rat",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:raw_rat",
+   "text": "玩法：$(l:keeping/60701562ff135d4f)第一步：认识野生老鼠$(/l)$(br2)登记名：$(br)rats:raw_rat"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：鼠盗、野鼠。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：熟鼠肉、鼠瓜灯。"
+  }
+ ],
+ "sortnum": 305
+}

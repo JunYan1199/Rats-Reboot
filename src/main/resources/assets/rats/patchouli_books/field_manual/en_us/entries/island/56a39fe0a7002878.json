@@ -1,0 +1,16 @@
+{
+ "name": "鼠西洲剑",
+ "icon": "rats:ratlantis_sword",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠西洲剑：每一击额外召唤光灵鼠造成 6 点伤害。$(br2)【材料来源】工作台合成：鼠铜锭×4 + 下界合金剑（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratlantis_sword"
+  }
+ ],
+ "sortnum": 49
+}

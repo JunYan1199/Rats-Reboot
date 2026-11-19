@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：组合",
+ "icon": "rats:rat_upgrade_combined",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_combined",
+   "text": "以下升级的组合：$(br2)玩法：$(l:work/11811d31a8a6f938)老鼠升级：组合$(/l)$(br2)登记名：$(br)rats:rat_upgrade_combined"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/combined_upgrade"
+  }
+ ],
+ "sortnum": 221
+}

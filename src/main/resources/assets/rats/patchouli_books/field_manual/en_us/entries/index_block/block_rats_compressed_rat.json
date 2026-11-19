@@ -1,0 +1,17 @@
+{
+ "name": "鼠套块",
+ "icon": "rats:compressed_rat",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:compressed_rat",
+   "text": "玩法：$(l:collection/0af4ed88287dab06)鼠套块$(/l)$(br2)登记名：$(br)rats:compressed_rat"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:compressed_rat"
+  }
+ ],
+ "sortnum": 17
+}

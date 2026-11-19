@@ -1,0 +1,17 @@
+{
+ "name": "黑死神面具",
+ "icon": "rats:black_death_mask",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:black_death_mask",
+   "text": "戴上后疫鼠不再以你为攻击目标$(br2)玩法：$(l:island/5fde9d2b79ce3152)击败黑死神$(/l)$(br2)登记名：$(br)rats:black_death_mask"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可在哪些生物的掉落表中找到：黑死神。"
+  }
+ ],
+ "sortnum": 10
+}

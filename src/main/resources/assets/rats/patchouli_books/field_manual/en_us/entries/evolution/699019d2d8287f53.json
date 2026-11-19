@@ -1,0 +1,24 @@
+{
+ "name": "苍鳞鼠 · 龙",
+ "icon": "rats:dragon_scale_stone",
+ "category": "rats:evolution",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "形态属性　龙$(br2)进化道具　觉醒之石·龙鳞$(br2)原有被动　对最大生命≥100的目标近战伤害 +12%$(br2)50 级　逆鳞"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "连续命中同一首领，每次获得 1 层逆鳞，每层使自身对该首领伤害提高 3%，最多 5 层。换目标或 6 秒未命中则清空。$(br2)100 级　龙息"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "交战时朝目标喷出 8 格锥形龙息，2 秒内造成 4 段伤害，每段为攻击力 25%，冷却 10 秒。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:dragon_scale_stone"
+  }
+ ],
+ "sortnum": 17
+}

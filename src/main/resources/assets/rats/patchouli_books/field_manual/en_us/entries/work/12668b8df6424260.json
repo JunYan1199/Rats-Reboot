@@ -1,0 +1,16 @@
+{
+ "name": "属性强化",
+ "icon": "rats:rat_upgrade_warrior",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "数值类升级，从基础到顶级。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/warrior_upgrade"
+  }
+ ],
+ "sortnum": 57
+}

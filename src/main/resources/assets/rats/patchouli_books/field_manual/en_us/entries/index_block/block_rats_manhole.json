@@ -1,0 +1,17 @@
+{
+ "name": "井盖",
+ "icon": "rats:manhole",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:manhole",
+   "text": "玩法：$(l:collection/05b51a3a33615488)井盖$(/l)$(br2)登记名：$(br)rats:manhole"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:manhole"
+  }
+ ],
+ "sortnum": 24
+}

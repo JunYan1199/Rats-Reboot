@@ -1,0 +1,16 @@
+{
+ "name": "农夫上岗",
+ "icon": "rats:brick_hat_straw",
+ "category": "rats:brick",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "准备锄头和作物，使用权杖设置田地的两个角，再观察第一轮耕作。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_hat_straw"
+  }
+ ],
+ "sortnum": 5
+}

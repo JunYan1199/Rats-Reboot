@@ -1,0 +1,16 @@
+{
+ "name": "白色鼠吊床",
+ "icon": "rats:rat_hammock_white",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠吊床：鼠笼装饰，可以染色。$(br2)【材料来源】工作台合成：白色鼠吊床等同类 + 白色染料；工作台合成：线×2 + 奶酪 + 白色羊毛×3（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:hammocks/hammock_dyed_white"
+  }
+ ],
+ "sortnum": 46
+}

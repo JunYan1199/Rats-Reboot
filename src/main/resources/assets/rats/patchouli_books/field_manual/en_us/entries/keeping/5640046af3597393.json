@@ -1,0 +1,20 @@
+{
+ "name": "垃圾堆",
+ "icon": "rats:garbage_pile",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：垃圾堆。放在地上，阴暗环境里会随机刷出野生老鼠（刷新几率可在配置中调整，默认每次随机刻 15%）。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "实例：在地下室铺几块垃圾堆，周围放捕鼠夹或让猫守着，就是一个简单的老鼠农场。$(br2)常见问题：老鼠按「怪物」规则刷新，太亮的地方不刷。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】垃圾桶装满后获得；宠物店店主、瘟疫医生也出售"
+  }
+ ],
+ "sortnum": 9
+}

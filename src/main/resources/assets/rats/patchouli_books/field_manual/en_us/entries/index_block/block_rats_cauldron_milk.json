@@ -1,0 +1,13 @@
+{
+ "name": "牛奶炼药锅",
+ "icon": "rats:cauldron_milk",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:cauldron_milk",
+   "text": "登记名：$(br)rats:cauldron_milk"
+  }
+ ],
+ "sortnum": 12
+}

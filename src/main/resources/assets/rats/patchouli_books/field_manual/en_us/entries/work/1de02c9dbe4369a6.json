@@ -1,0 +1,16 @@
+{
+ "name": "采收：农牧与杂务",
+ "icon": "rats:rat_upgrade_farmer",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "「工作」命令下执行的采收类升级（同组互斥，补种除外）。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/farmer_upgrade"
+  }
+ ],
+ "sortnum": 27
+}

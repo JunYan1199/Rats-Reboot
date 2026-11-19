@@ -1,0 +1,12 @@
+{
+ "name": "鼠王杂烩",
+ "icon": "rats:confit_byaldi",
+ "category": "rats:collection",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "鼠王杂烩：厨师老鼠的拿手菜，回复量极高。$(br2)【材料来源】让带「厨师」升级的老鼠烹制：什锦蔬菜（JEI：物品上按 R 查看摆法）"
+  }
+ ],
+ "sortnum": 22
+}

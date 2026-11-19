@@ -1,0 +1,16 @@
+{
+ "name": "鼠套花花瓣",
+ "icon": "rats:ratglove_petals",
+ "category": "rats:island",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：鼠套花瓣。宝石、知性小瓶、降灵的材料。$(br2)【材料来源】工作台合成：鼠套花×9（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:ratglove_petals"
+  }
+ ],
+ "sortnum": 18
+}

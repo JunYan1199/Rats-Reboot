@@ -1,0 +1,17 @@
+{
+ "name": "老鼠§o“坨坨”",
+ "icon": "rats:rat_nugget",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_nugget",
+   "text": "玩法：$(l:work/300a0b835224e574)老鼠“坨坨”$(/l)$(br2)登记名：$(br)rats:rat_nugget"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：老鼠升级：矿物翻倍。"
+  }
+ ],
+ "sortnum": 168
+}

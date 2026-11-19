@@ -1,0 +1,20 @@
+{
+ "name": "让传动轴转起来",
+ "icon": "guildjane:power_station",
+ "category": "rats:power",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "选「机械动力应力」，再用已选好发电站的连接器点击传动轴，或带轴接口的动力设备。轴端旁留出一格空气，供无线接收器安装。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "接收器以创造马达级别驱动网络。愚者当前实测为 256 RPM，总应力容量 4,194,304 SU。SU 是网络能承受的负载，RPM 是转速。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "guildjane:power_station"
+  }
+ ],
+ "sortnum": 4
+}

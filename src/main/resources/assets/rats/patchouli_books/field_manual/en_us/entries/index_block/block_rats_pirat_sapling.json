@@ -1,0 +1,13 @@
+{
+ "name": "幽灵鼠盗树苗",
+ "icon": "rats:pirat_sapling",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_sapling",
+   "text": "玩法：$(l:collection/49ac54926f295a44)幽灵鼠盗树苗$(/l)$(br2)登记名：$(br)rats:pirat_sapling"
+  }
+ ],
+ "sortnum": 60
+}

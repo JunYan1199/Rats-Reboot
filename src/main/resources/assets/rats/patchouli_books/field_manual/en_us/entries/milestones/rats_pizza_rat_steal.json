@@ -1,0 +1,12 @@
+{
+ "name": "它比你还努力",
+ "icon": "rats:pizza_slice",
+ "category": "rats:milestones",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "亲眼看着一只老鼠拖着你的食物跑掉"
+  }
+ ],
+ "sortnum": 63
+}

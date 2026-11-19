@@ -1,0 +1,17 @@
+{
+ "name": "粗鼠铜",
+ "icon": "rats:raw_oratchalcum",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:raw_oratchalcum",
+   "text": "玩法：$(l:island/1776ea7551b76bd0)粗鼠铜$(/l)$(br2)登记名：$(br)rats:raw_oratchalcum"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "可以参与制作：鼠铜锭。"
+  }
+ ],
+ "sortnum": 303
+}

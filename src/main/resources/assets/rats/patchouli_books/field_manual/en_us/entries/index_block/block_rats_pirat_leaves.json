@@ -1,0 +1,13 @@
+{
+ "name": "幽灵鼠盗树叶",
+ "icon": "rats:pirat_leaves",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:pirat_leaves",
+   "text": "玩法：$(l:collection/12f725e5522e9175)幽灵鼠盗树叶$(/l)$(br2)登记名：$(br)rats:pirat_leaves"
+  }
+ ],
+ "sortnum": 56
+}

@@ -1,0 +1,17 @@
+{
+ "name": "火之石",
+ "icon": "rats:fire_stone",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:fire_stone",
+   "text": "玩法：$(l:evolution/626384d339491b6d)绒焰鼠 · 火$(/l)$(br2)登记名：$(br)rats:fire_stone"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:fire_stone"
+  }
+ ],
+ "sortnum": 54
+}

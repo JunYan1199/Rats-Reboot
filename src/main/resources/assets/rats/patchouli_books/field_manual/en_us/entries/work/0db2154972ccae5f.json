@@ -1,0 +1,24 @@
+{
+ "name": "第八步：跨模组联动（可选）",
+ "icon": "rats:rat_upgrade_basic",
+ "category": "rats:work",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "本整合包装了机械动力（Create）和农夫乐事（Farmer's Delight），合并版老鼠模组和它们都有联动。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "这两部分是独立的进阶分支：不做也不影响主线和后续章节，看兴趣选择。$(br2)• 上方「机械动力联动」：机械动力工人升级、搅拌出奶酪；"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "• 下方「农夫乐事联动」：厨师老鼠操作灶台和砧板；$(br2)• 右下「共振存储联动」：用共振存储下单诡厄祭坛仪式时，让老鼠从 RS 控制器取料、摆上基座并开仪式。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "另外：能量传输升级、跑轮产能可以和任何使用 RF/FE 的模组机器配合；钻钻乐、运输老鼠可以接任何带物品存储的方块。"
+  }
+ ],
+ "sortnum": 92
+}

@@ -1,0 +1,20 @@
+{
+ "name": "老鼠范围魔杖",
+ "icon": "rats:radius_stick",
+ "category": "rats:keeping",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "做什么：老鼠范围魔杖。右键老鼠绑定，再右键方块设置它的搜索/采收范围中心。$(br2)实例：让种田老鼠只管某一块田——站在田中间用范围魔杖右键地面。"
+  },
+  {
+   "type": "patchouli:text",
+   "text": "【材料来源】工作台合成：瘟疫源质 + 木棍（JEI：物品上按 R 查看摆法）"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:radius_stick"
+  }
+ ],
+ "sortnum": 39
+}

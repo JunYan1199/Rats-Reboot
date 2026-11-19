@@ -1,0 +1,16 @@
+{
+ "name": "牧场主上岗",
+ "icon": "rats:brick_hat_cowboy",
+ "category": "rats:brick",
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "text": "圈定牧场，准备适合动物的食物与工具，在职业界面设置繁殖上限。按需要安排喂养、剪毛或挤奶。"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:brick_hat_cowboy"
+  }
+ ],
+ "sortnum": 6
+}

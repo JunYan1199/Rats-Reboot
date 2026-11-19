@@ -1,0 +1,17 @@
+{
+ "name": "老鼠哨子",
+ "icon": "rats:rat_whistle",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_whistle",
+   "text": "将附近被驯服的老鼠传送到“老鼠家”的坐标$(br2)玩法：$(l:keeping/5553c131c90cee92)指挥与管理工具$(/l)$(br2)登记名：$(br)rats:rat_whistle"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_whistle"
+  }
+ ],
+ "sortnum": 280
+}

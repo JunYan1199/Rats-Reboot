@@ -1,0 +1,17 @@
+{
+ "name": "绿色老鼠房屋",
+ "icon": "rats:rat_house_green",
+ "category": "rats:index_block",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_house_green",
+   "text": "登记名：$(br)rats:rat_house_green"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:rat_houses/rat_house_green"
+  }
+ ],
+ "sortnum": 86
+}

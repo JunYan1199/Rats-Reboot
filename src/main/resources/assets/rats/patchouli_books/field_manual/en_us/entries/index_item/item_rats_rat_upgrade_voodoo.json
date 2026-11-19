@@ -1,0 +1,17 @@
+{
+ "name": "老鼠升级：巫毒娃娃",
+ "icon": "rats:rat_upgrade_voodoo",
+ "category": "rats:index_item",
+ "pages": [
+  {
+   "type": "patchouli:spotlight",
+   "item": "rats:rat_upgrade_voodoo",
+   "text": "玩法：$(l:work/7b274182edace670)老鼠升级：巫毒娃娃$(/l)$(br2)登记名：$(br)rats:rat_upgrade_voodoo"
+  },
+  {
+   "type": "patchouli:crafting",
+   "recipe": "rats:upgrades/voodoo_upgrade"
+  }
+ ],
+ "sortnum": 274
+}
